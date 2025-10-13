@@ -126,50 +126,50 @@
         "sg": {
           "m": {
             "nom": "albański",
-            "gen": "albańskego",
-            "dat": "albańskemu",
+            "gen": "albańskiego",
+            "dat": "albańskiemu",
             "acc": "albański",
-            "inst": "albańskym",
-            "loc": "albańskym",
+            "inst": "albańskim",
+            "loc": "albańskim",
             "voc": "albański"
           },
           "f": {
             "nom": "albańska",
-            "gen": "albańskej",
-            "dat": "albańskej",
+            "gen": "albańskiej",
+            "dat": "albańskiej",
             "acc": "albańską",
             "inst": "albańską",
-            "loc": "albańskej",
+            "loc": "albańskiej",
             "voc": "albańska"
           },
           "n": {
-            "nom": "albańske",
-            "gen": "albańskego",
-            "dat": "albańskemu",
-            "acc": "albańske",
-            "inst": "albańskym",
-            "loc": "albańskym",
-            "voc": "albańske"
+            "nom": "albańskie",
+            "gen": "albańskiego",
+            "dat": "albańskiemu",
+            "acc": "albańskie",
+            "inst": "albańskim",
+            "loc": "albańskim",
+            "voc": "albańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "albańscy",
             "gen": "albańskich",
-            "dat": "albańskym",
+            "dat": "albańskim",
             "acc": "albańskich",
-            "inst": "albańskymi",
+            "inst": "albańskimi",
             "loc": "albańskich",
             "voc": "albańscy"
           },
           "other": {
-            "nom": "albańske",
+            "nom": "albańskie",
             "gen": "albańskich",
-            "dat": "albańskym",
-            "acc": "albańske",
-            "inst": "albańskymi",
+            "dat": "albańskim",
+            "acc": "albańskie",
+            "inst": "albańskimi",
             "loc": "albańskich",
-            "voc": "albańske"
+            "voc": "albańskie"
           }
         }
       }
@@ -181,50 +181,50 @@
         "sg": {
           "m": {
             "nom": "algierski",
-            "gen": "algierskego",
-            "dat": "algierskemu",
+            "gen": "algierskiego",
+            "dat": "algierskiemu",
             "acc": "algierski",
-            "inst": "algierskym",
-            "loc": "algierskym",
+            "inst": "algierskim",
+            "loc": "algierskim",
             "voc": "algierski"
           },
           "f": {
             "nom": "algierska",
-            "gen": "algierskej",
-            "dat": "algierskej",
+            "gen": "algierskiej",
+            "dat": "algierskiej",
             "acc": "algierską",
             "inst": "algierską",
-            "loc": "algierskej",
+            "loc": "algierskiej",
             "voc": "algierska"
           },
           "n": {
-            "nom": "algierske",
-            "gen": "algierskego",
-            "dat": "algierskemu",
-            "acc": "algierske",
-            "inst": "algierskym",
-            "loc": "algierskym",
-            "voc": "algierske"
+            "nom": "algierskie",
+            "gen": "algierskiego",
+            "dat": "algierskiemu",
+            "acc": "algierskie",
+            "inst": "algierskim",
+            "loc": "algierskim",
+            "voc": "algierskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "algierscy",
             "gen": "algierskich",
-            "dat": "algierskym",
+            "dat": "algierskim",
             "acc": "algierskich",
-            "inst": "algierskymi",
+            "inst": "algierskimi",
             "loc": "algierskich",
             "voc": "algierscy"
           },
           "other": {
-            "nom": "algierske",
+            "nom": "algierskie",
             "gen": "algierskich",
-            "dat": "algierskym",
-            "acc": "algierske",
-            "inst": "algierskymi",
+            "dat": "algierskim",
+            "acc": "algierskie",
+            "inst": "algierskimi",
             "loc": "algierskich",
-            "voc": "algierske"
+            "voc": "algierskie"
           }
         }
       }
@@ -236,50 +236,50 @@
         "sg": {
           "m": {
             "nom": "amerykański",
-            "gen": "amerykańskego",
-            "dat": "amerykańskemu",
+            "gen": "amerykańskiego",
+            "dat": "amerykańskiemu",
             "acc": "amerykański",
-            "inst": "amerykańskym",
-            "loc": "amerykańskym",
+            "inst": "amerykańskim",
+            "loc": "amerykańskim",
             "voc": "amerykański"
           },
           "f": {
             "nom": "amerykańska",
-            "gen": "amerykańskej",
-            "dat": "amerykańskej",
+            "gen": "amerykańskiej",
+            "dat": "amerykańskiej",
             "acc": "amerykańską",
             "inst": "amerykańską",
-            "loc": "amerykańskej",
+            "loc": "amerykańskiej",
             "voc": "amerykańska"
           },
           "n": {
-            "nom": "amerykańske",
-            "gen": "amerykańskego",
-            "dat": "amerykańskemu",
-            "acc": "amerykańske",
-            "inst": "amerykańskym",
-            "loc": "amerykańskym",
-            "voc": "amerykańske"
+            "nom": "amerykańskie",
+            "gen": "amerykańskiego",
+            "dat": "amerykańskiemu",
+            "acc": "amerykańskie",
+            "inst": "amerykańskim",
+            "loc": "amerykańskim",
+            "voc": "amerykańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "amerykańscy",
             "gen": "amerykańskich",
-            "dat": "amerykańskym",
+            "dat": "amerykańskim",
             "acc": "amerykańskich",
-            "inst": "amerykańskymi",
+            "inst": "amerykańskimi",
             "loc": "amerykańskich",
             "voc": "amerykańscy"
           },
           "other": {
-            "nom": "amerykańske",
+            "nom": "amerykańskie",
             "gen": "amerykańskich",
-            "dat": "amerykańskym",
-            "acc": "amerykańske",
-            "inst": "amerykańskymi",
+            "dat": "amerykańskim",
+            "acc": "amerykańskie",
+            "inst": "amerykańskimi",
             "loc": "amerykańskich",
-            "voc": "amerykańske"
+            "voc": "amerykańskie"
           }
         }
       }
@@ -346,50 +346,50 @@
         "sg": {
           "m": {
             "nom": "argentyński",
-            "gen": "argentyńskego",
-            "dat": "argentyńskemu",
+            "gen": "argentyńskiego",
+            "dat": "argentyńskiemu",
             "acc": "argentyński",
-            "inst": "argentyńskym",
-            "loc": "argentyńskym",
+            "inst": "argentyńskim",
+            "loc": "argentyńskim",
             "voc": "argentyński"
           },
           "f": {
             "nom": "argentyńska",
-            "gen": "argentyńskej",
-            "dat": "argentyńskej",
+            "gen": "argentyńskiej",
+            "dat": "argentyńskiej",
             "acc": "argentyńską",
             "inst": "argentyńską",
-            "loc": "argentyńskej",
+            "loc": "argentyńskiej",
             "voc": "argentyńska"
           },
           "n": {
-            "nom": "argentyńske",
-            "gen": "argentyńskego",
-            "dat": "argentyńskemu",
-            "acc": "argentyńske",
-            "inst": "argentyńskym",
-            "loc": "argentyńskym",
-            "voc": "argentyńske"
+            "nom": "argentyńskie",
+            "gen": "argentyńskiego",
+            "dat": "argentyńskiemu",
+            "acc": "argentyńskie",
+            "inst": "argentyńskim",
+            "loc": "argentyńskim",
+            "voc": "argentyńskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "argentyńscy",
             "gen": "argentyńskich",
-            "dat": "argentyńskym",
+            "dat": "argentyńskim",
             "acc": "argentyńskich",
-            "inst": "argentyńskymi",
+            "inst": "argentyńskimi",
             "loc": "argentyńskich",
             "voc": "argentyńscy"
           },
           "other": {
-            "nom": "argentyńske",
+            "nom": "argentyńskie",
             "gen": "argentyńskich",
-            "dat": "argentyńskym",
-            "acc": "argentyńske",
-            "inst": "argentyńskymi",
+            "dat": "argentyńskim",
+            "acc": "argentyńskie",
+            "inst": "argentyńskimi",
             "loc": "argentyńskich",
-            "voc": "argentyńske"
+            "voc": "argentyńskie"
           }
         }
       }
@@ -814,13 +814,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "bieli",
+            "nom": "biali",
             "gen": "białych",
             "dat": "białym",
             "acc": "białych",
             "inst": "białymi",
             "loc": "białych",
-            "voc": "bieli"
+            "voc": "biali"
           },
           "other": {
             "nom": "białe",
@@ -5748,7 +5748,7 @@
             "gen": "izraelskiej",
             "dat": "izraelskiej",
             "acc": "izraelską",
-            "inst": "izraelska",
+            "inst": "izraelską",
             "loc": "izraelskiej",
             "voc": "izraelska"
           },
@@ -6176,50 +6176,50 @@
         "sg": {
           "m": {
             "nom": "kanadyjski",
-            "gen": "kanadyjskego",
-            "dat": "kanadyjskemu",
+            "gen": "kanadyjskiego",
+            "dat": "kanadyjskiemu",
             "acc": "kanadyjski",
-            "inst": "kanadyjskym",
-            "loc": "kanadyjskym",
+            "inst": "kanadyjskim",
+            "loc": "kanadyjskim",
             "voc": "kanadyjski"
           },
           "f": {
             "nom": "kanadyjska",
-            "gen": "kanadyjskej",
-            "dat": "kanadyjskej",
+            "gen": "kanadyjskiej",
+            "dat": "kanadyjskiej",
             "acc": "kanadyjską",
             "inst": "kanadyjską",
-            "loc": "kanadyjskej",
+            "loc": "kanadyjskiej",
             "voc": "kanadyjska"
           },
           "n": {
-            "nom": "kanadyjske",
-            "gen": "kanadyjskego",
-            "dat": "kanadyjskemu",
-            "acc": "kanadyjske",
-            "inst": "kanadyjskym",
-            "loc": "kanadyjskym",
-            "voc": "kanadyjske"
+            "nom": "kanadyjskie",
+            "gen": "kanadyjskiego",
+            "dat": "kanadyjskiemu",
+            "acc": "kanadyjskie",
+            "inst": "kanadyjskim",
+            "loc": "kanadyjskim",
+            "voc": "kanadyjskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "kanadyjscy",
             "gen": "kanadyjskich",
-            "dat": "kanadyjskym",
+            "dat": "kanadyjskim",
             "acc": "kanadyjskich",
-            "inst": "kanadyjskymi",
+            "inst": "kanadyjskimi",
             "loc": "kanadyjskich",
             "voc": "kanadyjscy"
           },
           "other": {
-            "nom": "kanadyjske",
+            "nom": "kanadyjskie",
             "gen": "kanadyjskich",
-            "dat": "kanadyjskym",
-            "acc": "kanadyjske",
-            "inst": "kanadyjskymi",
+            "dat": "kanadyjskim",
+            "acc": "kanadyjskie",
+            "inst": "kanadyjskimi",
             "loc": "kanadyjskich",
-            "voc": "kanadyjske"
+            "voc": "kanadyjskie"
           }
         }
       }
@@ -6231,50 +6231,50 @@
         "sg": {
           "m": {
             "nom": "katarski",
-            "gen": "katarskego",
-            "dat": "katarskemu",
+            "gen": "katarskiego",
+            "dat": "katarskiemu",
             "acc": "katarski",
-            "inst": "katarskym",
-            "loc": "katarskym",
+            "inst": "katarskim",
+            "loc": "katarskim",
             "voc": "katarski"
           },
           "f": {
             "nom": "katarska",
-            "gen": "katarskej",
-            "dat": "katarskej",
+            "gen": "katarskiej",
+            "dat": "katarskiej",
             "acc": "katarską",
             "inst": "katarską",
-            "loc": "katarskej",
+            "loc": "katarskiej",
             "voc": "katarska"
           },
           "n": {
-            "nom": "katarske",
-            "gen": "katarskego",
-            "dat": "katarskemu",
-            "acc": "katarske",
-            "inst": "katarskym",
-            "loc": "katarskym",
-            "voc": "katarske"
+            "nom": "katarskie",
+            "gen": "katarskiego",
+            "dat": "katarskiemu",
+            "acc": "katarskie",
+            "inst": "katarskim",
+            "loc": "katarskim",
+            "voc": "katarskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "katarscy",
             "gen": "katarskich",
-            "dat": "katarskym",
+            "dat": "katarskim",
             "acc": "katarskich",
-            "inst": "katarskymi",
+            "inst": "katarskimi",
             "loc": "katarskich",
             "voc": "katarscy"
           },
           "other": {
-            "nom": "katarske",
+            "nom": "katarskie",
             "gen": "katarskich",
-            "dat": "katarskym",
-            "acc": "katarske",
-            "inst": "katarskymi",
+            "dat": "katarskim",
+            "acc": "katarskie",
+            "inst": "katarskimi",
             "loc": "katarskich",
-            "voc": "katarske"
+            "voc": "katarskie"
           }
         }
       }
@@ -6286,50 +6286,50 @@
         "sg": {
           "m": {
             "nom": "kenijski",
-            "gen": "kenijskego",
-            "dat": "kenijskemu",
+            "gen": "kenijskiego",
+            "dat": "kenijskiemu",
             "acc": "kenijski",
-            "inst": "kenijskym",
-            "loc": "kenijskym",
+            "inst": "kenijskim",
+            "loc": "kenijskim",
             "voc": "kenijski"
           },
           "f": {
             "nom": "kenijska",
-            "gen": "kenijskej",
-            "dat": "kenijskej",
+            "gen": "kenijskiej",
+            "dat": "kenijskiej",
             "acc": "kenijską",
             "inst": "kenijską",
-            "loc": "kenijskej",
+            "loc": "kenijskiej",
             "voc": "kenijska"
           },
           "n": {
-            "nom": "kenijske",
-            "gen": "kenijskego",
-            "dat": "kenijskemu",
-            "acc": "kenijske",
-            "inst": "kenijskym",
-            "loc": "kenijskym",
-            "voc": "kenijske"
+            "nom": "kenijskie",
+            "gen": "kenijskiego",
+            "dat": "kenijskiemu",
+            "acc": "kenijskie",
+            "inst": "kenijskim",
+            "loc": "kenijskim",
+            "voc": "kenijskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "kenijscy",
             "gen": "kenijskich",
-            "dat": "kenijskym",
+            "dat": "kenijskim",
             "acc": "kenijskich",
-            "inst": "kenijskymi",
+            "inst": "kenijskimi",
             "loc": "kenijskich",
             "voc": "kenijscy"
           },
           "other": {
-            "nom": "kenijske",
+            "nom": "kenijskie",
             "gen": "kenijskich",
-            "dat": "kenijskym",
-            "acc": "kenijske",
-            "inst": "kenijskymi",
+            "dat": "kenijskim",
+            "acc": "kenijskie",
+            "inst": "kenijskimi",
             "loc": "kenijskich",
-            "voc": "kenijske"
+            "voc": "kenijskie"
           }
         }
       }
@@ -6396,50 +6396,50 @@
         "sg": {
           "m": {
             "nom": "kolumbijski",
-            "gen": "kolumbijskego",
-            "dat": "kolumbijskemu",
+            "gen": "kolumbijskiego",
+            "dat": "kolumbijskiemu",
             "acc": "kolumbijski",
-            "inst": "kolumbijskym",
-            "loc": "kolumbijskym",
+            "inst": "kolumbijskim",
+            "loc": "kolumbijskim",
             "voc": "kolumbijski"
           },
           "f": {
             "nom": "kolumbijska",
-            "gen": "kolumbijskej",
-            "dat": "kolumbijskej",
+            "gen": "kolumbijskiej",
+            "dat": "kolumbijskiej",
             "acc": "kolumbijską",
             "inst": "kolumbijską",
-            "loc": "kolumbijskej",
+            "loc": "kolumbijskiej",
             "voc": "kolumbijska"
           },
           "n": {
-            "nom": "kolumbijske",
-            "gen": "kolumbijskego",
-            "dat": "kolumbijskemu",
-            "acc": "kolumbijske",
-            "inst": "kolumbijskym",
-            "loc": "kolumbijskym",
-            "voc": "kolumbijske"
+            "nom": "kolumbijskie",
+            "gen": "kolumbijskiego",
+            "dat": "kolumbijskiemu",
+            "acc": "kolumbijskie",
+            "inst": "kolumbijskim",
+            "loc": "kolumbijskim",
+            "voc": "kolumbijskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "kolumbijscy",
             "gen": "kolumbijskich",
-            "dat": "kolumbijskym",
+            "dat": "kolumbijskim",
             "acc": "kolumbijskich",
-            "inst": "kolumbijskymi",
+            "inst": "kolumbijskimi",
             "loc": "kolumbijskich",
             "voc": "kolumbijscy"
           },
           "other": {
-            "nom": "kolumbijske",
+            "nom": "kolumbijskie",
             "gen": "kolumbijskich",
-            "dat": "kolumbijskym",
-            "acc": "kolumbijske",
-            "inst": "kolumbijskymi",
+            "dat": "kolumbijskim",
+            "acc": "kolumbijskie",
+            "inst": "kolumbijskimi",
             "loc": "kolumbijskich",
-            "voc": "kolumbijske"
+            "voc": "kolumbijskie"
           }
         }
       }
@@ -6726,50 +6726,50 @@
         "sg": {
           "m": {
             "nom": "krótki",
-            "gen": "krótkego",
-            "dat": "krótkemu",
+            "gen": "krótkiego",
+            "dat": "krótkiemu",
             "acc": "krótki",
-            "inst": "krótkym",
-            "loc": "krótkym",
+            "inst": "krótkim",
+            "loc": "krótkim",
             "voc": "krótki"
           },
           "f": {
             "nom": "krótka",
-            "gen": "krótkej",
-            "dat": "krótkej",
+            "gen": "krótkiej",
+            "dat": "krótkiej",
             "acc": "krótką",
             "inst": "krótką",
-            "loc": "krótkej",
+            "loc": "krótkiej",
             "voc": "krótka"
           },
           "n": {
-            "nom": "krótke",
-            "gen": "krótkego",
-            "dat": "krótkemu",
-            "acc": "krótke",
-            "inst": "krótkym",
-            "loc": "krótkym",
-            "voc": "krótke"
+            "nom": "krótkie",
+            "gen": "krótkiego",
+            "dat": "krótkiemu",
+            "acc": "krótkie",
+            "inst": "krótkim",
+            "loc": "krótkim",
+            "voc": "krótkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "krótki",
+            "nom": "króccy",
             "gen": "krótkich",
-            "dat": "krótkym",
+            "dat": "krótkim",
             "acc": "krótkich",
-            "inst": "krótkymi",
+            "inst": "krótkimi",
             "loc": "krótkich",
-            "voc": "krótki"
+            "voc": "króccy"
           },
           "other": {
-            "nom": "krótke",
+            "nom": "krótkie",
             "gen": "krótkich",
-            "dat": "krótkym",
-            "acc": "krótke",
-            "inst": "krótkymi",
+            "dat": "krótkim",
+            "acc": "krótkie",
+            "inst": "krótkimi",
             "loc": "krótkich",
-            "voc": "krótke"
+            "voc": "krótkie"
           }
         }
       }
@@ -7001,50 +7001,50 @@
         "sg": {
           "m": {
             "nom": "lekarski",
-            "gen": "lekarskego",
-            "dat": "lekarskemu",
+            "gen": "lekarskiego",
+            "dat": "lekarskiemu",
             "acc": "lekarski",
-            "inst": "lekarskym",
-            "loc": "lekarskym",
+            "inst": "lekarskim",
+            "loc": "lekarskim",
             "voc": "lekarski"
           },
           "f": {
             "nom": "lekarska",
-            "gen": "lekarskej",
-            "dat": "lekarskej",
+            "gen": "lekarskiej",
+            "dat": "lekarskiej",
             "acc": "lekarską",
             "inst": "lekarską",
-            "loc": "lekarskej",
+            "loc": "lekarskiej",
             "voc": "lekarska"
           },
           "n": {
-            "nom": "lekarske",
-            "gen": "lekarskego",
-            "dat": "lekarskemu",
-            "acc": "lekarske",
-            "inst": "lekarskym",
-            "loc": "lekarskym",
-            "voc": "lekarske"
+            "nom": "lekarskie",
+            "gen": "lekarskiego",
+            "dat": "lekarskiemu",
+            "acc": "lekarskie",
+            "inst": "lekarskim",
+            "loc": "lekarskim",
+            "voc": "lekarskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "lekarscy",
             "gen": "lekarskich",
-            "dat": "lekarskym",
+            "dat": "lekarskim",
             "acc": "lekarskich",
-            "inst": "lekarskymi",
+            "inst": "lekarskimi",
             "loc": "lekarskich",
             "voc": "lekarscy"
           },
           "other": {
-            "nom": "lekarske",
+            "nom": "lekarskie",
             "gen": "lekarskich",
-            "dat": "lekarskym",
-            "acc": "lekarske",
-            "inst": "lekarskymi",
+            "dat": "lekarskim",
+            "acc": "lekarskie",
+            "inst": "lekarskimi",
             "loc": "lekarskich",
-            "voc": "lekarske"
+            "voc": "lekarskie"
           }
         }
       }
@@ -7056,50 +7056,50 @@
         "sg": {
           "m": {
             "nom": "lekki",
-            "gen": "lekkego",
-            "dat": "lekkemu",
+            "gen": "lekkiego",
+            "dat": "lekkiemu",
             "acc": "lekki",
-            "inst": "lekkym",
-            "loc": "lekkym",
+            "inst": "lekkim",
+            "loc": "lekkim",
             "voc": "lekki"
           },
           "f": {
             "nom": "lekka",
-            "gen": "lekkej",
-            "dat": "lekkej",
+            "gen": "lekkiej",
+            "dat": "lekkiej",
             "acc": "lekką",
             "inst": "lekką",
-            "loc": "lekkej",
+            "loc": "lekkiej",
             "voc": "lekka"
           },
           "n": {
-            "nom": "lekke",
-            "gen": "lekkego",
-            "dat": "lekkemu",
-            "acc": "lekke",
-            "inst": "lekkym",
-            "loc": "lekkym",
-            "voc": "lekke"
+            "nom": "lekkie",
+            "gen": "lekkiego",
+            "dat": "lekkiemu",
+            "acc": "lekkie",
+            "inst": "lekkim",
+            "loc": "lekkim",
+            "voc": "lekkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "lekki",
+            "nom": "leccy",
             "gen": "lekkich",
-            "dat": "lekkym",
+            "dat": "lekkim",
             "acc": "lekkich",
-            "inst": "lekkymi",
+            "inst": "lekkimi",
             "loc": "lekkich",
-            "voc": "lekki"
+            "voc": "leccy"
           },
           "other": {
-            "nom": "lekke",
+            "nom": "lekkie",
             "gen": "lekkich",
-            "dat": "lekkym",
-            "acc": "lekke",
-            "inst": "lekkymi",
+            "dat": "lekkim",
+            "acc": "lekkie",
+            "inst": "lekkimi",
             "loc": "lekkich",
-            "voc": "lekke"
+            "voc": "lekkie"
           }
         }
       }
@@ -7194,13 +7194,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "lepszi",
+            "nom": "lepsi",
             "gen": "lepszych",
             "dat": "lepszym",
             "acc": "lepszych",
             "inst": "lepszymi",
             "loc": "lepszych",
-            "voc": "lepszi"
+            "voc": "lepsi"
           },
           "other": {
             "nom": "lepsze",
@@ -7221,50 +7221,50 @@
         "sg": {
           "m": {
             "nom": "literacki",
-            "gen": "literackego",
-            "dat": "literackemu",
+            "gen": "literackiego",
+            "dat": "literackiemu",
             "acc": "literacki",
-            "inst": "literackym",
-            "loc": "literackym",
+            "inst": "literackim",
+            "loc": "literackim",
             "voc": "literacki"
           },
           "f": {
             "nom": "literacka",
-            "gen": "literackej",
-            "dat": "literackej",
+            "gen": "literackiej",
+            "dat": "literackiej",
             "acc": "literacką",
             "inst": "literacką",
-            "loc": "literackej",
+            "loc": "literackiej",
             "voc": "literacka"
           },
           "n": {
-            "nom": "literacke",
-            "gen": "literackego",
-            "dat": "literackemu",
-            "acc": "literacke",
-            "inst": "literackym",
-            "loc": "literackym",
-            "voc": "literacke"
+            "nom": "literackie",
+            "gen": "literackiego",
+            "dat": "literackiemu",
+            "acc": "literackie",
+            "inst": "literackim",
+            "loc": "literackim",
+            "voc": "literackie"
           }
         },
         "pl": {
           "m1": {
             "nom": "literaccy",
             "gen": "literackich",
-            "dat": "literackym",
+            "dat": "literackim",
             "acc": "literackich",
-            "inst": "literackymi",
+            "inst": "literackimi",
             "loc": "literackich",
             "voc": "literaccy"
           },
           "other": {
-            "nom": "literacke",
+            "nom": "literackie",
             "gen": "literackich",
-            "dat": "literackym",
-            "acc": "literacke",
-            "inst": "literackymi",
+            "dat": "literackim",
+            "acc": "literackie",
+            "inst": "literackimi",
             "loc": "literackich",
-            "voc": "literacke"
+            "voc": "literackie"
           }
         }
       }
@@ -7276,50 +7276,50 @@
         "sg": {
           "m": {
             "nom": "litewski",
-            "gen": "litewskego",
-            "dat": "litewskemu",
+            "gen": "litewskiego",
+            "dat": "litewskiemu",
             "acc": "litewski",
-            "inst": "litewskym",
-            "loc": "litewskym",
+            "inst": "litewskim",
+            "loc": "litewskim",
             "voc": "litewski"
           },
           "f": {
             "nom": "litewska",
-            "gen": "litewskej",
-            "dat": "litewskej",
+            "gen": "litewskiej",
+            "dat": "litewskiej",
             "acc": "litewską",
             "inst": "litewską",
-            "loc": "litewskej",
+            "loc": "litewskiej",
             "voc": "litewska"
           },
           "n": {
-            "nom": "litewske",
-            "gen": "litewskego",
-            "dat": "litewskemu",
-            "acc": "litewske",
-            "inst": "litewskym",
-            "loc": "litewskym",
-            "voc": "litewske"
+            "nom": "litewskie",
+            "gen": "litewskiego",
+            "dat": "litewskiemu",
+            "acc": "litewskie",
+            "inst": "litewskim",
+            "loc": "litewskim",
+            "voc": "litewskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "litewscy",
             "gen": "litewskich",
-            "dat": "litewskym",
+            "dat": "litewskim",
             "acc": "litewskich",
-            "inst": "litewskymi",
+            "inst": "litewskimi",
             "loc": "litewskich",
             "voc": "litewscy"
           },
           "other": {
-            "nom": "litewske",
+            "nom": "litewskie",
             "gen": "litewskich",
-            "dat": "litewskym",
-            "acc": "litewske",
-            "inst": "litewskymi",
+            "dat": "litewskim",
+            "acc": "litewskie",
+            "inst": "litewskimi",
             "loc": "litewskich",
-            "voc": "litewske"
+            "voc": "litewskie"
           }
         }
       }
@@ -7441,50 +7441,50 @@
         "sg": {
           "m": {
             "nom": "marokański",
-            "gen": "marokańskego",
-            "dat": "marokańskemu",
+            "gen": "marokańskiego",
+            "dat": "marokańskiemu",
             "acc": "marokański",
-            "inst": "marokańskym",
-            "loc": "marokańskym",
+            "inst": "marokańskim",
+            "loc": "marokańskim",
             "voc": "marokański"
           },
           "f": {
             "nom": "marokańska",
-            "gen": "marokańskej",
-            "dat": "marokańskej",
+            "gen": "marokańskiej",
+            "dat": "marokańskiej",
             "acc": "marokańską",
             "inst": "marokańską",
-            "loc": "marokańskej",
+            "loc": "marokańskiej",
             "voc": "marokańska"
           },
           "n": {
-            "nom": "marokańske",
-            "gen": "marokańskego",
-            "dat": "marokańskemu",
-            "acc": "marokańske",
-            "inst": "marokańskym",
-            "loc": "marokańskym",
-            "voc": "marokańske"
+            "nom": "marokańskie",
+            "gen": "marokańskiego",
+            "dat": "marokańskiemu",
+            "acc": "marokańskie",
+            "inst": "marokańskim",
+            "loc": "marokańskim",
+            "voc": "marokańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "marokańscy",
             "gen": "marokańskich",
-            "dat": "marokańskym",
+            "dat": "marokańskim",
             "acc": "marokańskich",
-            "inst": "marokańskymi",
+            "inst": "marokańskimi",
             "loc": "marokańskich",
             "voc": "marokańscy"
           },
           "other": {
-            "nom": "marokańske",
+            "nom": "marokańskie",
             "gen": "marokańskich",
-            "dat": "marokańskym",
-            "acc": "marokańske",
-            "inst": "marokańskymi",
+            "dat": "marokańskim",
+            "acc": "marokańskie",
+            "inst": "marokańskimi",
             "loc": "marokańskich",
-            "voc": "marokańske"
+            "voc": "marokańskie"
           }
         }
       }
@@ -7606,50 +7606,50 @@
         "sg": {
           "m": {
             "nom": "meksykański",
-            "gen": "meksykańskego",
-            "dat": "meksykańskemu",
+            "gen": "meksykańskiego",
+            "dat": "meksykańskiemu",
             "acc": "meksykański",
-            "inst": "meksykańskym",
-            "loc": "meksykańskym",
+            "inst": "meksykańskim",
+            "loc": "meksykańskim",
             "voc": "meksykański"
           },
           "f": {
             "nom": "meksykańska",
-            "gen": "meksykańskej",
-            "dat": "meksykańskej",
+            "gen": "meksykańskiej",
+            "dat": "meksykańskiej",
             "acc": "meksykańską",
             "inst": "meksykańską",
-            "loc": "meksykańskej",
+            "loc": "meksykańskiej",
             "voc": "meksykańska"
           },
           "n": {
-            "nom": "meksykańske",
-            "gen": "meksykańskego",
-            "dat": "meksykańskemu",
-            "acc": "meksykańske",
-            "inst": "meksykańskym",
-            "loc": "meksykańskym",
-            "voc": "meksykańske"
+            "nom": "meksykańskie",
+            "gen": "meksykańskiego",
+            "dat": "meksykańskiemu",
+            "acc": "meksykańskie",
+            "inst": "meksykańskim",
+            "loc": "meksykańskim",
+            "voc": "meksykańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "meksykańscy",
             "gen": "meksykańskich",
-            "dat": "meksykańskym",
+            "dat": "meksykańskim",
             "acc": "meksykańskich",
-            "inst": "meksykańskymi",
+            "inst": "meksykańskimi",
             "loc": "meksykańskich",
             "voc": "meksykańscy"
           },
           "other": {
-            "nom": "meksykańske",
+            "nom": "meksykańskie",
             "gen": "meksykańskich",
-            "dat": "meksykańskym",
-            "acc": "meksykańske",
-            "inst": "meksykańskymi",
+            "dat": "meksykańskim",
+            "acc": "meksykańskie",
+            "inst": "meksykańskimi",
             "loc": "meksykańskich",
-            "voc": "meksykańske"
+            "voc": "meksykańskie"
           }
         }
       }
@@ -7661,50 +7661,50 @@
         "sg": {
           "m": {
             "nom": "miejski",
-            "gen": "miejskego",
-            "dat": "miejskemu",
+            "gen": "miejskiego",
+            "dat": "miejskiemu",
             "acc": "miejski",
-            "inst": "miejskym",
-            "loc": "miejskym",
+            "inst": "miejskim",
+            "loc": "miejskim",
             "voc": "miejski"
           },
           "f": {
             "nom": "miejska",
-            "gen": "miejskej",
-            "dat": "miejskej",
+            "gen": "miejskiej",
+            "dat": "miejskiej",
             "acc": "miejską",
             "inst": "miejską",
-            "loc": "miejskej",
+            "loc": "miejskiej",
             "voc": "miejska"
           },
           "n": {
-            "nom": "miejske",
-            "gen": "miejskego",
-            "dat": "miejskemu",
-            "acc": "miejske",
-            "inst": "miejskym",
-            "loc": "miejskym",
-            "voc": "miejske"
+            "nom": "miejskie",
+            "gen": "miejskiego",
+            "dat": "miejskiemu",
+            "acc": "miejskie",
+            "inst": "miejskim",
+            "loc": "miejskim",
+            "voc": "miejskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "miejscy",
             "gen": "miejskich",
-            "dat": "miejskym",
+            "dat": "miejskim",
             "acc": "miejskich",
-            "inst": "miejskymi",
+            "inst": "miejskimi",
             "loc": "miejskich",
             "voc": "miejscy"
           },
           "other": {
-            "nom": "miejske",
+            "nom": "miejskie",
             "gen": "miejskich",
-            "dat": "miejskym",
-            "acc": "miejske",
-            "inst": "miejskymi",
+            "dat": "miejskim",
+            "acc": "miejskie",
+            "inst": "miejskimi",
             "loc": "miejskich",
-            "voc": "miejske"
+            "voc": "miejskie"
           }
         }
       }
@@ -7826,50 +7826,50 @@
         "sg": {
           "m": {
             "nom": "miękki",
-            "gen": "miękkego",
-            "dat": "miękkemu",
+            "gen": "miękkiego",
+            "dat": "miękkiemu",
             "acc": "miękki",
-            "inst": "miękkym",
-            "loc": "miękkym",
+            "inst": "miękkim",
+            "loc": "miękkim",
             "voc": "miękki"
           },
           "f": {
             "nom": "miękka",
-            "gen": "miękkej",
-            "dat": "miękkej",
+            "gen": "miękkiej",
+            "dat": "miękkiej",
             "acc": "miękką",
             "inst": "miękką",
-            "loc": "miękkej",
+            "loc": "miękkiej",
             "voc": "miękka"
           },
           "n": {
-            "nom": "miękke",
-            "gen": "miękkego",
-            "dat": "miękkemu",
-            "acc": "miękke",
-            "inst": "miękkym",
-            "loc": "miękkym",
-            "voc": "miękke"
+            "nom": "miękkie",
+            "gen": "miękkiego",
+            "dat": "miękkiemu",
+            "acc": "miękkie",
+            "inst": "miękkim",
+            "loc": "miękkim",
+            "voc": "miękkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "miękki",
+            "nom": "miękcy",
             "gen": "miękkich",
-            "dat": "miękkym",
+            "dat": "miękkim",
             "acc": "miękkich",
-            "inst": "miękkymi",
+            "inst": "miękkimi",
             "loc": "miękkich",
-            "voc": "miękki"
+            "voc": "miękcy"
           },
           "other": {
-            "nom": "miękke",
+            "nom": "miękkie",
             "gen": "miękkich",
-            "dat": "miękkym",
-            "acc": "miękke",
-            "inst": "miękkymi",
+            "dat": "miękkim",
+            "acc": "miękkie",
+            "inst": "miękkimi",
             "loc": "miękkich",
-            "voc": "miękke"
+            "voc": "miękkie"
           }
         }
       }
@@ -7964,13 +7964,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "mniejszi",
+            "nom": "mniejsi",
             "gen": "mniejszych",
             "dat": "mniejszym",
             "acc": "mniejszych",
             "inst": "mniejszymi",
             "loc": "mniejszych",
-            "voc": "mniejszi"
+            "voc": "mniejsi"
           },
           "other": {
             "nom": "mniejsze",
@@ -8294,13 +8294,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "młodi",
+            "nom": "młodzi",
             "gen": "młodych",
             "dat": "młodym",
             "acc": "młodych",
             "inst": "młodymi",
             "loc": "młodych",
-            "voc": "młodi"
+            "voc": "młodzi"
           },
           "other": {
             "nom": "młode",
@@ -8486,50 +8486,50 @@
         "sg": {
           "m": {
             "nom": "niebieski",
-            "gen": "niebieskego",
-            "dat": "niebieskemu",
+            "gen": "niebieskiego",
+            "dat": "niebieskiemu",
             "acc": "niebieski",
-            "inst": "niebieskym",
-            "loc": "niebieskym",
+            "inst": "niebieskim",
+            "loc": "niebieskim",
             "voc": "niebieski"
           },
           "f": {
             "nom": "niebieska",
-            "gen": "niebieskej",
-            "dat": "niebieskej",
+            "gen": "niebieskiej",
+            "dat": "niebieskiej",
             "acc": "niebieską",
             "inst": "niebieską",
-            "loc": "niebieskej",
+            "loc": "niebieskiej",
             "voc": "niebieska"
           },
           "n": {
-            "nom": "niebieske",
-            "gen": "niebieskego",
-            "dat": "niebieskemu",
-            "acc": "niebieske",
-            "inst": "niebieskym",
-            "loc": "niebieskym",
-            "voc": "niebieske"
+            "nom": "niebieskie",
+            "gen": "niebieskiego",
+            "dat": "niebieskiemu",
+            "acc": "niebieskie",
+            "inst": "niebieskim",
+            "loc": "niebieskim",
+            "voc": "niebieskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "niebiescy",
             "gen": "niebieskich",
-            "dat": "niebieskym",
+            "dat": "niebieskim",
             "acc": "niebieskich",
-            "inst": "niebieskymi",
+            "inst": "niebieskimi",
             "loc": "niebieskich",
             "voc": "niebiescy"
           },
           "other": {
-            "nom": "niebieske",
+            "nom": "niebieskie",
             "gen": "niebieskich",
-            "dat": "niebieskym",
-            "acc": "niebieske",
-            "inst": "niebieskymi",
+            "dat": "niebieskim",
+            "acc": "niebieskie",
+            "inst": "niebieskimi",
             "loc": "niebieskich",
-            "voc": "niebieske"
+            "voc": "niebieskie"
           }
         }
       }
@@ -8596,50 +8596,50 @@
         "sg": {
           "m": {
             "nom": "niemiecki",
-            "gen": "niemieckego",
-            "dat": "niemieckemu",
+            "gen": "niemieckiego",
+            "dat": "niemieckiemu",
             "acc": "niemiecki",
-            "inst": "niemieckym",
-            "loc": "niemieckym",
+            "inst": "niemieckim",
+            "loc": "niemieckim",
             "voc": "niemiecki"
           },
           "f": {
             "nom": "niemiecka",
-            "gen": "niemieckej",
-            "dat": "niemieckej",
+            "gen": "niemieckiej",
+            "dat": "niemieckiej",
             "acc": "niemiecką",
             "inst": "niemiecką",
-            "loc": "niemieckej",
+            "loc": "niemieckiej",
             "voc": "niemiecka"
           },
           "n": {
-            "nom": "niemiecke",
-            "gen": "niemieckego",
-            "dat": "niemieckemu",
-            "acc": "niemiecke",
-            "inst": "niemieckym",
-            "loc": "niemieckym",
-            "voc": "niemiecke"
+            "nom": "niemieckie",
+            "gen": "niemieckiego",
+            "dat": "niemieckiemu",
+            "acc": "niemieckie",
+            "inst": "niemieckim",
+            "loc": "niemieckim",
+            "voc": "niemieckie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "niemieccy",
+            "nom": "niemcy",
             "gen": "niemieckich",
-            "dat": "niemieckym",
+            "dat": "niemieckim",
             "acc": "niemieckich",
-            "inst": "niemieckymi",
+            "inst": "niemieckimi",
             "loc": "niemieckich",
-            "voc": "niemieccy"
+            "voc": "niemcy"
           },
           "other": {
-            "nom": "niemiecke",
+            "nom": "niemieckie",
             "gen": "niemieckich",
-            "dat": "niemieckym",
-            "acc": "niemiecke",
-            "inst": "niemieckymi",
+            "dat": "niemieckim",
+            "acc": "niemieckie",
+            "inst": "niemieckimi",
             "loc": "niemieckich",
-            "voc": "niemiecke"
+            "voc": "niemieckie"
           }
         }
       }
@@ -9036,50 +9036,50 @@
         "sg": {
           "m": {
             "nom": "niski",
-            "gen": "niskego",
-            "dat": "niskemu",
+            "gen": "niskiego",
+            "dat": "niskiemu",
             "acc": "niski",
-            "inst": "niskym",
-            "loc": "niskym",
+            "inst": "niskim",
+            "loc": "niskim",
             "voc": "niski"
           },
           "f": {
             "nom": "niska",
-            "gen": "niskej",
-            "dat": "niskej",
+            "gen": "niskiej",
+            "dat": "niskiej",
             "acc": "niską",
             "inst": "niską",
-            "loc": "niskej",
+            "loc": "niskiej",
             "voc": "niska"
           },
           "n": {
-            "nom": "niske",
-            "gen": "niskego",
-            "dat": "niskemu",
-            "acc": "niske",
-            "inst": "niskym",
-            "loc": "niskym",
-            "voc": "niske"
+            "nom": "niskie",
+            "gen": "niskiego",
+            "dat": "niskiemu",
+            "acc": "niskie",
+            "inst": "niskim",
+            "loc": "niskim",
+            "voc": "niskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "niscy",
             "gen": "niskich",
-            "dat": "niskym",
+            "dat": "niskim",
             "acc": "niskich",
-            "inst": "niskymi",
+            "inst": "niskimi",
             "loc": "niskich",
             "voc": "niscy"
           },
           "other": {
-            "nom": "niske",
+            "nom": "niskie",
             "gen": "niskich",
-            "dat": "niskym",
-            "acc": "niske",
-            "inst": "niskymi",
+            "dat": "niskim",
+            "acc": "niskie",
+            "inst": "niskimi",
             "loc": "niskich",
-            "voc": "niske"
+            "voc": "niskie"
           }
         }
       }
@@ -9119,13 +9119,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "niższi",
+            "nom": "niżsi",
             "gen": "niższych",
             "dat": "niższym",
             "acc": "niższych",
             "inst": "niższymi",
             "loc": "niższych",
-            "voc": "niższi"
+            "voc": "niżsi"
           },
           "other": {
             "nom": "niższe",
@@ -9201,50 +9201,50 @@
         "sg": {
           "m": {
             "nom": "norweski",
-            "gen": "norweskego",
-            "dat": "norweskemu",
+            "gen": "norweskiego",
+            "dat": "norweskiemu",
             "acc": "norweski",
-            "inst": "norweskym",
-            "loc": "norweskym",
+            "inst": "norweskim",
+            "loc": "norweskim",
             "voc": "norweski"
           },
           "f": {
             "nom": "norweska",
-            "gen": "norweskej",
-            "dat": "norweskej",
+            "gen": "norweskiej",
+            "dat": "norweskiej",
             "acc": "norweską",
             "inst": "norweską",
-            "loc": "norweskej",
+            "loc": "norweskiej",
             "voc": "norweska"
           },
           "n": {
-            "nom": "norweske",
-            "gen": "norweskego",
-            "dat": "norweskemu",
-            "acc": "norweske",
-            "inst": "norweskym",
-            "loc": "norweskym",
-            "voc": "norweske"
+            "nom": "norweskie",
+            "gen": "norweskiego",
+            "dat": "norweskiemu",
+            "acc": "norweskie",
+            "inst": "norweskim",
+            "loc": "norweskim",
+            "voc": "norweskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "norwescy",
             "gen": "norweskich",
-            "dat": "norweskym",
+            "dat": "norweskim",
             "acc": "norweskich",
-            "inst": "norweskymi",
+            "inst": "norweskimi",
             "loc": "norweskich",
             "voc": "norwescy"
           },
           "other": {
-            "nom": "norweske",
+            "nom": "norweskie",
             "gen": "norweskich",
-            "dat": "norweskym",
-            "acc": "norweske",
-            "inst": "norweskymi",
+            "dat": "norweskim",
+            "acc": "norweskie",
+            "inst": "norweskimi",
             "loc": "norweskich",
-            "voc": "norweske"
+            "voc": "norweskie"
           }
         }
       }
@@ -9256,50 +9256,50 @@
         "sg": {
           "m": {
             "nom": "nowozelandzki",
-            "gen": "nowozelandzkego",
-            "dat": "nowozelandzkemu",
+            "gen": "nowozelandzkiego",
+            "dat": "nowozelandzkiemu",
             "acc": "nowozelandzki",
-            "inst": "nowozelandzkym",
-            "loc": "nowozelandzkym",
+            "inst": "nowozelandzkim",
+            "loc": "nowozelandzkim",
             "voc": "nowozelandzki"
           },
           "f": {
             "nom": "nowozelandzka",
-            "gen": "nowozelandzkej",
-            "dat": "nowozelandzkej",
+            "gen": "nowozelandzkiej",
+            "dat": "nowozelandzkiej",
             "acc": "nowozelandzką",
             "inst": "nowozelandzką",
-            "loc": "nowozelandzkej",
+            "loc": "nowozelandzkiej",
             "voc": "nowozelandzka"
           },
           "n": {
-            "nom": "nowozelandzke",
-            "gen": "nowozelandzkego",
-            "dat": "nowozelandzkemu",
-            "acc": "nowozelandzke",
-            "inst": "nowozelandzkym",
-            "loc": "nowozelandzkym",
-            "voc": "nowozelandzke"
+            "nom": "nowozelandzkie",
+            "gen": "nowozelandzkiego",
+            "dat": "nowozelandzkiemu",
+            "acc": "nowozelandzkie",
+            "inst": "nowozelandzkim",
+            "loc": "nowozelandzkim",
+            "voc": "nowozelandzkie"
           }
         },
         "pl": {
           "m1": {
             "nom": "nowozelandzcy",
             "gen": "nowozelandzkich",
-            "dat": "nowozelandzkym",
+            "dat": "nowozelandzkim",
             "acc": "nowozelandzkich",
-            "inst": "nowozelandzkymi",
+            "inst": "nowozelandzkimi",
             "loc": "nowozelandzkich",
             "voc": "nowozelandzcy"
           },
           "other": {
-            "nom": "nowozelandzke",
+            "nom": "nowozelandzkie",
             "gen": "nowozelandzkich",
-            "dat": "nowozelandzkym",
-            "acc": "nowozelandzke",
-            "inst": "nowozelandzkymi",
+            "dat": "nowozelandzkim",
+            "acc": "nowozelandzkie",
+            "inst": "nowozelandzkimi",
             "loc": "nowozelandzkich",
-            "voc": "nowozelandzke"
+            "voc": "nowozelandzkie"
           }
         }
       }
@@ -9669,13 +9669,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "opiekuńczi",
+            "nom": "opiekuńczy",
             "gen": "opiekuńczych",
             "dat": "opiekuńczym",
             "acc": "opiekuńczych",
             "inst": "opiekuńczymi",
             "loc": "opiekuńczych",
-            "voc": "opiekuńczi"
+            "voc": "opiekuńczy"
           },
           "other": {
             "nom": "opiekuńcze",
@@ -9724,13 +9724,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "osobisci",
+            "nom": "osobiści",
             "gen": "osobistych",
             "dat": "osobistym",
             "acc": "osobistych",
             "inst": "osobistymi",
             "loc": "osobistych",
-            "voc": "osobisci"
+            "voc": "osobiści"
           },
           "other": {
             "nom": "osobiste",
@@ -9751,50 +9751,50 @@
         "sg": {
           "m": {
             "nom": "ostatni",
-            "gen": "ostatnego",
-            "dat": "ostatnemu",
+            "gen": "ostatniego",
+            "dat": "ostatniemu",
             "acc": "ostatni",
-            "inst": "ostatnym",
-            "loc": "ostatnym",
+            "inst": "ostatnim",
+            "loc": "ostatnim",
             "voc": "ostatni"
           },
           "f": {
-            "nom": "ostatna",
-            "gen": "ostatnej",
-            "dat": "ostatnej",
-            "acc": "ostatną",
-            "inst": "ostatną",
-            "loc": "ostatnej",
-            "voc": "ostatna"
+            "nom": "ostatnia",
+            "gen": "ostatniej",
+            "dat": "ostatniej",
+            "acc": "ostatnią",
+            "inst": "ostatnią",
+            "loc": "ostatniej",
+            "voc": "ostatnia"
           },
           "n": {
-            "nom": "ostatne",
-            "gen": "ostatnego",
-            "dat": "ostatnemu",
-            "acc": "ostatne",
-            "inst": "ostatnym",
-            "loc": "ostatnym",
-            "voc": "ostatne"
+            "nom": "ostatnie",
+            "gen": "ostatniego",
+            "dat": "ostatniemu",
+            "acc": "ostatnie",
+            "inst": "ostatnim",
+            "loc": "ostatnim",
+            "voc": "ostatnie"
           }
         },
         "pl": {
           "m1": {
             "nom": "ostatni",
             "gen": "ostatnich",
-            "dat": "ostatnym",
+            "dat": "ostatnim",
             "acc": "ostatnich",
-            "inst": "ostatnymi",
+            "inst": "ostatnimi",
             "loc": "ostatnich",
             "voc": "ostatni"
           },
           "other": {
-            "nom": "ostatne",
+            "nom": "ostatnie",
             "gen": "ostatnich",
-            "dat": "ostatnym",
-            "acc": "ostatne",
-            "inst": "ostatnymi",
+            "dat": "ostatnim",
+            "acc": "ostatnie",
+            "inst": "ostatnimi",
             "loc": "ostatnich",
-            "voc": "ostatne"
+            "voc": "ostatnie"
           }
         }
       }
@@ -9916,50 +9916,50 @@
         "sg": {
           "m": {
             "nom": "pakistański",
-            "gen": "pakistańskego",
-            "dat": "pakistańskemu",
+            "gen": "pakistańskiego",
+            "dat": "pakistańskiemu",
             "acc": "pakistański",
-            "inst": "pakistańskym",
-            "loc": "pakistańskym",
+            "inst": "pakistańskim",
+            "loc": "pakistańskim",
             "voc": "pakistański"
           },
           "f": {
             "nom": "pakistańska",
-            "gen": "pakistańskej",
-            "dat": "pakistańskej",
+            "gen": "pakistańskiej",
+            "dat": "pakistańskiej",
             "acc": "pakistańską",
             "inst": "pakistańską",
-            "loc": "pakistańskej",
+            "loc": "pakistańskiej",
             "voc": "pakistańska"
           },
           "n": {
-            "nom": "pakistańske",
-            "gen": "pakistańskego",
-            "dat": "pakistańskemu",
-            "acc": "pakistańske",
-            "inst": "pakistańskym",
-            "loc": "pakistańskym",
-            "voc": "pakistańske"
+            "nom": "pakistańskie",
+            "gen": "pakistańskiego",
+            "dat": "pakistańskiemu",
+            "acc": "pakistańskie",
+            "inst": "pakistańskim",
+            "loc": "pakistańskim",
+            "voc": "pakistańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "pakistańscy",
             "gen": "pakistańskich",
-            "dat": "pakistańskym",
+            "dat": "pakistańskim",
             "acc": "pakistańskich",
-            "inst": "pakistańskymi",
+            "inst": "pakistańskimi",
             "loc": "pakistańskich",
             "voc": "pakistańscy"
           },
           "other": {
-            "nom": "pakistańske",
+            "nom": "pakistańskie",
             "gen": "pakistańskich",
-            "dat": "pakistańskym",
-            "acc": "pakistańske",
-            "inst": "pakistańskymi",
+            "dat": "pakistańskim",
+            "acc": "pakistańskie",
+            "inst": "pakistańskimi",
             "loc": "pakistańskich",
-            "voc": "pakistańske"
+            "voc": "pakistańskie"
           }
         }
       }
@@ -9971,50 +9971,50 @@
         "sg": {
           "m": {
             "nom": "paragwajski",
-            "gen": "paragwajskego",
-            "dat": "paragwajskemu",
+            "gen": "paragwajskiego",
+            "dat": "paragwajskiemu",
             "acc": "paragwajski",
-            "inst": "paragwajskym",
-            "loc": "paragwajskym",
+            "inst": "paragwajskim",
+            "loc": "paragwajskim",
             "voc": "paragwajski"
           },
           "f": {
             "nom": "paragwajska",
-            "gen": "paragwajskej",
-            "dat": "paragwajskej",
+            "gen": "paragwajskiej",
+            "dat": "paragwajskiej",
             "acc": "paragwajską",
             "inst": "paragwajską",
-            "loc": "paragwajskej",
+            "loc": "paragwajskiej",
             "voc": "paragwajska"
           },
           "n": {
-            "nom": "paragwajske",
-            "gen": "paragwajskego",
-            "dat": "paragwajskemu",
-            "acc": "paragwajske",
-            "inst": "paragwajskym",
-            "loc": "paragwajskym",
-            "voc": "paragwajske"
+            "nom": "paragwajskie",
+            "gen": "paragwajskiego",
+            "dat": "paragwajskiemu",
+            "acc": "paragwajskie",
+            "inst": "paragwajskim",
+            "loc": "paragwajskim",
+            "voc": "paragwajskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "paragwajscy",
             "gen": "paragwajskich",
-            "dat": "paragwajskym",
+            "dat": "paragwajskim",
             "acc": "paragwajskich",
-            "inst": "paragwajskymi",
+            "inst": "paragwajskimi",
             "loc": "paragwajskich",
             "voc": "paragwajscy"
           },
           "other": {
-            "nom": "paragwajske",
+            "nom": "paragwajskie",
             "gen": "paragwajskich",
-            "dat": "paragwajskym",
-            "acc": "paragwajske",
-            "inst": "paragwajskymi",
+            "dat": "paragwajskim",
+            "acc": "paragwajskie",
+            "inst": "paragwajskimi",
             "loc": "paragwajskich",
-            "voc": "paragwajske"
+            "voc": "paragwajskie"
           }
         }
       }
@@ -10136,50 +10136,50 @@
         "sg": {
           "m": {
             "nom": "peruwiański",
-            "gen": "peruwiańskego",
-            "dat": "peruwiańskemu",
+            "gen": "peruwiańskiego",
+            "dat": "peruwiańskiemu",
             "acc": "peruwiański",
-            "inst": "peruwiańskym",
-            "loc": "peruwiańskym",
+            "inst": "peruwiańskim",
+            "loc": "peruwiańskim",
             "voc": "peruwiański"
           },
           "f": {
             "nom": "peruwiańska",
-            "gen": "peruwiańskej",
-            "dat": "peruwiańskej",
+            "gen": "peruwiańskiej",
+            "dat": "peruwiańskiej",
             "acc": "peruwiańską",
             "inst": "peruwiańską",
-            "loc": "peruwiańskej",
+            "loc": "peruwiańskiej",
             "voc": "peruwiańska"
           },
           "n": {
-            "nom": "peruwiańske",
-            "gen": "peruwiańskego",
-            "dat": "peruwiańskemu",
-            "acc": "peruwiańske",
-            "inst": "peruwiańskym",
-            "loc": "peruwiańskym",
-            "voc": "peruwiańske"
+            "nom": "peruwiańskie",
+            "gen": "peruwiańskiego",
+            "dat": "peruwiańskiemu",
+            "acc": "peruwiańskie",
+            "inst": "peruwiańskim",
+            "loc": "peruwiańskim",
+            "voc": "peruwiańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "peruwiańscy",
             "gen": "peruwiańskich",
-            "dat": "peruwiańskym",
+            "dat": "peruwiańskim",
             "acc": "peruwiańskich",
-            "inst": "peruwiańskymi",
+            "inst": "peruwiańskimi",
             "loc": "peruwiańskich",
             "voc": "peruwiańscy"
           },
           "other": {
-            "nom": "peruwiańske",
+            "nom": "peruwiańskie",
             "gen": "peruwiańskich",
-            "dat": "peruwiańskym",
-            "acc": "peruwiańske",
-            "inst": "peruwiańskymi",
+            "dat": "peruwiańskim",
+            "acc": "peruwiańskie",
+            "inst": "peruwiańskimi",
             "loc": "peruwiańskich",
-            "voc": "peruwiańske"
+            "voc": "peruwiańskie"
           }
         }
       }
@@ -10329,13 +10329,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "pierwszi",
+            "nom": "pierwsi",
             "gen": "pierwszych",
             "dat": "pierwszym",
             "acc": "pierwszych",
             "inst": "pierwszymi",
             "loc": "pierwszych",
-            "voc": "pierwszi"
+            "voc": "pierwsi"
           },
           "other": {
             "nom": "pierwsze",
@@ -10576,50 +10576,50 @@
         "sg": {
           "m": {
             "nom": "polski",
-            "gen": "polskego",
-            "dat": "polskemu",
+            "gen": "polskiego",
+            "dat": "polskiemu",
             "acc": "polski",
-            "inst": "polskym",
-            "loc": "polskym",
+            "inst": "polskim",
+            "loc": "polskim",
             "voc": "polski"
           },
           "f": {
             "nom": "polska",
-            "gen": "polskej",
-            "dat": "polskej",
+            "gen": "polskiej",
+            "dat": "polskiej",
             "acc": "polską",
             "inst": "polską",
-            "loc": "polskej",
+            "loc": "polskiej",
             "voc": "polska"
           },
           "n": {
-            "nom": "polske",
-            "gen": "polskego",
-            "dat": "polskemu",
-            "acc": "polske",
-            "inst": "polskym",
-            "loc": "polskym",
-            "voc": "polske"
+            "nom": "polskie",
+            "gen": "polskiego",
+            "dat": "polskiemu",
+            "acc": "polskie",
+            "inst": "polskim",
+            "loc": "polskim",
+            "voc": "polskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "polscy",
             "gen": "polskich",
-            "dat": "polskym",
+            "dat": "polskim",
             "acc": "polskich",
-            "inst": "polskymi",
+            "inst": "polskimi",
             "loc": "polskich",
             "voc": "polscy"
           },
           "other": {
-            "nom": "polske",
+            "nom": "polskie",
             "gen": "polskich",
-            "dat": "polskym",
-            "acc": "polske",
-            "inst": "polskymi",
+            "dat": "polskim",
+            "acc": "polskie",
+            "inst": "polskimi",
             "loc": "polskich",
-            "voc": "polske"
+            "voc": "polskie"
           }
         }
       }
@@ -10686,50 +10686,50 @@
         "sg": {
           "m": {
             "nom": "poprzedni",
-            "gen": "poprzednego",
-            "dat": "poprzednemu",
+            "gen": "poprzedniego",
+            "dat": "poprzedniemu",
             "acc": "poprzedni",
-            "inst": "poprzednym",
-            "loc": "poprzednym",
+            "inst": "poprzednim",
+            "loc": "poprzednim",
             "voc": "poprzedni"
           },
           "f": {
-            "nom": "poprzedna",
-            "gen": "poprzednej",
-            "dat": "poprzednej",
-            "acc": "poprzedną",
-            "inst": "poprzedną",
-            "loc": "poprzednej",
-            "voc": "poprzedna"
+            "nom": "poprzednia",
+            "gen": "poprzedniej",
+            "dat": "poprzedniej",
+            "acc": "poprzednią",
+            "inst": "poprzednią",
+            "loc": "poprzedniej",
+            "voc": "poprzednia"
           },
           "n": {
-            "nom": "poprzedne",
-            "gen": "poprzednego",
-            "dat": "poprzednemu",
-            "acc": "poprzedne",
-            "inst": "poprzednym",
-            "loc": "poprzednym",
-            "voc": "poprzedne"
+            "nom": "poprzednie",
+            "gen": "poprzedniego",
+            "dat": "poprzedniemu",
+            "acc": "poprzednie",
+            "inst": "poprzednim",
+            "loc": "poprzednim",
+            "voc": "poprzednie"
           }
         },
         "pl": {
           "m1": {
             "nom": "poprzedni",
             "gen": "poprzednich",
-            "dat": "poprzednym",
+            "dat": "poprzednim",
             "acc": "poprzednich",
-            "inst": "poprzednymi",
+            "inst": "poprzednimi",
             "loc": "poprzednich",
             "voc": "poprzedni"
           },
           "other": {
-            "nom": "poprzedne",
+            "nom": "poprzednie",
             "gen": "poprzednich",
-            "dat": "poprzednym",
-            "acc": "poprzedne",
-            "inst": "poprzednymi",
+            "dat": "poprzednim",
+            "acc": "poprzednie",
+            "inst": "poprzednimi",
             "loc": "poprzednich",
-            "voc": "poprzedne"
+            "voc": "poprzednie"
           }
         }
       }
@@ -10796,50 +10796,50 @@
         "sg": {
           "m": {
             "nom": "portugalski",
-            "gen": "portugalskego",
-            "dat": "portugalskemu",
+            "gen": "portugalskiego",
+            "dat": "portugalskiemu",
             "acc": "portugalski",
-            "inst": "portugalskym",
-            "loc": "portugalskym",
+            "inst": "portugalskim",
+            "loc": "portugalskim",
             "voc": "portugalski"
           },
           "f": {
             "nom": "portugalska",
-            "gen": "portugalskej",
-            "dat": "portugalskej",
+            "gen": "portugalskiej",
+            "dat": "portugalskiej",
             "acc": "portugalską",
             "inst": "portugalską",
-            "loc": "portugalskej",
+            "loc": "portugalskiej",
             "voc": "portugalska"
           },
           "n": {
-            "nom": "portugalske",
-            "gen": "portugalskego",
-            "dat": "portugalskemu",
-            "acc": "portugalske",
-            "inst": "portugalskym",
-            "loc": "portugalskym",
-            "voc": "portugalske"
+            "nom": "portugalskie",
+            "gen": "portugalskiego",
+            "dat": "portugalskiemu",
+            "acc": "portugalskie",
+            "inst": "portugalskim",
+            "loc": "portugalskim",
+            "voc": "portugalskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "portugalscy",
             "gen": "portugalskich",
-            "dat": "portugalskym",
+            "dat": "portugalskim",
             "acc": "portugalskich",
-            "inst": "portugalskymi",
+            "inst": "portugalskimi",
             "loc": "portugalskich",
             "voc": "portugalscy"
           },
           "other": {
-            "nom": "portugalske",
+            "nom": "portugalskie",
             "gen": "portugalskich",
-            "dat": "portugalskym",
-            "acc": "portugalske",
-            "inst": "portugalskymi",
+            "dat": "portugalskim",
+            "acc": "portugalskie",
+            "inst": "portugalskimi",
             "loc": "portugalskich",
-            "voc": "portugalske"
+            "voc": "portugalskie"
           }
         }
       }
@@ -10961,50 +10961,50 @@
         "sg": {
           "m": {
             "nom": "południowoafrykański",
-            "gen": "południowoafrykańskego",
-            "dat": "południowoafrykańskemu",
+            "gen": "południowoafrykańskiego",
+            "dat": "południowoafrykańskiemu",
             "acc": "południowoafrykański",
-            "inst": "południowoafrykańskym",
-            "loc": "południowoafrykańskym",
+            "inst": "południowoafrykańskim",
+            "loc": "południowoafrykańskim",
             "voc": "południowoafrykański"
           },
           "f": {
             "nom": "południowoafrykańska",
-            "gen": "południowoafrykańskej",
-            "dat": "południowoafrykańskej",
+            "gen": "południowoafrykańskiej",
+            "dat": "południowoafrykańskiej",
             "acc": "południowoafrykańską",
             "inst": "południowoafrykańską",
-            "loc": "południowoafrykańskej",
+            "loc": "południowoafrykańskiej",
             "voc": "południowoafrykańska"
           },
           "n": {
-            "nom": "południowoafrykańske",
-            "gen": "południowoafrykańskego",
-            "dat": "południowoafrykańskemu",
-            "acc": "południowoafrykańske",
-            "inst": "południowoafrykańskym",
-            "loc": "południowoafrykańskym",
-            "voc": "południowoafrykańske"
+            "nom": "południowoafrykańskie",
+            "gen": "południowoafrykańskiego",
+            "dat": "południowoafrykańskiemu",
+            "acc": "południowoafrykańskie",
+            "inst": "południowoafrykańskim",
+            "loc": "południowoafrykańskim",
+            "voc": "południowoafrykańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "południowoafrykańscy",
             "gen": "południowoafrykańskich",
-            "dat": "południowoafrykańskym",
+            "dat": "południowoafrykańskim",
             "acc": "południowoafrykańskich",
-            "inst": "południowoafrykańskymi",
+            "inst": "południowoafrykańskimi",
             "loc": "południowoafrykańskich",
             "voc": "południowoafrykańscy"
           },
           "other": {
-            "nom": "południowoafrykańske",
+            "nom": "południowoafrykańskie",
             "gen": "południowoafrykańskich",
-            "dat": "południowoafrykańskym",
-            "acc": "południowoafrykańske",
-            "inst": "południowoafrykańskymi",
+            "dat": "południowoafrykańskim",
+            "acc": "południowoafrykańskie",
+            "inst": "południowoafrykańskimi",
             "loc": "południowoafrykańskich",
-            "voc": "południowoafrykańske"
+            "voc": "południowoafrykańskie"
           }
         }
       }
@@ -11016,50 +11016,50 @@
         "sg": {
           "m": {
             "nom": "pośredni",
-            "gen": "pośrednego",
-            "dat": "pośrednemu",
+            "gen": "pośredniego",
+            "dat": "pośredniemu",
             "acc": "pośredni",
-            "inst": "pośrednym",
-            "loc": "pośrednym",
+            "inst": "pośrednim",
+            "loc": "pośrednim",
             "voc": "pośredni"
           },
           "f": {
-            "nom": "pośredna",
-            "gen": "pośrednej",
-            "dat": "pośrednej",
-            "acc": "pośredną",
-            "inst": "pośredną",
-            "loc": "pośrednej",
-            "voc": "pośredna"
+            "nom": "pośrednia",
+            "gen": "pośredniej",
+            "dat": "pośredniej",
+            "acc": "pośrednią",
+            "inst": "pośrednią",
+            "loc": "pośredniej",
+            "voc": "pośrednia"
           },
           "n": {
-            "nom": "pośredne",
-            "gen": "pośrednego",
-            "dat": "pośrednemu",
-            "acc": "pośredne",
-            "inst": "pośrednym",
-            "loc": "pośrednym",
-            "voc": "pośredne"
+            "nom": "pośrednie",
+            "gen": "pośredniego",
+            "dat": "pośredniemu",
+            "acc": "pośrednie",
+            "inst": "pośrednim",
+            "loc": "pośrednim",
+            "voc": "pośrednie"
           }
         },
         "pl": {
           "m1": {
             "nom": "pośredni",
             "gen": "pośrednich",
-            "dat": "pośrednym",
+            "dat": "pośrednim",
             "acc": "pośrednich",
-            "inst": "pośrednymi",
+            "inst": "pośrednimi",
             "loc": "pośrednich",
             "voc": "pośredni"
           },
           "other": {
-            "nom": "pośredne",
+            "nom": "pośrednie",
             "gen": "pośrednich",
-            "dat": "pośrednym",
-            "acc": "pośredne",
-            "inst": "pośrednymi",
+            "dat": "pośrednim",
+            "acc": "pośrednie",
+            "inst": "pośrednimi",
             "loc": "pośrednich",
-            "voc": "pośredne"
+            "voc": "pośrednie"
           }
         }
       }
@@ -11209,13 +11209,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "prawniczi",
+            "nom": "prawniczy",
             "gen": "prawniczych",
             "dat": "prawniczym",
             "acc": "prawniczych",
             "inst": "prawniczymi",
             "loc": "prawniczych",
-            "voc": "prawniczi"
+            "voc": "prawniczy"
           },
           "other": {
             "nom": "prawnicze",
@@ -11374,13 +11374,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "prosci",
+            "nom": "prości",
             "gen": "prostych",
             "dat": "prostym",
             "acc": "prostych",
             "inst": "prostymi",
             "loc": "prostych",
-            "voc": "prosci"
+            "voc": "prości"
           },
           "other": {
             "nom": "proste",
@@ -11704,13 +11704,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "pusci",
+            "nom": "puści",
             "gen": "pustych",
             "dat": "pustym",
             "acc": "pustych",
             "inst": "pustymi",
             "loc": "pustych",
-            "voc": "pusci"
+            "voc": "puści"
           },
           "other": {
             "nom": "puste",
@@ -11786,50 +11786,50 @@
         "sg": {
           "m": {
             "nom": "płaski",
-            "gen": "płaskego",
-            "dat": "płaskemu",
+            "gen": "płaskiego",
+            "dat": "płaskiemu",
             "acc": "płaski",
-            "inst": "płaskym",
-            "loc": "płaskym",
+            "inst": "płaskim",
+            "loc": "płaskim",
             "voc": "płaski"
           },
           "f": {
             "nom": "płaska",
-            "gen": "płaskej",
-            "dat": "płaskej",
+            "gen": "płaskiej",
+            "dat": "płaskiej",
             "acc": "płaską",
             "inst": "płaską",
-            "loc": "płaskej",
+            "loc": "płaskiej",
             "voc": "płaska"
           },
           "n": {
-            "nom": "płaske",
-            "gen": "płaskego",
-            "dat": "płaskemu",
-            "acc": "płaske",
-            "inst": "płaskym",
-            "loc": "płaskym",
-            "voc": "płaske"
+            "nom": "płaskie",
+            "gen": "płaskiego",
+            "dat": "płaskiemu",
+            "acc": "płaskie",
+            "inst": "płaskim",
+            "loc": "płaskim",
+            "voc": "płaskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "płascy",
             "gen": "płaskich",
-            "dat": "płaskym",
+            "dat": "płaskim",
             "acc": "płaskich",
-            "inst": "płaskymi",
+            "inst": "płaskimi",
             "loc": "płaskich",
             "voc": "płascy"
           },
           "other": {
-            "nom": "płaske",
+            "nom": "płaskie",
             "gen": "płaskich",
-            "dat": "płaskym",
-            "acc": "płaske",
-            "inst": "płaskymi",
+            "dat": "płaskim",
+            "acc": "płaskie",
+            "inst": "płaskimi",
             "loc": "płaskich",
-            "voc": "płaske"
+            "voc": "płaskie"
           }
         }
       }
@@ -11841,50 +11841,50 @@
         "sg": {
           "m": {
             "nom": "płytki",
-            "gen": "płytkego",
-            "dat": "płytkemu",
+            "gen": "płytkiego",
+            "dat": "płytkiemu",
             "acc": "płytki",
-            "inst": "płytkym",
-            "loc": "płytkym",
+            "inst": "płytkim",
+            "loc": "płytkim",
             "voc": "płytki"
           },
           "f": {
             "nom": "płytka",
-            "gen": "płytkej",
-            "dat": "płytkej",
+            "gen": "płytkiej",
+            "dat": "płytkiej",
             "acc": "płytką",
             "inst": "płytką",
-            "loc": "płytkej",
+            "loc": "płytkiej",
             "voc": "płytka"
           },
           "n": {
-            "nom": "płytke",
-            "gen": "płytkego",
-            "dat": "płytkemu",
-            "acc": "płytke",
-            "inst": "płytkym",
-            "loc": "płytkym",
-            "voc": "płytke"
+            "nom": "płytkie",
+            "gen": "płytkiego",
+            "dat": "płytkiemu",
+            "acc": "płytkie",
+            "inst": "płytkim",
+            "loc": "płytkim",
+            "voc": "płytkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "płytki",
+            "nom": "płytcy",
             "gen": "płytkich",
-            "dat": "płytkym",
+            "dat": "płytkim",
             "acc": "płytkich",
-            "inst": "płytkymi",
+            "inst": "płytkimi",
             "loc": "płytkich",
-            "voc": "płytki"
+            "voc": "płytcy"
           },
           "other": {
-            "nom": "płytke",
+            "nom": "płytkie",
             "gen": "płytkich",
-            "dat": "płytkym",
-            "acc": "płytke",
-            "inst": "płytkymi",
+            "dat": "płytkim",
+            "acc": "płytkie",
+            "inst": "płytkimi",
             "loc": "płytkich",
-            "voc": "płytke"
+            "voc": "płytkie"
           }
         }
       }
@@ -12144,13 +12144,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "rolniczi",
+            "nom": "rolniczy",
             "gen": "rolniczych",
             "dat": "rolniczym",
             "acc": "rolniczych",
             "inst": "rolniczymi",
             "loc": "rolniczych",
-            "voc": "rolniczi"
+            "voc": "rolniczy"
           },
           "other": {
             "nom": "rolnicze",
@@ -12171,50 +12171,50 @@
         "sg": {
           "m": {
             "nom": "rosyjski",
-            "gen": "rosyjskego",
-            "dat": "rosyjskemu",
+            "gen": "rosyjskiego",
+            "dat": "rosyjskiemu",
             "acc": "rosyjski",
-            "inst": "rosyjskym",
-            "loc": "rosyjskym",
+            "inst": "rosyjskim",
+            "loc": "rosyjskim",
             "voc": "rosyjski"
           },
           "f": {
             "nom": "rosyjska",
-            "gen": "rosyjskej",
-            "dat": "rosyjskej",
+            "gen": "rosyjskiej",
+            "dat": "rosyjskiej",
             "acc": "rosyjską",
             "inst": "rosyjską",
-            "loc": "rosyjskej",
+            "loc": "rosyjskiej",
             "voc": "rosyjska"
           },
           "n": {
-            "nom": "rosyjske",
-            "gen": "rosyjskego",
-            "dat": "rosyjskemu",
-            "acc": "rosyjske",
-            "inst": "rosyjskym",
-            "loc": "rosyjskym",
-            "voc": "rosyjske"
+            "nom": "rosyjskie",
+            "gen": "rosyjskiego",
+            "dat": "rosyjskiemu",
+            "acc": "rosyjskie",
+            "inst": "rosyjskim",
+            "loc": "rosyjskim",
+            "voc": "rosyjskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "rosyjscy",
             "gen": "rosyjskich",
-            "dat": "rosyjskym",
+            "dat": "rosyjskim",
             "acc": "rosyjskich",
-            "inst": "rosyjskymi",
+            "inst": "rosyjskimi",
             "loc": "rosyjskich",
             "voc": "rosyjscy"
           },
           "other": {
-            "nom": "rosyjske",
+            "nom": "rosyjskie",
             "gen": "rosyjskich",
-            "dat": "rosyjskym",
-            "acc": "rosyjske",
-            "inst": "rosyjskymi",
+            "dat": "rosyjskim",
+            "acc": "rosyjskie",
+            "inst": "rosyjskimi",
             "loc": "rosyjskich",
-            "voc": "rosyjske"
+            "voc": "rosyjskie"
           }
         }
       }
@@ -12226,50 +12226,50 @@
         "sg": {
           "m": {
             "nom": "rumuński",
-            "gen": "rumuńskego",
-            "dat": "rumuńskemu",
+            "gen": "rumuńskiego",
+            "dat": "rumuńskiemu",
             "acc": "rumuński",
-            "inst": "rumuńskym",
-            "loc": "rumuńskym",
+            "inst": "rumuńskim",
+            "loc": "rumuńskim",
             "voc": "rumuński"
           },
           "f": {
             "nom": "rumuńska",
-            "gen": "rumuńskej",
-            "dat": "rumuńskej",
+            "gen": "rumuńskiej",
+            "dat": "rumuńskiej",
             "acc": "rumuńską",
             "inst": "rumuńską",
-            "loc": "rumuńskej",
+            "loc": "rumuńskiej",
             "voc": "rumuńska"
           },
           "n": {
-            "nom": "rumuńske",
-            "gen": "rumuńskego",
-            "dat": "rumuńskemu",
-            "acc": "rumuńske",
-            "inst": "rumuńskym",
-            "loc": "rumuńskym",
-            "voc": "rumuńske"
+            "nom": "rumuńskie",
+            "gen": "rumuńskiego",
+            "dat": "rumuńskiemu",
+            "acc": "rumuńskie",
+            "inst": "rumuńskim",
+            "loc": "rumuńskim",
+            "voc": "rumuńskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "rumuńscy",
             "gen": "rumuńskich",
-            "dat": "rumuńskym",
+            "dat": "rumuńskim",
             "acc": "rumuńskich",
-            "inst": "rumuńskymi",
+            "inst": "rumuńskimi",
             "loc": "rumuńskich",
             "voc": "rumuńscy"
           },
           "other": {
-            "nom": "rumuńske",
+            "nom": "rumuńskie",
             "gen": "rumuńskich",
-            "dat": "rumuńskym",
-            "acc": "rumuńske",
-            "inst": "rumuńskymi",
+            "dat": "rumuńskim",
+            "acc": "rumuńskie",
+            "inst": "rumuńskimi",
             "loc": "rumuńskich",
-            "voc": "rumuńske"
+            "voc": "rumuńskie"
           }
         }
       }
@@ -12501,50 +12501,50 @@
         "sg": {
           "m": {
             "nom": "saudyjski",
-            "gen": "saudyjskego",
-            "dat": "saudyjskemu",
+            "gen": "saudyjskiego",
+            "dat": "saudyjskiemu",
             "acc": "saudyjski",
-            "inst": "saudyjskym",
-            "loc": "saudyjskym",
+            "inst": "saudyjskim",
+            "loc": "saudyjskim",
             "voc": "saudyjski"
           },
           "f": {
             "nom": "saudyjska",
-            "gen": "saudyjskej",
-            "dat": "saudyjskej",
+            "gen": "saudyjskiej",
+            "dat": "saudyjskiej",
             "acc": "saudyjską",
             "inst": "saudyjską",
-            "loc": "saudyjskej",
+            "loc": "saudyjskiej",
             "voc": "saudyjska"
           },
           "n": {
-            "nom": "saudyjske",
-            "gen": "saudyjskego",
-            "dat": "saudyjskemu",
-            "acc": "saudyjske",
-            "inst": "saudyjskym",
-            "loc": "saudyjskym",
-            "voc": "saudyjske"
+            "nom": "saudyjskie",
+            "gen": "saudyjskiego",
+            "dat": "saudyjskiemu",
+            "acc": "saudyjskie",
+            "inst": "saudyjskim",
+            "loc": "saudyjskim",
+            "voc": "saudyjskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "saudyjscy",
             "gen": "saudyjskich",
-            "dat": "saudyjskym",
+            "dat": "saudyjskim",
             "acc": "saudyjskich",
-            "inst": "saudyjskymi",
+            "inst": "saudyjskimi",
             "loc": "saudyjskich",
             "voc": "saudyjscy"
           },
           "other": {
-            "nom": "saudyjske",
+            "nom": "saudyjskie",
             "gen": "saudyjskich",
-            "dat": "saudyjskym",
-            "acc": "saudyjske",
-            "inst": "saudyjskymi",
+            "dat": "saudyjskim",
+            "acc": "saudyjskie",
+            "inst": "saudyjskimi",
             "loc": "saudyjskich",
-            "voc": "saudyjske"
+            "voc": "saudyjskie"
           }
         }
       }
@@ -12556,50 +12556,50 @@
         "sg": {
           "m": {
             "nom": "serbski",
-            "gen": "serbskego",
-            "dat": "serbskemu",
+            "gen": "serbskiego",
+            "dat": "serbskiemu",
             "acc": "serbski",
-            "inst": "serbskym",
-            "loc": "serbskym",
+            "inst": "serbskim",
+            "loc": "serbskim",
             "voc": "serbski"
           },
           "f": {
             "nom": "serbska",
-            "gen": "serbskej",
-            "dat": "serbskej",
+            "gen": "serbskiej",
+            "dat": "serbskiej",
             "acc": "serbską",
             "inst": "serbską",
-            "loc": "serbskej",
+            "loc": "serbskiej",
             "voc": "serbska"
           },
           "n": {
-            "nom": "serbske",
-            "gen": "serbskego",
-            "dat": "serbskemu",
-            "acc": "serbske",
-            "inst": "serbskym",
-            "loc": "serbskym",
-            "voc": "serbske"
+            "nom": "serbskie",
+            "gen": "serbskiego",
+            "dat": "serbskiemu",
+            "acc": "serbskie",
+            "inst": "serbskim",
+            "loc": "serbskim",
+            "voc": "serbskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "serbscy",
             "gen": "serbskich",
-            "dat": "serbskym",
+            "dat": "serbskim",
             "acc": "serbskich",
-            "inst": "serbskymi",
+            "inst": "serbskimi",
             "loc": "serbskich",
             "voc": "serbscy"
           },
           "other": {
-            "nom": "serbske",
+            "nom": "serbskie",
             "gen": "serbskich",
-            "dat": "serbskym",
-            "acc": "serbske",
-            "inst": "serbskymi",
+            "dat": "serbskim",
+            "acc": "serbskie",
+            "inst": "serbskimi",
             "loc": "serbskich",
-            "voc": "serbske"
+            "voc": "serbskie"
           }
         }
       }
@@ -12694,13 +12694,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "silniejszi",
+            "nom": "silniejsi",
             "gen": "silniejszych",
             "dat": "silniejszym",
             "acc": "silniejszych",
             "inst": "silniejszymi",
             "loc": "silniejszych",
-            "voc": "silniejszi"
+            "voc": "silniejsi"
           },
           "other": {
             "nom": "silniejsze",
@@ -13079,13 +13079,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "spożywczi",
+            "nom": "spożywczy",
             "gen": "spożywczych",
             "dat": "spożywczym",
             "acc": "spożywczych",
             "inst": "spożywczymi",
             "loc": "spożywczych",
-            "voc": "spożywczi"
+            "voc": "spożywczy"
           },
           "other": {
             "nom": "spożywcze",
