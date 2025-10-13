@@ -54,23 +54,33 @@ const NUM_LABELS = {
   pl: 'liczba mnoga'
 }
 
-// Simple Polish->Russian translation dictionary (extend as needed)
-const TRANSLATIONS = {
-  nowy: 'новый',
-  duży: 'большой',
-  dom: 'дом',
-  stół: 'стол',
-  telefon: 'телефон',
-  kawa: 'кофе',
-  książka: 'книга',
-  okno: 'окно'
+function numberLabel(code){
+  return code === 'sg' ? 'liczba pojedyncza' : code === 'pl' ? 'liczba mnoga' : code
 }
+
+const CASE_FULL = {
+  nom: 'Mianownik',
+  gen: 'Dopełniacz',
+  dat: 'Celownik',
+  acc: 'Biernik',
+  inst: 'Narzędnik',
+  loc: 'Miejscownik',
+  voc: 'Wołacz'
+}
+
+// User-selected filters (empty means 'all')
+const activeNumbers = ref(['sg', 'pl'])
+const activeCases = ref([]) // empty -> all from data.cases
+const showFilters = ref(false)
 
 function translationOf(word) {
   if (!word) return ''
-  // normalize to base (remove possible punctuation / quotes)
   const w = word.replace(/[«»„”"']/g, '').toLowerCase()
-  return TRANSLATIONS[w] || '(нет перевода)'
+  const adj = data.adjectives.find(a => a.base === w)
+  if (adj && adj.translation) return adj.translation
+  const noun = data.nouns.find(n => n.base === w)
+  if (noun && noun.translation) return noun.translation
+  return '(нет перевода)'
 }
 
 // Fetch dataset from public/data.json
@@ -117,9 +127,11 @@ function makeQuestion() {
   // Choose random noun (we will display its nominative singular form)
   const noun = pick(data.nouns)
 
-  // Random number and case
-  const number = Math.random() < 0.5 ? 'sg' : 'pl'
-  const kcase = pick(data.cases)
+  // Determine pool respecting filters
+  const numberPool = activeNumbers.value && activeNumbers.value.length ? activeNumbers.value : ['sg','pl']
+  const casePool = activeCases.value && activeCases.value.length ? activeCases.value : data.cases
+  const number = pick(numberPool)
+  const kcase = pick(casePool)
 
   // Determine adjective target gender/number key
   let adjForm = ''
@@ -155,6 +167,14 @@ function submitAnswer() {
   if (result.checked) {
     // after showing result user manually moves to next
     nextQuestion(true)
+    return
+  }
+  if (activeNumbers.value.length === 0) {
+    // prevent answering when filters invalid
+    result.checked = true
+    result.isCorrect = false
+    result.message = 'Brak wybranej liczby (wybierz sg/pl)'
+    result.correctAnswer = ''
     return
   }
   const user = normalize(answer.value)
@@ -215,6 +235,41 @@ onMounted(loadData)
             <div class="text-medium-emphasis mb-4">
               Wpisz <strong>przymiotnik + rzeczownik</strong> w podanym przypadku i liczbie.
             </div>
+            <div class="mb-2 d-flex align-center" style="gap:.75rem;">
+              <v-btn size="small" variant="text" @click="showFilters = !showFilters" :prepend-icon="showFilters ? 'mdi-chevron-up' : 'mdi-filter-variant'">
+                {{ showFilters ? 'Ukryj filtry' : 'Filtry' }}
+              </v-btn>
+              <div v-if="!showFilters" class="text-caption text-medium-emphasis">
+                <span>Liczba:
+                  <strong>
+                    {{ activeNumbers.length===2 ? 'liczba pojedyncza + liczba mnoga' : activeNumbers.map(n=>numberLabel(n)).join(', ') || '—' }}
+                  </strong>
+                </span>
+                <span class="ml-2">Przypadki:
+                  <strong>
+                    {{ activeCases.length ? activeCases.map(c=>CASE_FULL[c]||c).join(', ') : 'wszystkie' }}
+                  </strong>
+                </span>
+              </div>
+            </div>
+            <v-expand-transition>
+              <div v-if="showFilters" class="mb-4 d-flex flex-column flex-sm-row align-start align-sm-center" style="gap:1rem;">
+                <div class="d-flex flex-column" style="min-width:200px;">
+                  <span class="text-caption text-medium-emphasis mb-1">Liczba</span>
+                  <v-chip-group v-model="activeNumbers" multiple column density="comfortable" class="flex-wrap" selected-class="bg-primary text-white">
+                    <v-chip value="sg" variant="outlined" size="small">liczba pojedyncza</v-chip>
+                    <v-chip value="pl" variant="outlined" size="small">liczba mnoga</v-chip>
+                  </v-chip-group>
+                </div>
+                <div class="flex-grow-1 d-flex flex-column">
+                  <span class="text-caption text-medium-emphasis mb-1">Przypadki</span>
+                  <v-chip-group v-model="activeCases" multiple column density="comfortable" class="flex-wrap" selected-class="bg-secondary text-white">
+                    <v-chip v-for="c in data.cases" :key="c" :value="c" variant="outlined" size="small">{{ CASE_FULL[c] || c }}</v-chip>
+                  </v-chip-group>
+                  <div v-if="!activeCases.length" class="text-caption text-disabled mt-1">(wszystkie przypadki)</div>
+                </div>
+              </div>
+            </v-expand-transition>
             <div class="mb-4 d-flex flex-column align-center text-center">
               <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe słowa</div>
               <div class="text-h4 font-weight-bold mt-1 d-flex flex-row align-center justify-center" style="line-height:1.15; gap:.5rem;">
@@ -247,32 +302,32 @@ onMounted(loadData)
             />
 
             <div class="mt-4 d-flex flex-column">
-              <v-btn block color="success" @click="submitAnswer" :prepend-icon="result.checked ? 'mdi-skip-next' : 'mdi-check'" :disabled="disableActions">
+              <v-btn block size="x-large" color="success" @click="submitAnswer" :prepend-icon="result.checked ? 'mdi-skip-next' : 'mdi-check'" :disabled="disableActions">
                 {{ result.checked ? 'Dalej' : 'Wyślij' }}
               </v-btn>
               <v-btn block class="mt-2" variant="text" @click="skipQuestion" prepend-icon="mdi-skip-forward" :disabled="disableActions">Pomiń</v-btn>
             </div>
 
+            <transition name="fade">
+              <div v-if="result.checked" class="mt-5">
+                <div v-if="result.isCorrect" class="text-caption text-medium-emphasis">(Automatycznie dalej)</div>
+                <div v-else class="text-caption text-medium-emphasis text-center" :class="{ 'opacity-50': disableActions }">
+                  <span v-if="disableActions">(Odblokowanie za 2 s)</span>
+                  <span v-else >(Kliknij "Dalej" aby kontynuować)</span>
+                </div>
+
+                <v-alert :type="result.isCorrect ? 'success' : 'error'" variant="tonal" class="mb-2" :title="result.message" >
+                  <template v-if="!result.isCorrect">
+                    <h1 class="text-center">{{ result.correctAnswer }}</h1>
+                  </template>
+                </v-alert>
+              </div>
+            </transition>
+
             <div v-if="stats.total" class="mt-4 d-flex flex-column align-center text-center text-caption" style="opacity:.75;">
               <div><strong>{{ stats.correct }}</strong>/<span>{{ stats.total }}</span> ({{ accuracy }}%)</div>
               <div v-if="stats.skipped" class="mt-1">pominięte: {{ stats.skipped }}</div>
             </div>
-
-            <transition name="fade">
-              <div v-if="result.checked" class="mt-5">
-                <v-alert :type="result.isCorrect ? 'success' : 'error'" variant="tonal" class="mb-2">
-                  {{ result.message }}
-                  <template v-if="!result.isCorrect" #append>
-                    <span class="font-weight-medium">Poprawnie: {{ result.correctAnswer }}</span>
-                  </template>
-                </v-alert>
-                <div v-if="result.isCorrect" class="text-caption text-medium-emphasis">(Automatycznie dalej)</div>
-                <div v-else class="text-caption text-medium-emphasis" :class="{ 'opacity-50': disableActions }">
-                  <span v-if="disableActions">(Odblokowanie za 2 s)</span>
-                  <span v-else>(Kliknij "Dalej" aby kontynuować)</span>
-                </div>
-              </div>
-            </transition>
           </v-card-text>
         </v-card>
       </v-container>
