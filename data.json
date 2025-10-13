@@ -1,0 +1,273 @@
+{
+  "cases": [
+    "nom",
+    "gen",
+    "dat",
+    "acc",
+    "inst",
+    "loc",
+    "voc"
+  ],
+  "adjectives": [
+    {
+      "base": "nowy",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "nowy",
+            "gen": "nowego",
+            "dat": "nowemu",
+            "acc": "nowy",
+            "inst": "nowym",
+            "loc": "nowym",
+            "voc": "nowy"
+          },
+          "f": {
+            "nom": "nowa",
+            "gen": "nowej",
+            "dat": "nowej",
+            "acc": "nową",
+            "inst": "nową",
+            "loc": "nowej",
+            "voc": "nowa"
+          },
+          "n": {
+            "nom": "nowe",
+            "gen": "nowego",
+            "dat": "nowemu",
+            "acc": "nowe",
+            "inst": "nowym",
+            "loc": "nowym",
+            "voc": "nowe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "nowi",
+            "gen": "nowych",
+            "dat": "nowym",
+            "acc": "nowych",
+            "inst": "nowymi",
+            "loc": "nowych",
+            "voc": "nowi"
+          },
+          "other": {
+            "nom": "nowe",
+            "gen": "nowych",
+            "dat": "nowym",
+            "acc": "nowe",
+            "inst": "nowymi",
+            "loc": "nowych",
+            "voc": "nowe"
+          }
+        }
+      }
+    },
+    {
+      "base": "duży",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "duży",
+            "gen": "dużego",
+            "dat": "dużemu",
+            "acc": "duży",
+            "inst": "dużym",
+            "loc": "dużym",
+            "voc": "duży"
+          },
+          "f": {
+            "nom": "duża",
+            "gen": "dużej",
+            "dat": "dużej",
+            "acc": "dużą",
+            "inst": "dużą",
+            "loc": "dużej",
+            "voc": "duża"
+          },
+          "n": {
+            "nom": "duże",
+            "gen": "dużego",
+            "dat": "dużemu",
+            "acc": "duże",
+            "inst": "dużym",
+            "loc": "dużym",
+            "voc": "duże"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "duzi",
+            "gen": "dużych",
+            "dat": "dużym",
+            "acc": "dużych",
+            "inst": "dużymi",
+            "loc": "dużych",
+            "voc": "duzi"
+          },
+          "other": {
+            "nom": "duże",
+            "gen": "dużych",
+            "dat": "dużym",
+            "acc": "duże",
+            "inst": "dużymi",
+            "loc": "dużych",
+            "voc": "duże"
+          }
+        }
+      }
+    }
+  ],
+  "nouns": [
+    {
+      "base": "dom",
+      "gender": "m",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "dom",
+          "gen": "domu",
+          "dat": "domowi",
+          "acc": "dom",
+          "inst": "domem",
+          "loc": "domu",
+          "voc": "domie"
+        },
+        "pl": {
+          "nom": "domy",
+          "gen": "domów",
+          "dat": "domom",
+          "acc": "domy",
+          "inst": "domami",
+          "loc": "domach",
+          "voc": "domy"
+        }
+      }
+    },
+    {
+      "base": "stół",
+      "gender": "m",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "stół",
+          "gen": "stołu",
+          "dat": "stołowi",
+          "acc": "stół",
+          "inst": "stołem",
+          "loc": "stole",
+          "voc": "stole"
+        },
+        "pl": {
+          "nom": "stoły",
+          "gen": "stołów",
+          "dat": "stołom",
+          "acc": "stoły",
+          "inst": "stołami",
+          "loc": "stołach",
+          "voc": "stoły"
+        }
+      }
+    },
+    {
+      "base": "telefon",
+      "gender": "m",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "telefon",
+          "gen": "telefonu",
+          "dat": "telefonowi",
+          "acc": "telefon",
+          "inst": "telefonem",
+          "loc": "telefonie",
+          "voc": "telefonie"
+        },
+        "pl": {
+          "nom": "telefony",
+          "gen": "telefonów",
+          "dat": "telefonom",
+          "acc": "telefony",
+          "inst": "telefonami",
+          "loc": "telefonach",
+          "voc": "telefony"
+        }
+      }
+    },
+    {
+      "base": "kawa",
+      "gender": "f",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "kawa",
+          "gen": "kawy",
+          "dat": "kawie",
+          "acc": "kawę",
+          "inst": "kawą",
+          "loc": "kawie",
+          "voc": "kawo"
+        },
+        "pl": {
+          "nom": "kawy",
+          "gen": "kaw",
+          "dat": "kawom",
+          "acc": "kawy",
+          "inst": "kawami",
+          "loc": "kawach",
+          "voc": "kawy"
+        }
+      }
+    },
+    {
+      "base": "książka",
+      "gender": "f",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "książka",
+          "gen": "książki",
+          "dat": "książce",
+          "acc": "książkę",
+          "inst": "książką",
+          "loc": "książce",
+          "voc": "książko"
+        },
+        "pl": {
+          "nom": "książki",
+          "gen": "książek",
+          "dat": "książkom",
+          "acc": "książki",
+          "inst": "książkami",
+          "loc": "książkach",
+          "voc": "książki"
+        }
+      }
+    },
+    {
+      "base": "okno",
+      "gender": "n",
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "okno",
+          "gen": "okna",
+          "dat": "oknu",
+          "acc": "okno",
+          "inst": "oknem",
+          "loc": "oknie",
+          "voc": "okno"
+        },
+        "pl": {
+          "nom": "okna",
+          "gen": "okien",
+          "dat": "oknom",
+          "acc": "okna",
+          "inst": "oknami",
+          "loc": "oknach",
+          "voc": "okna"
+        }
+      }
+    }
+  ]
+}
