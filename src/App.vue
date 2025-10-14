@@ -245,21 +245,13 @@ onMounted(loadData)
 
 <template>
   <v-app>
-    <v-app-bar density="comfortable" color="primary" dark flat>
-        <v-app-bar-title>Trener odmiany (polski)</v-app-bar-title>
-        <v-spacer />
-        <v-btn icon="mdi-refresh" variant="text" @click="makeQuestion" :disabled="loading" />
-      </v-app-bar>
     <v-main>
       <v-container class="py-6" style="max-width: 840px;">
-  <v-alert v-if="loading" type="info" variant="tonal" class="mb-4">Ładowanie…</v-alert>
-  <v-alert v-else-if="error" type="error" variant="tonal" class="mb-4 center-text">Błąd: {{ error }}</v-alert>
+        <v-alert v-if="loading" type="info" variant="tonal" class="mb-4">Ładowanie…</v-alert>
+        <v-alert v-else-if="error" type="error" variant="tonal" class="mb-4 center-text">Błąd: {{ error }}</v-alert>
 
         <v-card v-else :elevation="2" rounded="lg" class="mb-4">
           <v-card-text>
-            <div class="text-medium-emphasis mb-4">
-              Wpisz <strong>przymiotnik + rzeczownik</strong> w podanym przypadku i liczbie.
-            </div>
             <div class="mb-2 d-flex align-center" style="gap:.75rem;">
               <v-btn size="small" variant="text" @click="showFilters = !showFilters" :prepend-icon="showFilters ? 'mdi-chevron-up' : 'mdi-filter-variant'">
                 {{ showFilters ? 'Ukryj filtry' : 'Filtry' }}
