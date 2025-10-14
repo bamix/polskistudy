@@ -4803,7 +4803,7 @@
             "nom": "grecki",
             "gen": "greckiego",
             "dat": "greckiemu",
-            "acc": "grecki",
+            "acc": "greckiego",
             "inst": "greckim",
             "loc": "greckim",
             "voc": "grecki"
@@ -6094,13 +6094,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "jasni",
+            "nom": "jaśni",
             "gen": "jasnych",
             "dat": "jasnym",
             "acc": "jasnych",
             "inst": "jasnymi",
             "loc": "jasnych",
-            "voc": "jasni"
+            "voc": "jaśni"
           },
           "other": {
             "nom": "jasne",
@@ -7084,13 +7084,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "leccy",
+            "nom": "lekcy",
             "gen": "lekkich",
             "dat": "lekkim",
             "acc": "lekkich",
             "inst": "lekkimi",
             "loc": "lekkich",
-            "voc": "leccy"
+            "voc": "lekcy"
           },
           "other": {
             "nom": "lekkie",
@@ -8624,13 +8624,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "niemcy",
+            "nom": "niemieccy",
             "gen": "niemieckich",
             "dat": "niemieckim",
             "acc": "niemieckich",
             "inst": "niemieckimi",
             "loc": "niemieckich",
-            "voc": "niemcy"
+            "voc": "niemieccy"
           },
           "other": {
             "nom": "niemieckie",
@@ -13601,50 +13601,50 @@
         "sg": {
           "m": {
             "nom": "szeroki",
-            "gen": "szerokego",
-            "dat": "szerokemu",
+            "gen": "szerokiego",
+            "dat": "szerokiemu",
             "acc": "szeroki",
-            "inst": "szerokym",
-            "loc": "szerokym",
+            "inst": "szerokim",
+            "loc": "szerokim",
             "voc": "szeroki"
           },
           "f": {
             "nom": "szeroka",
-            "gen": "szerokej",
-            "dat": "szerokej",
+            "gen": "szerokiej",
+            "dat": "szerokiej",
             "acc": "szeroką",
             "inst": "szeroką",
-            "loc": "szerokej",
+            "loc": "szerokiej",
             "voc": "szeroka"
           },
           "n": {
-            "nom": "szeroke",
-            "gen": "szerokego",
-            "dat": "szerokemu",
-            "acc": "szeroke",
-            "inst": "szerokym",
-            "loc": "szerokym",
-            "voc": "szeroke"
+            "nom": "szerokie",
+            "gen": "szerokiego",
+            "dat": "szerokiemu",
+            "acc": "szerokie",
+            "inst": "szerokim",
+            "loc": "szerokim",
+            "voc": "szerokie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "szeroki",
+            "nom": "szerocy",
             "gen": "szerokich",
-            "dat": "szerokym",
+            "dat": "szerokim",
             "acc": "szerokich",
-            "inst": "szerokymi",
+            "inst": "szerokimi",
             "loc": "szerokich",
-            "voc": "szeroki"
+            "voc": "szerocy"
           },
           "other": {
-            "nom": "szeroke",
+            "nom": "szerokie",
             "gen": "szerokich",
-            "dat": "szerokym",
-            "acc": "szeroke",
-            "inst": "szerokymi",
+            "dat": "szerokim",
+            "acc": "szerokie",
+            "inst": "szerokimi",
             "loc": "szerokich",
-            "voc": "szeroke"
+            "voc": "szerokie"
           }
         }
       }
@@ -13766,50 +13766,50 @@
         "sg": {
           "m": {
             "nom": "szorstki",
-            "gen": "szorstkego",
-            "dat": "szorstkemu",
+            "gen": "szorstkiego",
+            "dat": "szorstkiemu",
             "acc": "szorstki",
-            "inst": "szorstkym",
-            "loc": "szorstkym",
+            "inst": "szorstkim",
+            "loc": "szorstkim",
             "voc": "szorstki"
           },
           "f": {
             "nom": "szorstka",
-            "gen": "szorstkej",
-            "dat": "szorstkej",
+            "gen": "szorstkiej",
+            "dat": "szorstkiej",
             "acc": "szorstką",
             "inst": "szorstką",
-            "loc": "szorstkej",
+            "loc": "szorstkiej",
             "voc": "szorstka"
           },
           "n": {
-            "nom": "szorstke",
-            "gen": "szorstkego",
-            "dat": "szorstkemu",
-            "acc": "szorstke",
-            "inst": "szorstkym",
-            "loc": "szorstkym",
-            "voc": "szorstke"
+            "nom": "szorstkie",
+            "gen": "szorstkiego",
+            "dat": "szorstkiemu",
+            "acc": "szorstkie",
+            "inst": "szorstkim",
+            "loc": "szorstkim",
+            "voc": "szorstkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "szorstki",
+            "nom": "szorstcy",
             "gen": "szorstkich",
-            "dat": "szorstkym",
+            "dat": "szorstkim",
             "acc": "szorstkich",
-            "inst": "szorstkymi",
+            "inst": "szorstkimi",
             "loc": "szorstkich",
-            "voc": "szorstki"
+            "voc": "szorstcy"
           },
           "other": {
-            "nom": "szorstke",
+            "nom": "szorstkie",
             "gen": "szorstkich",
-            "dat": "szorstkym",
-            "acc": "szorstke",
-            "inst": "szorstkymi",
+            "dat": "szorstkim",
+            "acc": "szorstkie",
+            "inst": "szorstkimi",
             "loc": "szorstkich",
-            "voc": "szorstke"
+            "voc": "szorstkie"
           }
         }
       }
@@ -13876,50 +13876,50 @@
         "sg": {
           "m": {
             "nom": "szwedzki",
-            "gen": "szwedzkego",
-            "dat": "szwedzkemu",
+            "gen": "szwedzkiego",
+            "dat": "szwedzkiemu",
             "acc": "szwedzki",
-            "inst": "szwedzkym",
-            "loc": "szwedzkym",
+            "inst": "szwedzkim",
+            "loc": "szwedzkim",
             "voc": "szwedzki"
           },
           "f": {
             "nom": "szwedzka",
-            "gen": "szwedzkej",
-            "dat": "szwedzkej",
+            "gen": "szwedzkiej",
+            "dat": "szwedzkiej",
             "acc": "szwedzką",
             "inst": "szwedzką",
-            "loc": "szwedzkej",
+            "loc": "szwedzkiej",
             "voc": "szwedzka"
           },
           "n": {
-            "nom": "szwedzke",
-            "gen": "szwedzkego",
-            "dat": "szwedzkemu",
-            "acc": "szwedzke",
-            "inst": "szwedzkym",
-            "loc": "szwedzkym",
-            "voc": "szwedzke"
+            "nom": "szwedzkie",
+            "gen": "szwedzkiego",
+            "dat": "szwedzkiemu",
+            "acc": "szwedzkie",
+            "inst": "szwedzkim",
+            "loc": "szwedzkim",
+            "voc": "szwedzkie"
           }
         },
         "pl": {
           "m1": {
             "nom": "szwedzcy",
             "gen": "szwedzkich",
-            "dat": "szwedzkym",
+            "dat": "szwedzkim",
             "acc": "szwedzkich",
-            "inst": "szwedzkymi",
+            "inst": "szwedzkimi",
             "loc": "szwedzkich",
             "voc": "szwedzcy"
           },
           "other": {
-            "nom": "szwedzke",
+            "nom": "szwedzkie",
             "gen": "szwedzkich",
-            "dat": "szwedzkym",
-            "acc": "szwedzke",
-            "inst": "szwedzkymi",
+            "dat": "szwedzkim",
+            "acc": "szwedzkie",
+            "inst": "szwedzkimi",
             "loc": "szwedzkich",
-            "voc": "szwedzke"
+            "voc": "szwedzkie"
           }
         }
       }
@@ -13931,50 +13931,50 @@
         "sg": {
           "m": {
             "nom": "szybki",
-            "gen": "szybkego",
-            "dat": "szybkemu",
+            "gen": "szybkiego",
+            "dat": "szybkiemu",
             "acc": "szybki",
-            "inst": "szybkym",
-            "loc": "szybkym",
+            "inst": "szybkim",
+            "loc": "szybkim",
             "voc": "szybki"
           },
           "f": {
             "nom": "szybka",
-            "gen": "szybkej",
-            "dat": "szybkej",
+            "gen": "szybkiej",
+            "dat": "szybkiej",
             "acc": "szybką",
             "inst": "szybką",
-            "loc": "szybkej",
+            "loc": "szybkiej",
             "voc": "szybka"
           },
           "n": {
-            "nom": "szybke",
-            "gen": "szybkego",
-            "dat": "szybkemu",
-            "acc": "szybke",
-            "inst": "szybkym",
-            "loc": "szybkym",
-            "voc": "szybke"
+            "nom": "szybkie",
+            "gen": "szybkiego",
+            "dat": "szybkiemu",
+            "acc": "szybkie",
+            "inst": "szybkim",
+            "loc": "szybkim",
+            "voc": "szybkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "szybki",
+            "nom": "szybcy",
             "gen": "szybkich",
-            "dat": "szybkym",
+            "dat": "szybkim",
             "acc": "szybkich",
-            "inst": "szybkymi",
+            "inst": "szybkimi",
             "loc": "szybkich",
-            "voc": "szybki"
+            "voc": "szybcy"
           },
           "other": {
-            "nom": "szybke",
+            "nom": "szybkie",
             "gen": "szybkich",
-            "dat": "szybkym",
-            "acc": "szybke",
-            "inst": "szybkymi",
+            "dat": "szybkim",
+            "acc": "szybkie",
+            "inst": "szybkimi",
             "loc": "szybkich",
-            "voc": "szybke"
+            "voc": "szybkie"
           }
         }
       }
@@ -14014,13 +14014,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "szybszi",
+            "nom": "szybsi",
             "gen": "szybszych",
             "dat": "szybszym",
             "acc": "szybszych",
             "inst": "szybszymi",
             "loc": "szybszych",
-            "voc": "szybszi"
+            "voc": "szybsi"
           },
           "other": {
             "nom": "szybsze",
@@ -14069,13 +14069,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "słabszi",
+            "nom": "słabsi",
             "gen": "słabszych",
             "dat": "słabszym",
             "acc": "słabszych",
             "inst": "słabszymi",
             "loc": "słabszych",
-            "voc": "słabszi"
+            "voc": "słabsi"
           },
           "other": {
             "nom": "słabsze",
@@ -14151,50 +14151,50 @@
         "sg": {
           "m": {
             "nom": "słodki",
-            "gen": "słodkego",
-            "dat": "słodkemu",
+            "gen": "słodkiego",
+            "dat": "słodkiemu",
             "acc": "słodki",
-            "inst": "słodkym",
-            "loc": "słodkym",
+            "inst": "słodkim",
+            "loc": "słodkim",
             "voc": "słodki"
           },
           "f": {
             "nom": "słodka",
-            "gen": "słodkej",
-            "dat": "słodkej",
+            "gen": "słodkiej",
+            "dat": "słodkiej",
             "acc": "słodką",
             "inst": "słodką",
-            "loc": "słodkej",
+            "loc": "słodkiej",
             "voc": "słodka"
           },
           "n": {
-            "nom": "słodke",
-            "gen": "słodkego",
-            "dat": "słodkemu",
-            "acc": "słodke",
-            "inst": "słodkym",
-            "loc": "słodkym",
-            "voc": "słodke"
+            "nom": "słodkie",
+            "gen": "słodkiego",
+            "dat": "słodkiemu",
+            "acc": "słodkie",
+            "inst": "słodkim",
+            "loc": "słodkim",
+            "voc": "słodkie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "słodki",
+            "nom": "słodcy",
             "gen": "słodkich",
-            "dat": "słodkym",
+            "dat": "słodkim",
             "acc": "słodkich",
-            "inst": "słodkymi",
+            "inst": "słodkimi",
             "loc": "słodkich",
-            "voc": "słodki"
+            "voc": "słodcy"
           },
           "other": {
-            "nom": "słodke",
+            "nom": "słodkie",
             "gen": "słodkich",
-            "dat": "słodkym",
-            "acc": "słodke",
-            "inst": "słodkymi",
+            "dat": "słodkim",
+            "acc": "słodkie",
+            "inst": "słodkimi",
             "loc": "słodkich",
-            "voc": "słodke"
+            "voc": "słodkie"
           }
         }
       }
@@ -14371,50 +14371,50 @@
         "sg": {
           "m": {
             "nom": "tani",
-            "gen": "tanego",
-            "dat": "tanemu",
+            "gen": "taniego",
+            "dat": "taniemu",
             "acc": "tani",
-            "inst": "tanym",
-            "loc": "tanym",
+            "inst": "tanim",
+            "loc": "tanim",
             "voc": "tani"
           },
           "f": {
-            "nom": "tana",
-            "gen": "tanej",
-            "dat": "tanej",
-            "acc": "taną",
-            "inst": "taną",
-            "loc": "tanej",
-            "voc": "tana"
+            "nom": "tania",
+            "gen": "taniej",
+            "dat": "taniej",
+            "acc": "tanią",
+            "inst": "tanią",
+            "loc": "taniej",
+            "voc": "tania"
           },
           "n": {
-            "nom": "tane",
-            "gen": "tanego",
-            "dat": "tanemu",
-            "acc": "tane",
-            "inst": "tanym",
-            "loc": "tanym",
-            "voc": "tane"
+            "nom": "tanie",
+            "gen": "taniego",
+            "dat": "taniemu",
+            "acc": "tanie",
+            "inst": "tanim",
+            "loc": "tanim",
+            "voc": "tanie"
           }
         },
         "pl": {
           "m1": {
             "nom": "tani",
             "gen": "tanich",
-            "dat": "tanym",
+            "dat": "tanim",
             "acc": "tanich",
-            "inst": "tanymi",
+            "inst": "tanimi",
             "loc": "tanich",
             "voc": "tani"
           },
           "other": {
-            "nom": "tane",
+            "nom": "tanie",
             "gen": "tanich",
-            "dat": "tanym",
-            "acc": "tane",
-            "inst": "tanymi",
+            "dat": "tanim",
+            "acc": "tanie",
+            "inst": "tanimi",
             "loc": "tanich",
-            "voc": "tane"
+            "voc": "tanie"
           }
         }
       }
@@ -14426,50 +14426,50 @@
         "sg": {
           "m": {
             "nom": "tanzański",
-            "gen": "tanzańskego",
-            "dat": "tanzańskemu",
+            "gen": "tanzańskiego",
+            "dat": "tanzańskiemu",
             "acc": "tanzański",
-            "inst": "tanzańskym",
-            "loc": "tanzańskym",
+            "inst": "tanzańskim",
+            "loc": "tanzańskim",
             "voc": "tanzański"
           },
           "f": {
             "nom": "tanzańska",
-            "gen": "tanzańskej",
-            "dat": "tanzańskej",
+            "gen": "tanzańskiej",
+            "dat": "tanzańskiej",
             "acc": "tanzańską",
             "inst": "tanzańską",
-            "loc": "tanzańskej",
+            "loc": "tanzańskiej",
             "voc": "tanzańska"
           },
           "n": {
-            "nom": "tanzańske",
-            "gen": "tanzańskego",
-            "dat": "tanzańskemu",
-            "acc": "tanzańske",
-            "inst": "tanzańskym",
-            "loc": "tanzańskym",
-            "voc": "tanzańske"
+            "nom": "tanzańskie",
+            "gen": "tanzańskiego",
+            "dat": "tanzańskiemu",
+            "acc": "tanzańskie",
+            "inst": "tanzańskim",
+            "loc": "tanzańskim",
+            "voc": "tanzańskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "tanzańscy",
             "gen": "tanzańskich",
-            "dat": "tanzańskym",
+            "dat": "tanzańskim",
             "acc": "tanzańskich",
-            "inst": "tanzańskymi",
+            "inst": "tanzańskimi",
             "loc": "tanzańskich",
             "voc": "tanzańscy"
           },
           "other": {
-            "nom": "tanzańske",
+            "nom": "tanzańskie",
             "gen": "tanzańskich",
-            "dat": "tanzańskym",
-            "acc": "tanzańske",
-            "inst": "tanzańskymi",
+            "dat": "tanzańskim",
+            "acc": "tanzańskie",
+            "inst": "tanzańskimi",
             "loc": "tanzańskich",
-            "voc": "tanzańske"
+            "voc": "tanzańskie"
           }
         }
       }
@@ -14729,13 +14729,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "trudniejszi",
+            "nom": "trudniejsi",
             "gen": "trudniejszych",
             "dat": "trudniejszym",
             "acc": "trudniejszych",
             "inst": "trudniejszymi",
             "loc": "trudniejszych",
-            "voc": "trudniejszi"
+            "voc": "trudniejsi"
           },
           "other": {
             "nom": "trudniejsze",
@@ -14811,50 +14811,50 @@
         "sg": {
           "m": {
             "nom": "tunezyjski",
-            "gen": "tunezyjskego",
-            "dat": "tunezyjskemu",
+            "gen": "tunezyjskiego",
+            "dat": "tunezyjskiemu",
             "acc": "tunezyjski",
-            "inst": "tunezyjskym",
-            "loc": "tunezyjskym",
+            "inst": "tunezyjskim",
+            "loc": "tunezyjskim",
             "voc": "tunezyjski"
           },
           "f": {
             "nom": "tunezyjska",
-            "gen": "tunezyjskej",
-            "dat": "tunezyjskej",
+            "gen": "tunezyjskiej",
+            "dat": "tunezyjskiej",
             "acc": "tunezyjską",
             "inst": "tunezyjską",
-            "loc": "tunezyjskej",
+            "loc": "tunezyjskiej",
             "voc": "tunezyjska"
           },
           "n": {
-            "nom": "tunezyjske",
-            "gen": "tunezyjskego",
-            "dat": "tunezyjskemu",
-            "acc": "tunezyjske",
-            "inst": "tunezyjskym",
-            "loc": "tunezyjskym",
-            "voc": "tunezyjske"
+            "nom": "tunezyjskie",
+            "gen": "tunezyjskiego",
+            "dat": "tunezyjskiemu",
+            "acc": "tunezyjskie",
+            "inst": "tunezyjskim",
+            "loc": "tunezyjskim",
+            "voc": "tunezyjskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "tunezyjscy",
             "gen": "tunezyjskich",
-            "dat": "tunezyjskym",
+            "dat": "tunezyjskim",
             "acc": "tunezyjskich",
-            "inst": "tunezyjskymi",
+            "inst": "tunezyjskimi",
             "loc": "tunezyjskich",
             "voc": "tunezyjscy"
           },
           "other": {
-            "nom": "tunezyjske",
+            "nom": "tunezyjskie",
             "gen": "tunezyjskich",
-            "dat": "tunezyjskym",
-            "acc": "tunezyjske",
-            "inst": "tunezyjskymi",
+            "dat": "tunezyjskim",
+            "acc": "tunezyjskie",
+            "inst": "tunezyjskimi",
             "loc": "tunezyjskich",
-            "voc": "tunezyjske"
+            "voc": "tunezyjskie"
           }
         }
       }
@@ -14866,50 +14866,50 @@
         "sg": {
           "m": {
             "nom": "turecki",
-            "gen": "tureckego",
-            "dat": "tureckemu",
+            "gen": "tureckiego",
+            "dat": "tureckiemu",
             "acc": "turecki",
-            "inst": "tureckym",
-            "loc": "tureckym",
+            "inst": "tureckim",
+            "loc": "tureckim",
             "voc": "turecki"
           },
           "f": {
             "nom": "turecka",
-            "gen": "tureckej",
-            "dat": "tureckej",
+            "gen": "tureckiej",
+            "dat": "tureckiej",
             "acc": "turecką",
             "inst": "turecką",
-            "loc": "tureckej",
+            "loc": "tureckiej",
             "voc": "turecka"
           },
           "n": {
-            "nom": "turecke",
-            "gen": "tureckego",
-            "dat": "tureckemu",
-            "acc": "turecke",
-            "inst": "tureckym",
-            "loc": "tureckym",
-            "voc": "turecke"
+            "nom": "tureckie",
+            "gen": "tureckiego",
+            "dat": "tureckiemu",
+            "acc": "tureckie",
+            "inst": "tureckim",
+            "loc": "tureckim",
+            "voc": "tureckie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "tureccy",
+            "nom": "turcy",
             "gen": "tureckich",
-            "dat": "tureckym",
+            "dat": "tureckim",
             "acc": "tureckich",
-            "inst": "tureckymi",
+            "inst": "tureckimi",
             "loc": "tureckich",
-            "voc": "tureccy"
+            "voc": "turcy"
           },
           "other": {
-            "nom": "turecke",
+            "nom": "tureckie",
             "gen": "tureckich",
-            "dat": "tureckym",
-            "acc": "turecke",
-            "inst": "tureckymi",
+            "dat": "tureckim",
+            "acc": "tureckie",
+            "inst": "tureckimi",
             "loc": "tureckich",
-            "voc": "turecke"
+            "voc": "tureckie"
           }
         }
       }
@@ -15004,13 +15004,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "twardi",
+            "nom": "twardzi",
             "gen": "twardych",
             "dat": "twardym",
             "acc": "twardych",
             "inst": "twardymi",
             "loc": "twardych",
-            "voc": "twardi"
+            "voc": "twardzi"
           },
           "other": {
             "nom": "twarde",
@@ -15086,50 +15086,50 @@
         "sg": {
           "m": {
             "nom": "ukraiński",
-            "gen": "ukraińskego",
-            "dat": "ukraińskemu",
+            "gen": "ukraińskiego",
+            "dat": "ukraińskiemu",
             "acc": "ukraiński",
-            "inst": "ukraińskym",
-            "loc": "ukraińskym",
+            "inst": "ukraińskim",
+            "loc": "ukraińskim",
             "voc": "ukraiński"
           },
           "f": {
             "nom": "ukraińska",
-            "gen": "ukraińskej",
-            "dat": "ukraińskej",
+            "gen": "ukraińskiej",
+            "dat": "ukraińskiej",
             "acc": "ukraińską",
             "inst": "ukraińską",
-            "loc": "ukraińskej",
+            "loc": "ukraińskiej",
             "voc": "ukraińska"
           },
           "n": {
-            "nom": "ukraińske",
-            "gen": "ukraińskego",
-            "dat": "ukraińskemu",
-            "acc": "ukraińske",
-            "inst": "ukraińskym",
-            "loc": "ukraińskym",
-            "voc": "ukraińske"
+            "nom": "ukraińskie",
+            "gen": "ukraińskiego",
+            "dat": "ukraińskiemu",
+            "acc": "ukraińskie",
+            "inst": "ukraińskim",
+            "loc": "ukraińskim",
+            "voc": "ukraińskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "ukraińscy",
             "gen": "ukraińskich",
-            "dat": "ukraińskym",
+            "dat": "ukraińskim",
             "acc": "ukraińskich",
-            "inst": "ukraińskymi",
+            "inst": "ukraińskimi",
             "loc": "ukraińskich",
             "voc": "ukraińscy"
           },
           "other": {
-            "nom": "ukraińske",
+            "nom": "ukraińskie",
             "gen": "ukraińskich",
-            "dat": "ukraińskym",
-            "acc": "ukraińske",
-            "inst": "ukraińskymi",
+            "dat": "ukraińskim",
+            "acc": "ukraińskie",
+            "inst": "ukraińskimi",
             "loc": "ukraińskich",
-            "voc": "ukraińske"
+            "voc": "ukraińskie"
           }
         }
       }
@@ -15196,50 +15196,50 @@
         "sg": {
           "m": {
             "nom": "urugwajski",
-            "gen": "urugwajskego",
-            "dat": "urugwajskemu",
+            "gen": "urugwajskiego",
+            "dat": "urugwajskiemu",
             "acc": "urugwajski",
-            "inst": "urugwajskym",
-            "loc": "urugwajskym",
+            "inst": "urugwajskim",
+            "loc": "urugwajskim",
             "voc": "urugwajski"
           },
           "f": {
             "nom": "urugwajska",
-            "gen": "urugwajskej",
-            "dat": "urugwajskej",
+            "gen": "urugwajskiej",
+            "dat": "urugwajskiej",
             "acc": "urugwajską",
             "inst": "urugwajską",
-            "loc": "urugwajskej",
+            "loc": "urugwajskiej",
             "voc": "urugwajska"
           },
           "n": {
-            "nom": "urugwajske",
-            "gen": "urugwajskego",
-            "dat": "urugwajskemu",
-            "acc": "urugwajske",
-            "inst": "urugwajskym",
-            "loc": "urugwajskym",
-            "voc": "urugwajske"
+            "nom": "urugwajskie",
+            "gen": "urugwajskiego",
+            "dat": "urugwajskiemu",
+            "acc": "urugwajskie",
+            "inst": "urugwajskim",
+            "loc": "urugwajskim",
+            "voc": "urugwajskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "urugwajscy",
             "gen": "urugwajskich",
-            "dat": "urugwajskym",
+            "dat": "urugwajskim",
             "acc": "urugwajskich",
-            "inst": "urugwajskymi",
+            "inst": "urugwajskimi",
             "loc": "urugwajskich",
             "voc": "urugwajscy"
           },
           "other": {
-            "nom": "urugwajske",
+            "nom": "urugwajskie",
             "gen": "urugwajskich",
-            "dat": "urugwajskym",
-            "acc": "urugwajske",
-            "inst": "urugwajskymi",
+            "dat": "urugwajskim",
+            "acc": "urugwajskie",
+            "inst": "urugwajskimi",
             "loc": "urugwajskich",
-            "voc": "urugwajske"
+            "voc": "urugwajskie"
           }
         }
       }
@@ -15609,13 +15609,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "wczesni",
+            "nom": "wcześni",
             "gen": "wczesnych",
             "dat": "wczesnym",
             "acc": "wczesnych",
             "inst": "wczesnymi",
             "loc": "wczesnych",
-            "voc": "wczesni"
+            "voc": "wcześni"
           },
           "other": {
             "nom": "wczesne",
@@ -15636,50 +15636,50 @@
         "sg": {
           "m": {
             "nom": "wenezuelski",
-            "gen": "wenezuelskego",
-            "dat": "wenezuelskemu",
+            "gen": "wenezuelskiego",
+            "dat": "wenezuelskiemu",
             "acc": "wenezuelski",
-            "inst": "wenezuelskym",
-            "loc": "wenezuelskym",
+            "inst": "wenezuelskim",
+            "loc": "wenezuelskim",
             "voc": "wenezuelski"
           },
           "f": {
             "nom": "wenezuelska",
-            "gen": "wenezuelskej",
-            "dat": "wenezuelskej",
+            "gen": "wenezuelskiej",
+            "dat": "wenezuelskiej",
             "acc": "wenezuelską",
             "inst": "wenezuelską",
-            "loc": "wenezuelskej",
+            "loc": "wenezuelskiej",
             "voc": "wenezuelska"
           },
           "n": {
-            "nom": "wenezuelske",
-            "gen": "wenezuelskego",
-            "dat": "wenezuelskemu",
-            "acc": "wenezuelske",
-            "inst": "wenezuelskym",
-            "loc": "wenezuelskym",
-            "voc": "wenezuelske"
+            "nom": "wenezuelskie",
+            "gen": "wenezuelskiego",
+            "dat": "wenezuelskiemu",
+            "acc": "wenezuelskie",
+            "inst": "wenezuelskim",
+            "loc": "wenezuelskim",
+            "voc": "wenezuelskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "wenezuelscy",
             "gen": "wenezuelskich",
-            "dat": "wenezuelskym",
+            "dat": "wenezuelskim",
             "acc": "wenezuelskich",
-            "inst": "wenezuelskymi",
+            "inst": "wenezuelskimi",
             "loc": "wenezuelskich",
             "voc": "wenezuelscy"
           },
           "other": {
-            "nom": "wenezuelske",
+            "nom": "wenezuelskie",
             "gen": "wenezuelskich",
-            "dat": "wenezuelskym",
-            "acc": "wenezuelske",
-            "inst": "wenezuelskymi",
+            "dat": "wenezuelskim",
+            "acc": "wenezuelskie",
+            "inst": "wenezuelskimi",
             "loc": "wenezuelskich",
-            "voc": "wenezuelske"
+            "voc": "wenezuelskie"
           }
         }
       }
@@ -15719,13 +15719,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "wesoli",
+            "nom": "weseli",
             "gen": "wesołych",
             "dat": "wesołym",
             "acc": "wesołych",
             "inst": "wesołymi",
             "loc": "wesołych",
-            "voc": "wesoli"
+            "voc": "weseli"
           },
           "other": {
             "nom": "wesołe",
@@ -15801,50 +15801,50 @@
         "sg": {
           "m": {
             "nom": "wiejski",
-            "gen": "wiejskego",
-            "dat": "wiejskemu",
+            "gen": "wiejskiego",
+            "dat": "wiejskiemu",
             "acc": "wiejski",
-            "inst": "wiejskym",
-            "loc": "wiejskym",
+            "inst": "wiejskim",
+            "loc": "wiejskim",
             "voc": "wiejski"
           },
           "f": {
             "nom": "wiejska",
-            "gen": "wiejskej",
-            "dat": "wiejskej",
+            "gen": "wiejskiej",
+            "dat": "wiejskiej",
             "acc": "wiejską",
             "inst": "wiejską",
-            "loc": "wiejskej",
+            "loc": "wiejskiej",
             "voc": "wiejska"
           },
           "n": {
-            "nom": "wiejske",
-            "gen": "wiejskego",
-            "dat": "wiejskemu",
-            "acc": "wiejske",
-            "inst": "wiejskym",
-            "loc": "wiejskym",
-            "voc": "wiejske"
+            "nom": "wiejskie",
+            "gen": "wiejskiego",
+            "dat": "wiejskiemu",
+            "acc": "wiejskie",
+            "inst": "wiejskim",
+            "loc": "wiejskim",
+            "voc": "wiejskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "wiejscy",
             "gen": "wiejskich",
-            "dat": "wiejskym",
+            "dat": "wiejskim",
             "acc": "wiejskich",
-            "inst": "wiejskymi",
+            "inst": "wiejskimi",
             "loc": "wiejskich",
             "voc": "wiejscy"
           },
           "other": {
-            "nom": "wiejske",
+            "nom": "wiejskie",
             "gen": "wiejskich",
-            "dat": "wiejskym",
-            "acc": "wiejske",
-            "inst": "wiejskymi",
+            "dat": "wiejskim",
+            "acc": "wiejskie",
+            "inst": "wiejskimi",
             "loc": "wiejskich",
-            "voc": "wiejske"
+            "voc": "wiejskie"
           }
         }
       }
@@ -15994,13 +15994,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "wolniejszi",
+            "nom": "wolniejsi",
             "gen": "wolniejszych",
             "dat": "wolniejszym",
             "acc": "wolniejszych",
             "inst": "wolniejszymi",
             "loc": "wolniejszych",
-            "voc": "wolniejszi"
+            "voc": "wolniejsi"
           },
           "other": {
             "nom": "wolniejsze",
@@ -16159,13 +16159,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "współczesni",
+            "nom": "współcześni",
             "gen": "współczesnych",
             "dat": "współczesnym",
             "acc": "współczesnych",
             "inst": "współczesnymi",
             "loc": "współczesnych",
-            "voc": "współczesni"
+            "voc": "współcześni"
           },
           "other": {
             "nom": "współczesne",
@@ -16241,50 +16241,50 @@
         "sg": {
           "m": {
             "nom": "wysoki",
-            "gen": "wysokego",
-            "dat": "wysokemu",
+            "gen": "wysokiego",
+            "dat": "wysokiemu",
             "acc": "wysoki",
-            "inst": "wysokym",
-            "loc": "wysokym",
+            "inst": "wysokim",
+            "loc": "wysokim",
             "voc": "wysoki"
           },
           "f": {
             "nom": "wysoka",
-            "gen": "wysokej",
-            "dat": "wysokej",
+            "gen": "wysokiej",
+            "dat": "wysokiej",
             "acc": "wysoką",
             "inst": "wysoką",
-            "loc": "wysokej",
+            "loc": "wysokiej",
             "voc": "wysoka"
           },
           "n": {
-            "nom": "wysoke",
-            "gen": "wysokego",
-            "dat": "wysokemu",
-            "acc": "wysoke",
-            "inst": "wysokym",
-            "loc": "wysokym",
-            "voc": "wysoke"
+            "nom": "wysokie",
+            "gen": "wysokiego",
+            "dat": "wysokiemu",
+            "acc": "wysokie",
+            "inst": "wysokim",
+            "loc": "wysokim",
+            "voc": "wysokie"
           }
         },
         "pl": {
           "m1": {
-            "nom": "wysoki",
+            "nom": "wysocy",
             "gen": "wysokich",
-            "dat": "wysokym",
+            "dat": "wysokim",
             "acc": "wysokich",
-            "inst": "wysokymi",
+            "inst": "wysokimi",
             "loc": "wysokich",
-            "voc": "wysoki"
+            "voc": "wysocy"
           },
           "other": {
-            "nom": "wysoke",
+            "nom": "wysokie",
             "gen": "wysokich",
-            "dat": "wysokym",
-            "acc": "wysoke",
-            "inst": "wysokymi",
+            "dat": "wysokim",
+            "acc": "wysokie",
+            "inst": "wysokimi",
             "loc": "wysokich",
-            "voc": "wysoke"
+            "voc": "wysokie"
           }
         }
       }
@@ -16324,13 +16324,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "wyższi",
+            "nom": "wyżsi",
             "gen": "wyższych",
             "dat": "wyższym",
             "acc": "wyższych",
             "inst": "wyższymi",
             "loc": "wyższych",
-            "voc": "wyższi"
+            "voc": "wyżsi"
           },
           "other": {
             "nom": "wyższe",
@@ -16351,50 +16351,50 @@
         "sg": {
           "m": {
             "nom": "wąski",
-            "gen": "wąskego",
-            "dat": "wąskemu",
+            "gen": "wąskiego",
+            "dat": "wąskiemu",
             "acc": "wąski",
-            "inst": "wąskym",
-            "loc": "wąskym",
+            "inst": "wąskim",
+            "loc": "wąskim",
             "voc": "wąski"
           },
           "f": {
             "nom": "wąska",
-            "gen": "wąskej",
-            "dat": "wąskej",
+            "gen": "wąskiej",
+            "dat": "wąskiej",
             "acc": "wąską",
             "inst": "wąską",
-            "loc": "wąskej",
+            "loc": "wąskiej",
             "voc": "wąska"
           },
           "n": {
-            "nom": "wąske",
-            "gen": "wąskego",
-            "dat": "wąskemu",
-            "acc": "wąske",
-            "inst": "wąskym",
-            "loc": "wąskym",
-            "voc": "wąske"
+            "nom": "wąskie",
+            "gen": "wąskiego",
+            "dat": "wąskiemu",
+            "acc": "wąskie",
+            "inst": "wąskim",
+            "loc": "wąskim",
+            "voc": "wąskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "wąscy",
             "gen": "wąskich",
-            "dat": "wąskym",
+            "dat": "wąskim",
             "acc": "wąskich",
-            "inst": "wąskymi",
+            "inst": "wąskimi",
             "loc": "wąskich",
             "voc": "wąscy"
           },
           "other": {
-            "nom": "wąske",
+            "nom": "wąskie",
             "gen": "wąskich",
-            "dat": "wąskym",
-            "acc": "wąske",
-            "inst": "wąskymi",
+            "dat": "wąskim",
+            "acc": "wąskie",
+            "inst": "wąskimi",
             "loc": "wąskich",
-            "voc": "wąske"
+            "voc": "wąskie"
           }
         }
       }
@@ -16406,50 +16406,50 @@
         "sg": {
           "m": {
             "nom": "węgierski",
-            "gen": "węgierskego",
-            "dat": "węgierskemu",
+            "gen": "węgierskiego",
+            "dat": "węgierskiemu",
             "acc": "węgierski",
-            "inst": "węgierskym",
-            "loc": "węgierskym",
+            "inst": "węgierskim",
+            "loc": "węgierskim",
             "voc": "węgierski"
           },
           "f": {
             "nom": "węgierska",
-            "gen": "węgierskej",
-            "dat": "węgierskej",
+            "gen": "węgierskiej",
+            "dat": "węgierskiej",
             "acc": "węgierską",
             "inst": "węgierską",
-            "loc": "węgierskej",
+            "loc": "węgierskiej",
             "voc": "węgierska"
           },
           "n": {
-            "nom": "węgierske",
-            "gen": "węgierskego",
-            "dat": "węgierskemu",
-            "acc": "węgierske",
-            "inst": "węgierskym",
-            "loc": "węgierskym",
-            "voc": "węgierske"
+            "nom": "węgierskie",
+            "gen": "węgierskiego",
+            "dat": "węgierskiemu",
+            "acc": "węgierskie",
+            "inst": "węgierskim",
+            "loc": "węgierskim",
+            "voc": "węgierskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "węgierscy",
             "gen": "węgierskich",
-            "dat": "węgierskym",
+            "dat": "węgierskim",
             "acc": "węgierskich",
-            "inst": "węgierskymi",
+            "inst": "węgierskimi",
             "loc": "węgierskich",
             "voc": "węgierscy"
           },
           "other": {
-            "nom": "węgierske",
+            "nom": "węgierskie",
             "gen": "węgierskich",
-            "dat": "węgierskym",
-            "acc": "węgierske",
-            "inst": "węgierskymi",
+            "dat": "węgierskim",
+            "acc": "węgierskie",
+            "inst": "węgierskimi",
             "loc": "węgierskich",
-            "voc": "węgierske"
+            "voc": "węgierskie"
           }
         }
       }
@@ -16461,50 +16461,50 @@
         "sg": {
           "m": {
             "nom": "włoski",
-            "gen": "włoskego",
-            "dat": "włoskemu",
+            "gen": "włoskiego",
+            "dat": "włoskiemu",
             "acc": "włoski",
-            "inst": "włoskym",
-            "loc": "włoskym",
+            "inst": "włoskim",
+            "loc": "włoskim",
             "voc": "włoski"
           },
           "f": {
             "nom": "włoska",
-            "gen": "włoskej",
-            "dat": "włoskej",
+            "gen": "włoskiej",
+            "dat": "włoskiej",
             "acc": "włoską",
             "inst": "włoską",
-            "loc": "włoskej",
+            "loc": "włoskiej",
             "voc": "włoska"
           },
           "n": {
-            "nom": "włoske",
-            "gen": "włoskego",
-            "dat": "włoskemu",
-            "acc": "włoske",
-            "inst": "włoskym",
-            "loc": "włoskym",
-            "voc": "włoske"
+            "nom": "włoskie",
+            "gen": "włoskiego",
+            "dat": "włoskiemu",
+            "acc": "włoskie",
+            "inst": "włoskim",
+            "loc": "włoskim",
+            "voc": "włoskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "włoscy",
             "gen": "włoskich",
-            "dat": "włoskym",
+            "dat": "włoskim",
             "acc": "włoskich",
-            "inst": "włoskymi",
+            "inst": "włoskimi",
             "loc": "włoskich",
             "voc": "włoscy"
           },
           "other": {
-            "nom": "włoske",
+            "nom": "włoskie",
             "gen": "włoskich",
-            "dat": "włoskym",
-            "acc": "włoske",
-            "inst": "włoskymi",
+            "dat": "włoskim",
+            "acc": "włoskie",
+            "inst": "włoskimi",
             "loc": "włoskich",
-            "voc": "włoske"
+            "voc": "włoskie"
           }
         }
       }
@@ -17039,13 +17039,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "zimniejszi",
+            "nom": "zimniejsi",
             "gen": "zimniejszych",
             "dat": "zimniejszym",
             "acc": "zimniejszych",
             "inst": "zimniejszymi",
             "loc": "zimniejszych",
-            "voc": "zimniejszi"
+            "voc": "zimniejsi"
           },
           "other": {
             "nom": "zimniejsze",
@@ -17204,13 +17204,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "złożoni",
+            "nom": "złożeni",
             "gen": "złożonych",
             "dat": "złożonym",
             "acc": "złożonych",
             "inst": "złożonymi",
             "loc": "złożonych",
-            "voc": "złożoni"
+            "voc": "złożeni"
           },
           "other": {
             "nom": "złożone",
@@ -17259,13 +17259,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "zli",
+            "nom": "źli",
             "gen": "złych",
             "dat": "złym",
             "acc": "złych",
             "inst": "złymi",
             "loc": "złych",
-            "voc": "zli"
+            "voc": "źli"
           },
           "other": {
             "nom": "złe",
@@ -17424,13 +17424,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "łatwiejszi",
+            "nom": "łatwiejsi",
             "gen": "łatwiejszych",
             "dat": "łatwiejszym",
             "acc": "łatwiejszych",
             "inst": "łatwiejszymi",
             "loc": "łatwiejszych",
-            "voc": "łatwiejszi"
+            "voc": "łatwiejsi"
           },
           "other": {
             "nom": "łatwiejsze",
@@ -17506,50 +17506,50 @@
         "sg": {
           "m": {
             "nom": "łotewski",
-            "gen": "łotewskego",
-            "dat": "łotewskemu",
+            "gen": "łotewskiego",
+            "dat": "łotewskiemu",
             "acc": "łotewski",
-            "inst": "łotewskym",
-            "loc": "łotewskym",
+            "inst": "łotewskim",
+            "loc": "łotewskim",
             "voc": "łotewski"
           },
           "f": {
             "nom": "łotewska",
-            "gen": "łotewskej",
-            "dat": "łotewskej",
+            "gen": "łotewskiej",
+            "dat": "łotewskiej",
             "acc": "łotewską",
             "inst": "łotewską",
-            "loc": "łotewskej",
+            "loc": "łotewskiej",
             "voc": "łotewska"
           },
           "n": {
-            "nom": "łotewske",
-            "gen": "łotewskego",
-            "dat": "łotewskemu",
-            "acc": "łotewske",
-            "inst": "łotewskym",
-            "loc": "łotewskym",
-            "voc": "łotewske"
+            "nom": "łotewskie",
+            "gen": "łotewskiego",
+            "dat": "łotewskiemu",
+            "acc": "łotewskie",
+            "inst": "łotewskim",
+            "loc": "łotewskim",
+            "voc": "łotewskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "łotewscy",
             "gen": "łotewskich",
-            "dat": "łotewskym",
+            "dat": "łotewskim",
             "acc": "łotewskich",
-            "inst": "łotewskymi",
+            "inst": "łotewskimi",
             "loc": "łotewskich",
             "voc": "łotewscy"
           },
           "other": {
-            "nom": "łotewske",
+            "nom": "łotewskie",
             "gen": "łotewskich",
-            "dat": "łotewskym",
-            "acc": "łotewske",
-            "inst": "łotewskymi",
+            "dat": "łotewskim",
+            "acc": "łotewskie",
+            "inst": "łotewskimi",
             "loc": "łotewskich",
-            "voc": "łotewske"
+            "voc": "łotewskie"
           }
         }
       }
@@ -17644,13 +17644,13 @@
         },
         "pl": {
           "m1": {
-            "nom": "świeżi",
+            "nom": "świeży",
             "gen": "świeżych",
             "dat": "świeżym",
             "acc": "świeżych",
             "inst": "świeżymi",
             "loc": "świeżych",
-            "voc": "świeżi"
+            "voc": "świeży"
           },
           "other": {
             "nom": "świeże",
@@ -17810,21 +17810,21 @@
       "forms": {
         "sg": {
           "nom": "apteka",
-          "gen": "apteky",
-          "dat": "aptekie",
+          "gen": "apteki",
+          "dat": "aptece",
           "acc": "aptekę",
           "inst": "apteką",
-          "loc": "aptekie",
+          "loc": "aptece",
           "voc": "apteko"
         },
         "pl": {
-          "nom": "apteky",
+          "nom": "apteki",
           "gen": "aptek",
           "dat": "aptekom",
-          "acc": "apteky",
+          "acc": "apteki",
           "inst": "aptekami",
           "loc": "aptekach",
-          "voc": "apteky"
+          "voc": "apteki"
         }
       }
     },
@@ -17865,18 +17865,18 @@
           "gen": "banku",
           "dat": "bankowi",
           "acc": "bank",
-          "inst": "bankem",
-          "loc": "bankie",
-          "voc": "bankie"
+          "inst": "bankiem",
+          "loc": "banku",
+          "voc": "banku"
         },
         "pl": {
-          "nom": "banky",
+          "nom": "banki",
           "gen": "banków",
           "dat": "bankom",
-          "acc": "banky",
+          "acc": "banki",
           "inst": "bankami",
           "loc": "bankach",
-          "voc": "banky"
+          "voc": "banki"
         }
       }
     },
@@ -17888,21 +17888,21 @@
       "forms": {
         "sg": {
           "nom": "biblioteka",
-          "gen": "biblioteky",
-          "dat": "bibliotekie",
+          "gen": "biblioteki",
+          "dat": "bibliotece",
           "acc": "bibliotekę",
           "inst": "biblioteką",
-          "loc": "bibliotekie",
+          "loc": "bibliotece",
           "voc": "biblioteko"
         },
         "pl": {
-          "nom": "biblioteky",
+          "nom": "biblioteki",
           "gen": "bibliotek",
           "dat": "bibliotekom",
-          "acc": "biblioteky",
+          "acc": "biblioteki",
           "inst": "bibliotekami",
           "loc": "bibliotekach",
-          "voc": "biblioteky"
+          "voc": "biblioteki"
         }
       }
     },
@@ -17918,8 +17918,8 @@
           "dat": "biletowi",
           "acc": "bilet",
           "inst": "biletem",
-          "loc": "biletie",
-          "voc": "biletie"
+          "loc": "bilecie",
+          "voc": "bilecie"
         },
         "pl": {
           "nom": "bilety",
@@ -17943,13 +17943,13 @@
           "gen": "biurka",
           "dat": "biurku",
           "acc": "biurko",
-          "inst": "biurkem",
-          "loc": "biurke",
+          "inst": "biurkiem",
+          "loc": "biurku",
           "voc": "biurko"
         },
         "pl": {
           "nom": "biurka",
-          "gen": "biurk",
+          "gen": "biurek",
           "dat": "biurkom",
           "acc": "biurka",
           "inst": "biurkami",
@@ -17966,21 +17966,21 @@
       "forms": {
         "sg": {
           "nom": "budynek",
-          "gen": "budyneku",
-          "dat": "budynekowi",
+          "gen": "budynku",
+          "dat": "budynkowi",
           "acc": "budynek",
-          "inst": "budynekem",
-          "loc": "budynekie",
-          "voc": "budynekie"
+          "inst": "budynkiem",
+          "loc": "budynku",
+          "voc": "budynku"
         },
         "pl": {
-          "nom": "budyneky",
-          "gen": "budyneków",
-          "dat": "budynekom",
-          "acc": "budyneky",
-          "inst": "budynekami",
-          "loc": "budynekach",
-          "voc": "budyneky"
+          "nom": "budynki",
+          "gen": "budynków",
+          "dat": "budynkom",
+          "acc": "budynki",
+          "inst": "budynkami",
+          "loc": "budynkach",
+          "voc": "budynki"
         }
       }
     },
@@ -17992,12 +17992,12 @@
       "forms": {
         "sg": {
           "nom": "but",
-          "gen": "butu",
+          "gen": "buta",
           "dat": "butowi",
           "acc": "but",
           "inst": "butem",
-          "loc": "butie",
-          "voc": "butie"
+          "loc": "bucie",
+          "voc": "bucie"
         },
         "pl": {
           "nom": "buty",
@@ -18018,21 +18018,21 @@
       "forms": {
         "sg": {
           "nom": "błąd",
-          "gen": "błądu",
-          "dat": "błądowi",
+          "gen": "błędu",
+          "dat": "błędowi",
           "acc": "błąd",
-          "inst": "błądem",
-          "loc": "błądie",
-          "voc": "błądie"
+          "inst": "błędem",
+          "loc": "błędzie",
+          "voc": "błędzie"
         },
         "pl": {
-          "nom": "błądy",
-          "gen": "błądów",
-          "dat": "błądom",
-          "acc": "błądy",
-          "inst": "błądami",
-          "loc": "błądach",
-          "voc": "błądy"
+          "nom": "błędy",
+          "gen": "błędów",
+          "dat": "błędom",
+          "acc": "błędy",
+          "inst": "błędami",
+          "loc": "błędach",
+          "voc": "błędy"
         }
       }
     },
@@ -18044,21 +18044,21 @@
       "forms": {
         "sg": {
           "nom": "centrum",
-          "gen": "centruma",
-          "dat": "centrumu",
+          "gen": "centrum",
+          "dat": "centrum",
           "acc": "centrum",
-          "inst": "centrumem",
-          "loc": "centrume",
+          "inst": "centrum",
+          "loc": "centrum",
           "voc": "centrum"
         },
         "pl": {
-          "nom": "centruma",
-          "gen": "centru",
-          "dat": "centruom",
-          "acc": "centrua",
-          "inst": "centruami",
-          "loc": "centruach",
-          "voc": "centrua"
+          "nom": "centra",
+          "gen": "centrów",
+          "dat": "centrom",
+          "acc": "centra",
+          "inst": "centrami",
+          "loc": "centrach",
+          "voc": "centra"
         }
       }
     },
@@ -18096,21 +18096,21 @@
       "forms": {
         "sg": {
           "nom": "chwila",
-          "gen": "chwily",
-          "dat": "chwilie",
+          "gen": "chwili",
+          "dat": "chwili",
           "acc": "chwilę",
           "inst": "chwilą",
-          "loc": "chwilie",
+          "loc": "chwili",
           "voc": "chwilo"
         },
         "pl": {
-          "nom": "chwily",
+          "nom": "chwile",
           "gen": "chwil",
           "dat": "chwilom",
-          "acc": "chwily",
+          "acc": "chwile",
           "inst": "chwilami",
           "loc": "chwilach",
-          "voc": "chwily"
+          "voc": "chwile"
         }
       }
     },
@@ -18126,7 +18126,7 @@
           "dat": "ciału",
           "acc": "ciało",
           "inst": "ciałem",
-          "loc": "ciałe",
+          "loc": "ciele",
           "voc": "ciało"
         },
         "pl": {
@@ -18148,21 +18148,21 @@
       "forms": {
         "sg": {
           "nom": "cukier",
-          "gen": "cukieru",
-          "dat": "cukierowi",
+          "gen": "cukru",
+          "dat": "cukrowi",
           "acc": "cukier",
-          "inst": "cukierem",
-          "loc": "cukierie",
-          "voc": "cukierie"
+          "inst": "cukrem",
+          "loc": "cukrze",
+          "voc": "cukrze"
         },
         "pl": {
-          "nom": "cukiery",
-          "gen": "cukierów",
-          "dat": "cukierom",
-          "acc": "cukiery",
-          "inst": "cukierami",
-          "loc": "cukierach",
-          "voc": "cukiery"
+          "nom": "cukry",
+          "gen": "cukrów",
+          "dat": "cukrom",
+          "acc": "cukry",
+          "inst": "cukrami",
+          "loc": "cukrach",
+          "voc": "cukry"
         }
       }
     },
@@ -18200,21 +18200,21 @@
       "forms": {
         "sg": {
           "nom": "członek",
-          "gen": "członeku",
-          "dat": "członekowi",
-          "acc": "członek",
-          "inst": "członekem",
-          "loc": "członekie",
-          "voc": "członekie"
+          "gen": "członka",
+          "dat": "członkowi",
+          "acc": "członka",
+          "inst": "członkiem",
+          "loc": "członku",
+          "voc": "członku"
         },
         "pl": {
-          "nom": "członeky",
-          "gen": "członeków",
-          "dat": "członekom",
-          "acc": "członeky",
-          "inst": "członekami",
-          "loc": "członekach",
-          "voc": "członeky"
+          "nom": "członkowie",
+          "gen": "członków",
+          "dat": "członkom",
+          "acc": "członków",
+          "inst": "członkami",
+          "loc": "członkach",
+          "voc": "członkowie"
         }
       }
     },
@@ -18230,8 +18230,8 @@
           "dat": "dachowi",
           "acc": "dach",
           "inst": "dachem",
-          "loc": "dachie",
-          "voc": "dachie"
+          "loc": "dachu",
+          "voc": "dachu"
         },
         "pl": {
           "nom": "dachy",
@@ -18252,21 +18252,21 @@
       "forms": {
         "sg": {
           "nom": "decyzja",
-          "gen": "decyzjy",
-          "dat": "decyzjie",
+          "gen": "decyzji",
+          "dat": "decyzji",
           "acc": "decyzję",
           "inst": "decyzją",
-          "loc": "decyzjie",
+          "loc": "decyzji",
           "voc": "decyzjo"
         },
         "pl": {
-          "nom": "decyzjy",
-          "gen": "decyzj",
+          "nom": "decyzje",
+          "gen": "decyzji",
           "dat": "decyzjom",
-          "acc": "decyzjy",
+          "acc": "decyzje",
           "inst": "decyzjami",
           "loc": "decyzjach",
-          "voc": "decyzjy"
+          "voc": "decyzje"
         }
       }
     },
@@ -18282,17 +18282,17 @@
           "dat": "deszczowi",
           "acc": "deszcz",
           "inst": "deszczem",
-          "loc": "deszczie",
-          "voc": "deszczie"
+          "loc": "deszczu",
+          "voc": "deszczu"
         },
         "pl": {
-          "nom": "deszczy",
+          "nom": "deszcze",
           "gen": "deszczów",
           "dat": "deszczom",
-          "acc": "deszczy",
+          "acc": "deszcze",
           "inst": "deszczami",
           "loc": "deszczach",
-          "voc": "deszczy"
+          "voc": "deszcze"
         }
       }
     },
@@ -18308,8 +18308,8 @@
           "dat": "domowi",
           "acc": "dom",
           "inst": "domem",
-          "loc": "domie",
-          "voc": "domie"
+          "loc": "domu",
+          "voc": "domu"
         },
         "pl": {
           "nom": "domy",
@@ -18330,47 +18330,47 @@
       "forms": {
         "sg": {
           "nom": "droga",
-          "gen": "drogy",
-          "dat": "drogie",
+          "gen": "drogi",
+          "dat": "drodze",
           "acc": "drogę",
           "inst": "drogą",
-          "loc": "drogie",
+          "loc": "drodze",
           "voc": "drogo"
         },
         "pl": {
-          "nom": "drogy",
-          "gen": "drog",
+          "nom": "drogi",
+          "gen": "dróg",
           "dat": "drogom",
-          "acc": "drogy",
+          "acc": "drogi",
           "inst": "drogami",
           "loc": "drogach",
-          "voc": "drogy"
+          "voc": "drogi"
         }
       }
     },
     {
       "base": "drukarka",
       "translation": "принтер",
-      "gender": "m",
+      "gender": "f",
       "masc_personal": false,
       "forms": {
         "sg": {
           "nom": "drukarka",
-          "gen": "drukarkau",
-          "dat": "drukarkaowi",
-          "acc": "drukarka",
-          "inst": "drukarkaem",
-          "loc": "drukarkaie",
-          "voc": "drukarkaie"
+          "gen": "drukarki",
+          "dat": "drukarce",
+          "acc": "drukarkę",
+          "inst": "drukarką",
+          "loc": "drukarce",
+          "voc": "drukarko"
         },
         "pl": {
-          "nom": "drukarkay",
-          "gen": "drukarkaów",
-          "dat": "drukarkaom",
-          "acc": "drukarkay",
-          "inst": "drukarkaami",
-          "loc": "drukarkaach",
-          "voc": "drukarkay"
+          "nom": "drukarki",
+          "gen": "drukarek",
+          "dat": "drukarkom",
+          "acc": "drukarki",
+          "inst": "drukarkami",
+          "loc": "drukarkach",
+          "voc": "drukarki"
         }
       }
     },
@@ -18382,21 +18382,21 @@
       "forms": {
         "sg": {
           "nom": "dworzec",
-          "gen": "dworzecu",
-          "dat": "dworzecowi",
+          "gen": "dworca",
+          "dat": "dworcowi",
           "acc": "dworzec",
-          "inst": "dworzecem",
-          "loc": "dworzecie",
-          "voc": "dworzecie"
+          "inst": "dworcem",
+          "loc": "dworcu",
+          "voc": "dworcu"
         },
         "pl": {
-          "nom": "dworzecy",
-          "gen": "dworzeców",
-          "dat": "dworzecom",
-          "acc": "dworzecy",
-          "inst": "dworzecami",
-          "loc": "dworzecach",
-          "voc": "dworzecy"
+          "nom": "dworce",
+          "gen": "dworców",
+          "dat": "dworcom",
+          "acc": "dworce",
+          "inst": "dworcami",
+          "loc": "dworcach",
+          "voc": "dworce"
         }
       }
     },
@@ -18411,18 +18411,18 @@
           "gen": "dziecka",
           "dat": "dziecku",
           "acc": "dziecko",
-          "inst": "dzieckem",
-          "loc": "dziecke",
+          "inst": "dzieckiem",
+          "loc": "dziecku",
           "voc": "dziecko"
         },
         "pl": {
-          "nom": "dziecka",
-          "gen": "dzieck",
-          "dat": "dzieckom",
-          "acc": "dziecka",
-          "inst": "dzieckami",
-          "loc": "dzieckach",
-          "voc": "dziecka"
+          "nom": "dzieci",
+          "gen": "dzieci",
+          "dat": "dzieciom",
+          "acc": "dzieci",
+          "inst": "dziećmi",
+          "loc": "dzieciach",
+          "voc": "dzieci"
         }
       }
     },
@@ -18460,21 +18460,21 @@
       "forms": {
         "sg": {
           "nom": "dzień",
-          "gen": "dzieńu",
-          "dat": "dzieńowi",
+          "gen": "dnia",
+          "dat": "dniowi",
           "acc": "dzień",
-          "inst": "dzieńem",
-          "loc": "dzieńie",
-          "voc": "dzieńie"
+          "inst": "dniem",
+          "loc": "dniu",
+          "voc": "dniu"
         },
         "pl": {
-          "nom": "dzieńy",
-          "gen": "dzieńów",
-          "dat": "dzieńom",
-          "acc": "dzieńy",
-          "inst": "dzieńami",
-          "loc": "dzieńach",
-          "voc": "dzieńy"
+          "nom": "dni",
+          "gen": "dni",
+          "dat": "dniom",
+          "acc": "dni",
+          "inst": "dniami",
+          "loc": "dniach",
+          "voc": "dni"
         }
       }
     },
@@ -18515,18 +18515,18 @@
           "gen": "dźwięku",
           "dat": "dźwiękowi",
           "acc": "dźwięk",
-          "inst": "dźwiękem",
-          "loc": "dźwiękie",
-          "voc": "dźwiękie"
+          "inst": "dźwiękiem",
+          "loc": "dźwięku",
+          "voc": "dźwięku"
         },
         "pl": {
-          "nom": "dźwięky",
+          "nom": "dźwięki",
           "gen": "dźwięków",
           "dat": "dźwiękom",
-          "acc": "dźwięky",
+          "acc": "dźwięki",
           "inst": "dźwiękami",
           "loc": "dźwiękach",
-          "voc": "dźwięky"
+          "voc": "dźwięki"
         }
       }
     },
@@ -18542,8 +18542,8 @@
           "dat": "efektowi",
           "acc": "efekt",
           "inst": "efektem",
-          "loc": "efektie",
-          "voc": "efektie"
+          "loc": "efekcie",
+          "voc": "efekcie"
         },
         "pl": {
           "nom": "efekty",
@@ -18594,8 +18594,8 @@
           "dat": "faktowi",
           "acc": "fakt",
           "inst": "faktem",
-          "loc": "faktie",
-          "voc": "faktie"
+          "loc": "fakcie",
+          "voc": "fakcie"
         },
         "pl": {
           "nom": "fakty",
@@ -18672,8 +18672,8 @@
           "dat": "folderowi",
           "acc": "folder",
           "inst": "folderem",
-          "loc": "folderie",
-          "voc": "folderie"
+          "loc": "folderze",
+          "voc": "folderze"
         },
         "pl": {
           "nom": "foldery",
@@ -18694,21 +18694,21 @@
       "forms": {
         "sg": {
           "nom": "fotel",
-          "gen": "fotelu",
+          "gen": "fotela",
           "dat": "fotelowi",
           "acc": "fotel",
           "inst": "fotelem",
-          "loc": "fotelie",
-          "voc": "fotelie"
+          "loc": "fotelu",
+          "voc": "fotelu"
         },
         "pl": {
-          "nom": "fotely",
-          "gen": "fotelów",
+          "nom": "fotele",
+          "gen": "foteli",
           "dat": "fotelom",
-          "acc": "fotely",
+          "acc": "fotele",
           "inst": "fotelami",
           "loc": "fotelach",
-          "voc": "fotely"
+          "voc": "fotele"
         }
       }
     },
@@ -18721,10 +18721,10 @@
         "sg": {
           "nom": "gazeta",
           "gen": "gazety",
-          "dat": "gazetie",
+          "dat": "gazecie",
           "acc": "gazetę",
           "inst": "gazetą",
-          "loc": "gazetie",
+          "loc": "gazecie",
           "voc": "gazeto"
         },
         "pl": {
@@ -18825,10 +18825,10 @@
         "sg": {
           "nom": "herbata",
           "gen": "herbaty",
-          "dat": "herbatie",
+          "dat": "herbacie",
           "acc": "herbatę",
           "inst": "herbatą",
-          "loc": "herbatie",
+          "loc": "herbacie",
           "voc": "herbato"
         },
         "pl": {
@@ -18850,21 +18850,21 @@
       "forms": {
         "sg": {
           "nom": "historia",
-          "gen": "historiy",
-          "dat": "historiie",
+          "gen": "historii",
+          "dat": "historii",
           "acc": "historię",
           "inst": "historią",
-          "loc": "historiie",
+          "loc": "historii",
           "voc": "historio"
         },
         "pl": {
-          "nom": "historiy",
-          "gen": "histori",
+          "nom": "historie",
+          "gen": "historii",
           "dat": "historiom",
-          "acc": "historiy",
+          "acc": "historie",
           "inst": "historiami",
           "loc": "historiach",
-          "voc": "historiy"
+          "voc": "historie"
         }
       }
     },
@@ -18880,17 +18880,17 @@
           "dat": "holowi",
           "acc": "hol",
           "inst": "holem",
-          "loc": "holie",
-          "voc": "holie"
+          "loc": "holu",
+          "voc": "holu"
         },
         "pl": {
-          "nom": "holy",
+          "nom": "hole",
           "gen": "holów",
           "dat": "holom",
-          "acc": "holy",
+          "acc": "hole",
           "inst": "holami",
           "loc": "holach",
-          "voc": "holy"
+          "voc": "hole"
         }
       }
     },
@@ -18906,17 +18906,17 @@
           "dat": "hotelowi",
           "acc": "hotel",
           "inst": "hotelem",
-          "loc": "hotelie",
-          "voc": "hotelie"
+          "loc": "hotelu",
+          "voc": "hotelu"
         },
         "pl": {
-          "nom": "hotely",
-          "gen": "hotelów",
+          "nom": "hotele",
+          "gen": "hoteli",
           "dat": "hotelom",
-          "acc": "hotely",
+          "acc": "hotele",
           "inst": "hotelami",
           "loc": "hotelach",
-          "voc": "hotely"
+          "voc": "hotele"
         }
       }
     },
@@ -18928,21 +18928,21 @@
       "forms": {
         "sg": {
           "nom": "imię",
-          "gen": "imia",
-          "dat": "imiu",
+          "gen": "imienia",
+          "dat": "imieniu",
           "acc": "imię",
-          "inst": "imiem",
-          "loc": "imie",
+          "inst": "imieniem",
+          "loc": "imieniu",
           "voc": "imię"
         },
         "pl": {
-          "nom": "imia",
-          "gen": "imi",
-          "dat": "imiom",
-          "acc": "imia",
-          "inst": "imiami",
-          "loc": "imiach",
-          "voc": "imia"
+          "nom": "imiona",
+          "gen": "imion",
+          "dat": "imionom",
+          "acc": "imiona",
+          "inst": "imionami",
+          "loc": "imionach",
+          "voc": "imiona"
         }
       }
     },
@@ -18958,8 +18958,8 @@
           "dat": "internetowi",
           "acc": "internet",
           "inst": "internetem",
-          "loc": "internetie",
-          "voc": "internetie"
+          "loc": "internecie",
+          "voc": "internecie"
         },
         "pl": {
           "nom": "internety",
@@ -18983,13 +18983,13 @@
           "gen": "jabłka",
           "dat": "jabłku",
           "acc": "jabłko",
-          "inst": "jabłkem",
-          "loc": "jabłke",
+          "inst": "jabłkiem",
+          "loc": "jabłku",
           "voc": "jabłko"
         },
         "pl": {
           "nom": "jabłka",
-          "gen": "jabłk",
+          "gen": "jabłek",
           "dat": "jabłkom",
           "acc": "jabłka",
           "inst": "jabłkami",
@@ -19009,13 +19009,13 @@
           "gen": "jajka",
           "dat": "jajku",
           "acc": "jajko",
-          "inst": "jajkem",
-          "loc": "jajke",
+          "inst": "jajkiem",
+          "loc": "jajku",
           "voc": "jajko"
         },
         "pl": {
           "nom": "jajka",
-          "gen": "jajk",
+          "gen": "jajek",
           "dat": "jajkom",
           "acc": "jajka",
           "inst": "jajkami",
@@ -19032,21 +19032,21 @@
       "forms": {
         "sg": {
           "nom": "język",
-          "gen": "języku",
+          "gen": "języka",
           "dat": "językowi",
           "acc": "język",
-          "inst": "językem",
-          "loc": "językie",
-          "voc": "językie"
+          "inst": "językiem",
+          "loc": "języku",
+          "voc": "języku"
         },
         "pl": {
-          "nom": "języky",
+          "nom": "języki",
           "gen": "języków",
           "dat": "językom",
-          "acc": "języky",
+          "acc": "języki",
           "inst": "językami",
           "loc": "językach",
-          "voc": "języky"
+          "voc": "języki"
         }
       }
     },
@@ -19058,21 +19058,21 @@
       "forms": {
         "sg": {
           "nom": "kabel",
-          "gen": "kabelu",
-          "dat": "kabelowi",
+          "gen": "kabla",
+          "dat": "kablowi",
           "acc": "kabel",
-          "inst": "kabelem",
-          "loc": "kabelie",
-          "voc": "kabelie"
+          "inst": "kablem",
+          "loc": "kablu",
+          "voc": "kablu"
         },
         "pl": {
-          "nom": "kabely",
-          "gen": "kabelów",
-          "dat": "kabelom",
-          "acc": "kabely",
-          "inst": "kabelami",
-          "loc": "kabelach",
-          "voc": "kabely"
+          "nom": "kable",
+          "gen": "kabli",
+          "dat": "kablom",
+          "acc": "kable",
+          "inst": "kablami",
+          "loc": "kablach",
+          "voc": "kable"
         }
       }
     },
@@ -19084,21 +19084,21 @@
       "forms": {
         "sg": {
           "nom": "kalendarz",
-          "gen": "kalendarzu",
+          "gen": "kalendarza",
           "dat": "kalendarzowi",
           "acc": "kalendarz",
           "inst": "kalendarzem",
-          "loc": "kalendarzie",
-          "voc": "kalendarzie"
+          "loc": "kalendarzu",
+          "voc": "kalendarzu"
         },
         "pl": {
-          "nom": "kalendarzy",
-          "gen": "kalendarzów",
+          "nom": "kalendarze",
+          "gen": "kalendarzy",
           "dat": "kalendarzom",
-          "acc": "kalendarzy",
+          "acc": "kalendarze",
           "inst": "kalendarzami",
           "loc": "kalendarzach",
-          "voc": "kalendarzy"
+          "voc": "kalendarze"
         }
       }
     },
@@ -19110,21 +19110,21 @@
       "forms": {
         "sg": {
           "nom": "kamień",
-          "gen": "kamieńu",
-          "dat": "kamieńowi",
+          "gen": "kamienia",
+          "dat": "kamieniowi",
           "acc": "kamień",
-          "inst": "kamieńem",
-          "loc": "kamieńie",
-          "voc": "kamieńie"
+          "inst": "kamieniem",
+          "loc": "kamieniu",
+          "voc": "kamieniu"
         },
         "pl": {
-          "nom": "kamieńy",
-          "gen": "kamieńów",
-          "dat": "kamieńom",
-          "acc": "kamieńy",
-          "inst": "kamieńami",
-          "loc": "kamieńach",
-          "voc": "kamieńy"
+          "nom": "kamienie",
+          "gen": "kamieni",
+          "dat": "kamieniom",
+          "acc": "kamienie",
+          "inst": "kamieniami",
+          "loc": "kamieniach",
+          "voc": "kamienie"
         }
       }
     },
@@ -19136,21 +19136,21 @@
       "forms": {
         "sg": {
           "nom": "kartka",
-          "gen": "kartky",
-          "dat": "kartkie",
+          "gen": "kartki",
+          "dat": "kartce",
           "acc": "kartkę",
           "inst": "kartką",
-          "loc": "kartkie",
+          "loc": "kartce",
           "voc": "kartko"
         },
         "pl": {
-          "nom": "kartky",
-          "gen": "kartk",
+          "nom": "kartki",
+          "gen": "kartek",
           "dat": "kartkom",
-          "acc": "kartky",
+          "acc": "kartki",
           "inst": "kartkami",
           "loc": "kartkach",
-          "voc": "kartky"
+          "voc": "kartki"
         }
       }
     },
@@ -19188,21 +19188,21 @@
       "forms": {
         "sg": {
           "nom": "kawiarnia",
-          "gen": "kawiarniy",
-          "dat": "kawiarniie",
+          "gen": "kawiarni",
+          "dat": "kawiarni",
           "acc": "kawiarnię",
           "inst": "kawiarnią",
-          "loc": "kawiarniie",
+          "loc": "kawiarni",
           "voc": "kawiarnio"
         },
         "pl": {
-          "nom": "kawiarniy",
+          "nom": "kawiarnie",
           "gen": "kawiarni",
           "dat": "kawiarniom",
-          "acc": "kawiarniy",
+          "acc": "kawiarnie",
           "inst": "kawiarniami",
           "loc": "kawiarniach",
-          "voc": "kawiarniy"
+          "voc": "kawiarnie"
         }
       }
     },
@@ -19240,21 +19240,21 @@
       "forms": {
         "sg": {
           "nom": "kierunek",
-          "gen": "kieruneku",
-          "dat": "kierunekowi",
+          "gen": "kierunku",
+          "dat": "kierunkowi",
           "acc": "kierunek",
-          "inst": "kierunekem",
-          "loc": "kierunekie",
-          "voc": "kierunekie"
+          "inst": "kierunkiem",
+          "loc": "kierunku",
+          "voc": "kierunku"
         },
         "pl": {
-          "nom": "kieruneky",
-          "gen": "kieruneków",
-          "dat": "kierunekom",
-          "acc": "kieruneky",
-          "inst": "kierunekami",
-          "loc": "kierunekach",
-          "voc": "kieruneky"
+          "nom": "kierunki",
+          "gen": "kierunków",
+          "dat": "kierunkom",
+          "acc": "kierunki",
+          "inst": "kierunkami",
+          "loc": "kierunkach",
+          "voc": "kierunki"
         }
       }
     },
@@ -19270,7 +19270,7 @@
           "dat": "kinu",
           "acc": "kino",
           "inst": "kinem",
-          "loc": "kine",
+          "loc": "kinie",
           "voc": "kino"
         },
         "pl": {
@@ -19319,10 +19319,10 @@
         "sg": {
           "nom": "kobieta",
           "gen": "kobiety",
-          "dat": "kobietie",
+          "dat": "kobiecie",
           "acc": "kobietę",
           "inst": "kobietą",
-          "loc": "kobietie",
+          "loc": "kobiecie",
           "voc": "kobieto"
         },
         "pl": {
@@ -19348,8 +19348,8 @@
           "dat": "kodowi",
           "acc": "kod",
           "inst": "kodem",
-          "loc": "kodie",
-          "voc": "kodie"
+          "loc": "kodzie",
+          "voc": "kodzie"
         },
         "pl": {
           "nom": "kody",
@@ -19370,21 +19370,21 @@
       "forms": {
         "sg": {
           "nom": "kolacja",
-          "gen": "kolacjy",
-          "dat": "kolacjie",
+          "gen": "kolacji",
+          "dat": "kolacji",
           "acc": "kolację",
           "inst": "kolacją",
-          "loc": "kolacjie",
+          "loc": "kolacji",
           "voc": "kolacjo"
         },
         "pl": {
-          "nom": "kolacjy",
-          "gen": "kolacj",
+          "nom": "kolacje",
+          "gen": "kolacji",
           "dat": "kolacjom",
-          "acc": "kolacjy",
+          "acc": "kolacje",
           "inst": "kolacjami",
           "loc": "kolacjach",
-          "voc": "kolacjy"
+          "voc": "kolacje"
         }
       }
     },
@@ -19400,7 +19400,7 @@
           "dat": "kolanu",
           "acc": "kolano",
           "inst": "kolanem",
-          "loc": "kolane",
+          "loc": "kolanie",
           "voc": "kolano"
         },
         "pl": {
@@ -19448,21 +19448,21 @@
       "forms": {
         "sg": {
           "nom": "koleżanka",
-          "gen": "koleżanky",
-          "dat": "koleżankie",
+          "gen": "koleżanki",
+          "dat": "koleżance",
           "acc": "koleżankę",
           "inst": "koleżanką",
-          "loc": "koleżankie",
+          "loc": "koleżance",
           "voc": "koleżanko"
         },
         "pl": {
-          "nom": "koleżanky",
-          "gen": "koleżank",
+          "nom": "koleżanki",
+          "gen": "koleżanek",
           "dat": "koleżankom",
-          "acc": "koleżanky",
+          "acc": "koleżanki",
           "inst": "koleżankami",
           "loc": "koleżankach",
-          "voc": "koleżanky"
+          "voc": "koleżanki"
         }
       }
     },
@@ -19474,12 +19474,12 @@
       "forms": {
         "sg": {
           "nom": "komputer",
-          "gen": "komputeru",
+          "gen": "komputera",
           "dat": "komputerowi",
           "acc": "komputer",
           "inst": "komputerem",
-          "loc": "komputerie",
-          "voc": "komputerie"
+          "loc": "komputerze",
+          "voc": "komputerze"
         },
         "pl": {
           "nom": "komputery",
@@ -19504,8 +19504,8 @@
           "dat": "kontaktowi",
           "acc": "kontakt",
           "inst": "kontaktem",
-          "loc": "kontaktie",
-          "voc": "kontaktie"
+          "loc": "kontakcie",
+          "voc": "kontakcie"
         },
         "pl": {
           "nom": "kontakty",
@@ -19526,21 +19526,21 @@
       "forms": {
         "sg": {
           "nom": "korytarz",
-          "gen": "korytarzu",
+          "gen": "korytarza",
           "dat": "korytarzowi",
           "acc": "korytarz",
           "inst": "korytarzem",
-          "loc": "korytarzie",
-          "voc": "korytarzie"
+          "loc": "korytarzu",
+          "voc": "korytarzu"
         },
         "pl": {
-          "nom": "korytarzy",
-          "gen": "korytarzów",
+          "nom": "korytarze",
+          "gen": "korytarzy",
           "dat": "korytarzom",
-          "acc": "korytarzy",
+          "acc": "korytarze",
           "inst": "korytarzami",
           "loc": "korytarzach",
-          "voc": "korytarzy"
+          "voc": "korytarze"
         }
       }
     },
@@ -19556,17 +19556,17 @@
           "dat": "krajowi",
           "acc": "kraj",
           "inst": "krajem",
-          "loc": "krajie",
-          "voc": "krajie"
+          "loc": "kraju",
+          "voc": "kraju"
         },
         "pl": {
-          "nom": "krajy",
+          "nom": "kraje",
           "gen": "krajów",
           "dat": "krajom",
-          "acc": "krajy",
+          "acc": "kraje",
           "inst": "krajami",
           "loc": "krajach",
-          "voc": "krajy"
+          "voc": "kraje"
         }
       }
     },
@@ -19578,12 +19578,12 @@
       "forms": {
         "sg": {
           "nom": "krawat",
-          "gen": "krawatu",
+          "gen": "krawata",
           "dat": "krawatowi",
           "acc": "krawat",
           "inst": "krawatem",
-          "loc": "krawatie",
-          "voc": "krawatie"
+          "loc": "krawacie",
+          "voc": "krawacie"
         },
         "pl": {
           "nom": "krawaty",
@@ -19608,12 +19608,12 @@
           "dat": "krzesłu",
           "acc": "krzesło",
           "inst": "krzesłem",
-          "loc": "krzesłe",
+          "loc": "krześle",
           "voc": "krzesło"
         },
         "pl": {
           "nom": "krzesła",
-          "gen": "krzesł",
+          "gen": "krzeseł",
           "dat": "krzesłom",
           "acc": "krzesła",
           "inst": "krzesłami",
@@ -19630,21 +19630,21 @@
       "forms": {
         "sg": {
           "nom": "książka",
-          "gen": "książky",
-          "dat": "książkie",
+          "gen": "książki",
+          "dat": "książce",
           "acc": "książkę",
           "inst": "książką",
-          "loc": "książkie",
+          "loc": "książce",
           "voc": "książko"
         },
         "pl": {
-          "nom": "książky",
-          "gen": "książk",
+          "nom": "książki",
+          "gen": "książek",
           "dat": "książkom",
-          "acc": "książky",
+          "acc": "książki",
           "inst": "książkami",
           "loc": "książkach",
-          "voc": "książky"
+          "voc": "książki"
         }
       }
     },
@@ -19656,21 +19656,21 @@
       "forms": {
         "sg": {
           "nom": "księgarnia",
-          "gen": "księgarniy",
-          "dat": "księgarniie",
+          "gen": "księgarni",
+          "dat": "księgarni",
           "acc": "księgarnię",
           "inst": "księgarnią",
-          "loc": "księgarniie",
+          "loc": "księgarni",
           "voc": "księgarnio"
         },
         "pl": {
-          "nom": "księgarniy",
-          "gen": "księgarni",
+          "nom": "księgarnie",
+          "gen": "księgarń",
           "dat": "księgarniom",
-          "acc": "księgarniy",
+          "acc": "księgarnie",
           "inst": "księgarniami",
           "loc": "księgarniach",
-          "voc": "księgarniy"
+          "voc": "księgarnie"
         }
       }
     },
@@ -19682,21 +19682,21 @@
       "forms": {
         "sg": {
           "nom": "kuchnia",
-          "gen": "kuchniy",
-          "dat": "kuchniie",
+          "gen": "kuchni",
+          "dat": "kuchni",
           "acc": "kuchnię",
           "inst": "kuchnią",
-          "loc": "kuchniie",
+          "loc": "kuchni",
           "voc": "kuchnio"
         },
         "pl": {
-          "nom": "kuchniy",
+          "nom": "kuchnie",
           "gen": "kuchni",
           "dat": "kuchniom",
-          "acc": "kuchniy",
+          "acc": "kuchnie",
           "inst": "kuchniami",
           "loc": "kuchniach",
-          "voc": "kuchniy"
+          "voc": "kuchnie"
         }
       }
     },
@@ -19709,10 +19709,10 @@
         "sg": {
           "nom": "kultura",
           "gen": "kultury",
-          "dat": "kulturie",
+          "dat": "kulturze",
           "acc": "kulturę",
           "inst": "kulturą",
-          "loc": "kulturie",
+          "loc": "kulturze",
           "voc": "kulturo"
         },
         "pl": {
@@ -19729,26 +19729,26 @@
     {
       "base": "kurtka",
       "translation": "куртка",
-      "gender": "m",
+      "gender": "f",
       "masc_personal": false,
       "forms": {
         "sg": {
           "nom": "kurtka",
-          "gen": "kurtkau",
-          "dat": "kurtkaowi",
-          "acc": "kurtka",
-          "inst": "kurtkaem",
-          "loc": "kurtkaie",
-          "voc": "kurtkaie"
+          "gen": "kurtki",
+          "dat": "kurtce",
+          "acc": "kurtkę",
+          "inst": "kurtką",
+          "loc": "kurtce",
+          "voc": "kurtko"
         },
         "pl": {
-          "nom": "kurtkay",
-          "gen": "kurtkaów",
-          "dat": "kurtkaom",
-          "acc": "kurtkay",
-          "inst": "kurtkaami",
-          "loc": "kurtkaach",
-          "voc": "kurtkay"
+          "nom": "kurtki",
+          "gen": "kurtek",
+          "dat": "kurtkom",
+          "acc": "kurtki",
+          "inst": "kurtkami",
+          "loc": "kurtkach",
+          "voc": "kurtki"
         }
       }
     },
@@ -19760,21 +19760,21 @@
       "forms": {
         "sg": {
           "nom": "lampka",
-          "gen": "lampky",
-          "dat": "lampkie",
+          "gen": "lampki",
+          "dat": "lampce",
           "acc": "lampkę",
           "inst": "lampką",
-          "loc": "lampkie",
+          "loc": "lampce",
           "voc": "lampko"
         },
         "pl": {
-          "nom": "lampky",
-          "gen": "lampk",
+          "nom": "lampki",
+          "gen": "lampek",
           "dat": "lampkom",
-          "acc": "lampky",
+          "acc": "lampki",
           "inst": "lampkami",
           "loc": "lampkach",
-          "voc": "lampky"
+          "voc": "lampki"
         }
       }
     },
@@ -19842,8 +19842,8 @@
           "dat": "listowi",
           "acc": "list",
           "inst": "listem",
-          "loc": "listie",
-          "voc": "listie"
+          "loc": "liście",
+          "voc": "liście"
         },
         "pl": {
           "nom": "listy",
@@ -19868,8 +19868,8 @@
           "dat": "lotowi",
           "acc": "lot",
           "inst": "lotem",
-          "loc": "lotie",
-          "voc": "lotie"
+          "loc": "locie",
+          "voc": "locie"
         },
         "pl": {
           "nom": "loty",
@@ -19890,21 +19890,21 @@
       "forms": {
         "sg": {
           "nom": "lód",
-          "gen": "lódu",
-          "dat": "lódowi",
+          "gen": "lodu",
+          "dat": "lodowi",
           "acc": "lód",
-          "inst": "lódem",
-          "loc": "lódie",
-          "voc": "lódie"
+          "inst": "lodem",
+          "loc": "lodzie",
+          "voc": "lodzie"
         },
         "pl": {
-          "nom": "lódy",
-          "gen": "lódów",
-          "dat": "lódom",
-          "acc": "lódy",
-          "inst": "lódami",
-          "loc": "lódach",
-          "voc": "lódy"
+          "nom": "lody",
+          "gen": "lodów",
+          "dat": "lodom",
+          "acc": "lody",
+          "inst": "lodami",
+          "loc": "lodach",
+          "voc": "lody"
         }
       }
     },
@@ -19920,12 +19920,12 @@
           "dat": "masłu",
           "acc": "masło",
           "inst": "masłem",
-          "loc": "masłe",
+          "loc": "maśle",
           "voc": "masło"
         },
         "pl": {
           "nom": "masła",
-          "gen": "masł",
+          "gen": "maseł",
           "dat": "masłom",
           "acc": "masła",
           "inst": "masłami",
@@ -19942,21 +19942,21 @@
       "forms": {
         "sg": {
           "nom": "matka",
-          "gen": "matky",
-          "dat": "matkie",
+          "gen": "matki",
+          "dat": "matce",
           "acc": "matkę",
           "inst": "matką",
-          "loc": "matkie",
+          "loc": "matce",
           "voc": "matko"
         },
         "pl": {
-          "nom": "matky",
-          "gen": "matk",
+          "nom": "matki",
+          "gen": "matek",
           "dat": "matkom",
-          "acc": "matky",
+          "acc": "matki",
           "inst": "matkami",
           "loc": "matkach",
-          "voc": "matky"
+          "voc": "matki"
         }
       }
     },
@@ -19972,17 +19972,17 @@
           "dat": "meczowi",
           "acc": "mecz",
           "inst": "meczem",
-          "loc": "meczie",
-          "voc": "meczie"
+          "loc": "meczu",
+          "voc": "meczu"
         },
         "pl": {
-          "nom": "meczy",
+          "nom": "mecze",
           "gen": "meczów",
           "dat": "meczom",
-          "acc": "meczy",
+          "acc": "mecze",
           "inst": "meczami",
           "loc": "meczach",
-          "voc": "meczy"
+          "voc": "mecze"
         }
       }
     },
@@ -19998,17 +19998,17 @@
           "dat": "metalowi",
           "acc": "metal",
           "inst": "metalem",
-          "loc": "metalie",
-          "voc": "metalie"
+          "loc": "metalu",
+          "voc": "metalu"
         },
         "pl": {
-          "nom": "metaly",
-          "gen": "metalów",
+          "nom": "metale",
+          "gen": "metali",
           "dat": "metalom",
-          "acc": "metaly",
+          "acc": "metale",
           "inst": "metalami",
           "loc": "metalach",
-          "voc": "metaly"
+          "voc": "metale"
         }
       }
     },
@@ -20021,10 +20021,10 @@
         "sg": {
           "nom": "metoda",
           "gen": "metody",
-          "dat": "metodie",
+          "dat": "metodzie",
           "acc": "metodę",
           "inst": "metodą",
-          "loc": "metodie",
+          "loc": "metodzie",
           "voc": "metodo"
         },
         "pl": {
@@ -20050,7 +20050,7 @@
           "dat": "miastu",
           "acc": "miasto",
           "inst": "miastem",
-          "loc": "miaste",
+          "loc": "mieście",
           "voc": "miasto"
         },
         "pl": {
@@ -20076,7 +20076,7 @@
           "dat": "miejscu",
           "acc": "miejsce",
           "inst": "miejscem",
-          "loc": "miejsce",
+          "loc": "miejscu",
           "voc": "miejsce"
         },
         "pl": {
@@ -20098,21 +20098,21 @@
       "forms": {
         "sg": {
           "nom": "miesiąc",
-          "gen": "miesiącu",
+          "gen": "miesiąca",
           "dat": "miesiącowi",
           "acc": "miesiąc",
           "inst": "miesiącem",
-          "loc": "miesiącie",
-          "voc": "miesiącie"
+          "loc": "miesiącu",
+          "voc": "miesiącu"
         },
         "pl": {
-          "nom": "miesiący",
-          "gen": "miesiąców",
+          "nom": "miesiące",
+          "gen": "miesięcy",
           "dat": "miesiącom",
-          "acc": "miesiący",
+          "acc": "miesiące",
           "inst": "miesiącami",
           "loc": "miesiącach",
-          "voc": "miesiący"
+          "voc": "miesiące"
         }
       }
     },
@@ -20128,12 +20128,12 @@
           "dat": "mieszkaniu",
           "acc": "mieszkanie",
           "inst": "mieszkaniem",
-          "loc": "mieszkanie",
+          "loc": "mieszkaniu",
           "voc": "mieszkanie"
         },
         "pl": {
           "nom": "mieszkania",
-          "gen": "mieszkani",
+          "gen": "mieszkań",
           "dat": "mieszkaniom",
           "acc": "mieszkania",
           "inst": "mieszkaniami",
@@ -20151,10 +20151,10 @@
         "sg": {
           "nom": "minuta",
           "gen": "minuty",
-          "dat": "minutie",
+          "dat": "minucie",
           "acc": "minutę",
           "inst": "minutą",
-          "loc": "minutie",
+          "loc": "minucie",
           "voc": "minuto"
         },
         "pl": {
@@ -20176,21 +20176,21 @@
       "forms": {
         "sg": {
           "nom": "miska",
-          "gen": "misky",
-          "dat": "miskie",
+          "gen": "miski",
+          "dat": "misce",
           "acc": "miskę",
           "inst": "miską",
-          "loc": "miskie",
+          "loc": "misce",
           "voc": "misko"
         },
         "pl": {
-          "nom": "misky",
-          "gen": "misk",
+          "nom": "miski",
+          "gen": "misek",
           "dat": "miskom",
-          "acc": "misky",
+          "acc": "miski",
           "inst": "miskami",
           "loc": "miskach",
-          "voc": "misky"
+          "voc": "miski"
         }
       }
     },
@@ -20206,7 +20206,7 @@
           "dat": "mięsu",
           "acc": "mięso",
           "inst": "mięsem",
-          "loc": "mięse",
+          "loc": "mięsie",
           "voc": "mięso"
         },
         "pl": {
@@ -20232,17 +20232,17 @@
           "dat": "modelowi",
           "acc": "model",
           "inst": "modelem",
-          "loc": "modelie",
-          "voc": "modelie"
+          "loc": "modelu",
+          "voc": "modelu"
         },
         "pl": {
-          "nom": "modely",
-          "gen": "modelów",
+          "nom": "modele",
+          "gen": "modeli",
           "dat": "modelom",
-          "acc": "modely",
+          "acc": "modele",
           "inst": "modelami",
           "loc": "modelach",
-          "voc": "modely"
+          "voc": "modele"
         }
       }
     },
@@ -20258,8 +20258,8 @@
           "dat": "modułowi",
           "acc": "moduł",
           "inst": "modułem",
-          "loc": "modułie",
-          "voc": "modułie"
+          "loc": "module",
+          "voc": "module"
         },
         "pl": {
           "nom": "moduły",
@@ -20280,12 +20280,12 @@
       "forms": {
         "sg": {
           "nom": "monitor",
-          "gen": "monitoru",
+          "gen": "monitora",
           "dat": "monitorowi",
           "acc": "monitor",
           "inst": "monitorem",
-          "loc": "monitorie",
-          "voc": "monitorie"
+          "loc": "monitorze",
+          "voc": "monitorze"
         },
         "pl": {
           "nom": "monitory",
@@ -20310,12 +20310,12 @@
           "dat": "morzu",
           "acc": "morze",
           "inst": "morzem",
-          "loc": "morze",
+          "loc": "morzu",
           "voc": "morze"
         },
         "pl": {
           "nom": "morza",
-          "gen": "morz",
+          "gen": "mórz",
           "dat": "morzom",
           "acc": "morza",
           "inst": "morzami",
@@ -20336,8 +20336,8 @@
           "dat": "mostowi",
           "acc": "most",
           "inst": "mostem",
-          "loc": "mostie",
-          "voc": "mostie"
+          "loc": "moście",
+          "voc": "moście"
         },
         "pl": {
           "nom": "mosty",
@@ -20362,8 +20362,8 @@
           "dat": "murowi",
           "acc": "mur",
           "inst": "murem",
-          "loc": "murie",
-          "voc": "murie"
+          "loc": "murze",
+          "voc": "murze"
         },
         "pl": {
           "nom": "mury",
@@ -20384,21 +20384,21 @@
       "forms": {
         "sg": {
           "nom": "muzeum",
-          "gen": "muzeuma",
-          "dat": "muzeumu",
+          "gen": "muzeum",
+          "dat": "muzeum",
           "acc": "muzeum",
-          "inst": "muzeumem",
-          "loc": "muzeume",
+          "inst": "muzeum",
+          "loc": "muzeum",
           "voc": "muzeum"
         },
         "pl": {
-          "nom": "muzeuma",
-          "gen": "muzeu",
-          "dat": "muzeuom",
-          "acc": "muzeua",
-          "inst": "muzeuami",
-          "loc": "muzeuach",
-          "voc": "muzeua"
+          "nom": "muzea",
+          "gen": "muzeów",
+          "dat": "muzeom",
+          "acc": "muzea",
+          "inst": "muzeami",
+          "loc": "muzeach",
+          "voc": "muzea"
         }
       }
     },
@@ -20410,21 +20410,21 @@
       "forms": {
         "sg": {
           "nom": "muzyka",
-          "gen": "muzyky",
-          "dat": "muzykie",
+          "gen": "muzyki",
+          "dat": "muzyce",
           "acc": "muzykę",
           "inst": "muzyką",
-          "loc": "muzykie",
+          "loc": "muzyce",
           "voc": "muzyko"
         },
         "pl": {
-          "nom": "muzyky",
+          "nom": "muzyki",
           "gen": "muzyk",
           "dat": "muzykom",
-          "acc": "muzyky",
+          "acc": "muzyki",
           "inst": "muzykami",
           "loc": "muzykach",
-          "voc": "muzyky"
+          "voc": "muzyki"
         }
       }
     },
@@ -20462,21 +20462,21 @@
       "forms": {
         "sg": {
           "nom": "napój",
-          "gen": "napóju",
-          "dat": "napójowi",
+          "gen": "napoju",
+          "dat": "napojowi",
           "acc": "napój",
-          "inst": "napójem",
-          "loc": "napójie",
-          "voc": "napójie"
+          "inst": "napojem",
+          "loc": "napoju",
+          "voc": "napoju"
         },
         "pl": {
-          "nom": "napójy",
-          "gen": "napójów",
-          "dat": "napójom",
-          "acc": "napójy",
-          "inst": "napójami",
-          "loc": "napójach",
-          "voc": "napójy"
+          "nom": "napoje",
+          "gen": "napojów",
+          "dat": "napojom",
+          "acc": "napoje",
+          "inst": "napojami",
+          "loc": "napojach",
+          "voc": "napoje"
         }
       }
     },
@@ -20488,21 +20488,21 @@
       "forms": {
         "sg": {
           "nom": "nauka",
-          "gen": "nauky",
-          "dat": "naukie",
+          "gen": "nauki",
+          "dat": "nauce",
           "acc": "naukę",
           "inst": "nauką",
-          "loc": "naukie",
+          "loc": "nauce",
           "voc": "nauko"
         },
         "pl": {
-          "nom": "nauky",
+          "nom": "nauki",
           "gen": "nauk",
           "dat": "naukom",
-          "acc": "nauky",
+          "acc": "nauki",
           "inst": "naukami",
           "loc": "naukach",
-          "voc": "nauky"
+          "voc": "nauki"
         }
       }
     },
@@ -20514,21 +20514,21 @@
       "forms": {
         "sg": {
           "nom": "noga",
-          "gen": "nogy",
-          "dat": "nogie",
+          "gen": "nogi",
+          "dat": "nodze",
           "acc": "nogę",
           "inst": "nogą",
-          "loc": "nogie",
+          "loc": "nodze",
           "voc": "nogo"
         },
         "pl": {
-          "nom": "nogy",
-          "gen": "nog",
+          "nom": "nogi",
+          "gen": "nóg",
           "dat": "nogom",
-          "acc": "nogy",
+          "acc": "nogi",
           "inst": "nogami",
           "loc": "nogach",
-          "voc": "nogy"
+          "voc": "nogi"
         }
       }
     },
@@ -20544,8 +20544,8 @@
           "dat": "numerowi",
           "acc": "numer",
           "inst": "numerem",
-          "loc": "numerie",
-          "voc": "numerie"
+          "loc": "numerze",
+          "voc": "numerze"
         },
         "pl": {
           "nom": "numery",
@@ -20570,8 +20570,8 @@
           "dat": "obiektowi",
           "acc": "obiekt",
           "inst": "obiektem",
-          "loc": "obiektie",
-          "voc": "obiektie"
+          "loc": "obiekcie",
+          "voc": "obiekcie"
         },
         "pl": {
           "nom": "obiekty",
@@ -20619,10 +20619,10 @@
         "sg": {
           "nom": "oferta",
           "gen": "oferty",
-          "dat": "ofertie",
+          "dat": "ofercie",
           "acc": "ofertę",
           "inst": "ofertą",
-          "loc": "ofertie",
+          "loc": "ofercie",
           "voc": "oferto"
         },
         "pl": {
@@ -20644,21 +20644,21 @@
       "forms": {
         "sg": {
           "nom": "ogień",
-          "gen": "ogieńu",
-          "dat": "ogieńowi",
+          "gen": "ognia",
+          "dat": "ogniowi",
           "acc": "ogień",
-          "inst": "ogieńem",
-          "loc": "ogieńie",
-          "voc": "ogieńie"
+          "inst": "ogniem",
+          "loc": "ogniu",
+          "voc": "ogniu"
         },
         "pl": {
-          "nom": "ogieńy",
-          "gen": "ogieńów",
-          "dat": "ogieńom",
-          "acc": "ogieńy",
-          "inst": "ogieńami",
-          "loc": "ogieńach",
-          "voc": "ogieńy"
+          "nom": "ognie",
+          "gen": "ogni",
+          "dat": "ogniom",
+          "acc": "ognie",
+          "inst": "ogniami",
+          "loc": "ogniach",
+          "voc": "ognie"
         }
       }
     },
@@ -20670,21 +20670,21 @@
       "forms": {
         "sg": {
           "nom": "ogród",
-          "gen": "ogródu",
-          "dat": "ogródowi",
+          "gen": "ogrodu",
+          "dat": "ogrodowi",
           "acc": "ogród",
-          "inst": "ogródem",
-          "loc": "ogródie",
-          "voc": "ogródie"
+          "inst": "ogrodem",
+          "loc": "ogrodzie",
+          "voc": "ogrodzie"
         },
         "pl": {
-          "nom": "ogródy",
-          "gen": "ogródów",
-          "dat": "ogródom",
-          "acc": "ogródy",
-          "inst": "ogródami",
-          "loc": "ogródach",
-          "voc": "ogródy"
+          "nom": "ogrody",
+          "gen": "ogrodów",
+          "dat": "ogrodom",
+          "acc": "ogrody",
+          "inst": "ogrodami",
+          "loc": "ogrodach",
+          "voc": "ogrody"
         }
       }
     },
@@ -20700,12 +20700,12 @@
           "dat": "oknu",
           "acc": "okno",
           "inst": "oknem",
-          "loc": "okne",
+          "loc": "oknie",
           "voc": "okno"
         },
         "pl": {
           "nom": "okna",
-          "gen": "okn",
+          "gen": "okien",
           "dat": "oknom",
           "acc": "okna",
           "inst": "oknami",
@@ -20725,18 +20725,18 @@
           "gen": "oka",
           "dat": "oku",
           "acc": "oko",
-          "inst": "okem",
-          "loc": "oke",
+          "inst": "okiem",
+          "loc": "oku",
           "voc": "oko"
         },
         "pl": {
-          "nom": "oka",
-          "gen": "ok",
-          "dat": "okom",
-          "acc": "oka",
-          "inst": "okami",
-          "loc": "okach",
-          "voc": "oka"
+          "nom": "oczy",
+          "gen": "oczu",
+          "dat": "oczom",
+          "acc": "oczy",
+          "inst": "oczami",
+          "loc": "oczach",
+          "voc": "oczy"
         }
       }
     },
@@ -20748,21 +20748,21 @@
       "forms": {
         "sg": {
           "nom": "opinia",
-          "gen": "opiniy",
-          "dat": "opiniie",
+          "gen": "opinii",
+          "dat": "opinii",
           "acc": "opinię",
           "inst": "opinią",
-          "loc": "opiniie",
+          "loc": "opinii",
           "voc": "opinio"
         },
         "pl": {
-          "nom": "opiniy",
-          "gen": "opini",
+          "nom": "opinie",
+          "gen": "opinii",
           "dat": "opiniom",
-          "acc": "opiniy",
+          "acc": "opinie",
           "inst": "opiniami",
           "loc": "opiniach",
-          "voc": "opiniy"
+          "voc": "opinie"
         }
       }
     },
@@ -20774,21 +20774,21 @@
       "forms": {
         "sg": {
           "nom": "ołówek",
-          "gen": "ołóweku",
-          "dat": "ołówekowi",
+          "gen": "ołówka",
+          "dat": "ołówkowi",
           "acc": "ołówek",
-          "inst": "ołówekem",
-          "loc": "ołówekie",
-          "voc": "ołówekie"
+          "inst": "ołówkiem",
+          "loc": "ołówku",
+          "voc": "ołówku"
         },
         "pl": {
-          "nom": "ołóweky",
-          "gen": "ołóweków",
-          "dat": "ołówekom",
-          "acc": "ołóweky",
-          "inst": "ołówekami",
-          "loc": "ołówekach",
-          "voc": "ołóweky"
+          "nom": "ołówki",
+          "gen": "ołówków",
+          "dat": "ołówkom",
+          "acc": "ołówki",
+          "inst": "ołówkami",
+          "loc": "ołówkach",
+          "voc": "ołówki"
         }
       }
     },
@@ -20826,20 +20826,20 @@
       "forms": {
         "sg": {
           "nom": "pani",
-          "gen": "panii",
-          "dat": "panii",
-          "acc": "pani",
-          "inst": "paniią",
-          "loc": "panii",
+          "gen": "pani",
+          "dat": "pani",
+          "acc": "panią",
+          "inst": "panią",
+          "loc": "pani",
           "voc": "pani"
         },
         "pl": {
           "nom": "panie",
-          "gen": "panii",
-          "dat": "paniiom",
+          "gen": "pań",
+          "dat": "paniom",
           "acc": "panie",
-          "inst": "paniiami",
-          "loc": "paniiach",
+          "inst": "paniami",
+          "loc": "paniach",
           "voc": "panie"
         }
       }
@@ -20881,18 +20881,18 @@
           "gen": "parku",
           "dat": "parkowi",
           "acc": "park",
-          "inst": "parkem",
-          "loc": "parkie",
-          "voc": "parkie"
+          "inst": "parkiem",
+          "loc": "parku",
+          "voc": "parku"
         },
         "pl": {
-          "nom": "parky",
+          "nom": "parki",
           "gen": "parków",
           "dat": "parkom",
-          "acc": "parky",
+          "acc": "parki",
           "inst": "parkami",
           "loc": "parkach",
-          "voc": "parky"
+          "voc": "parki"
         }
       }
     },
@@ -20904,21 +20904,21 @@
       "forms": {
         "sg": {
           "nom": "patelnia",
-          "gen": "patelniy",
-          "dat": "patelniie",
+          "gen": "patelni",
+          "dat": "patelni",
           "acc": "patelnię",
           "inst": "patelnią",
-          "loc": "patelniie",
+          "loc": "patelni",
           "voc": "patelnio"
         },
         "pl": {
-          "nom": "patelniy",
+          "nom": "patelnie",
           "gen": "patelni",
           "dat": "patelniom",
-          "acc": "patelniy",
+          "acc": "patelnie",
           "inst": "patelniami",
           "loc": "patelniach",
-          "voc": "patelniy"
+          "voc": "patelnie"
         }
       }
     },
@@ -20934,7 +20934,7 @@
           "dat": "państwu",
           "acc": "państwo",
           "inst": "państwem",
-          "loc": "państwe",
+          "loc": "państwie",
           "voc": "państwo"
         },
         "pl": {
@@ -20982,12 +20982,12 @@
       "forms": {
         "sg": {
           "nom": "pilot",
-          "gen": "pilotu",
+          "gen": "pilota",
           "dat": "pilotowi",
           "acc": "pilot",
           "inst": "pilotem",
-          "loc": "pilotie",
-          "voc": "pilotie"
+          "loc": "pilocie",
+          "voc": "pilocie"
         },
         "pl": {
           "nom": "piloty",
@@ -21012,7 +21012,7 @@
           "dat": "pismu",
           "acc": "pismo",
           "inst": "pismem",
-          "loc": "pisme",
+          "loc": "piśmie",
           "voc": "pismo"
         },
         "pl": {
@@ -21034,21 +21034,21 @@
       "forms": {
         "sg": {
           "nom": "pizzeria",
-          "gen": "pizzeriy",
-          "dat": "pizzeriie",
+          "gen": "pizzerii",
+          "dat": "pizzerii",
           "acc": "pizzerię",
           "inst": "pizzerią",
-          "loc": "pizzeriie",
+          "loc": "pizzerii",
           "voc": "pizzerio"
         },
         "pl": {
-          "nom": "pizzeriy",
-          "gen": "pizzeri",
+          "nom": "pizzerie",
+          "gen": "pizzerii",
           "dat": "pizzeriom",
-          "acc": "pizzeriy",
+          "acc": "pizzerie",
           "inst": "pizzeriami",
           "loc": "pizzeriach",
-          "voc": "pizzeriy"
+          "voc": "pizzerie"
         }
       }
     },
@@ -21089,18 +21089,18 @@
           "gen": "plastiku",
           "dat": "plastikowi",
           "acc": "plastik",
-          "inst": "plastikem",
-          "loc": "plastikie",
-          "voc": "plastikie"
+          "inst": "plastikiem",
+          "loc": "plastiku",
+          "voc": "plastiku"
         },
         "pl": {
-          "nom": "plastiky",
+          "nom": "plastiki",
           "gen": "plastików",
           "dat": "plastikom",
-          "acc": "plastiky",
+          "acc": "plastiki",
           "inst": "plastikami",
           "loc": "plastikach",
-          "voc": "plastiky"
+          "voc": "plastiki"
         }
       }
     },
@@ -21112,21 +21112,21 @@
       "forms": {
         "sg": {
           "nom": "plemię",
-          "gen": "plemia",
-          "dat": "plemiu",
+          "gen": "plemienia",
+          "dat": "plemieniu",
           "acc": "plemię",
-          "inst": "plemiem",
-          "loc": "plemie",
+          "inst": "plemieniem",
+          "loc": "plemieniu",
           "voc": "plemię"
         },
         "pl": {
-          "nom": "plemia",
-          "gen": "plemi",
-          "dat": "plemiom",
-          "acc": "plemia",
-          "inst": "plemiami",
-          "loc": "plemiach",
-          "voc": "plemia"
+          "nom": "plemiona",
+          "gen": "plemion",
+          "dat": "plemionom",
+          "acc": "plemiona",
+          "inst": "plemionami",
+          "loc": "plemionach",
+          "voc": "plemiona"
         }
       }
     },
@@ -21141,18 +21141,18 @@
           "gen": "pliku",
           "dat": "plikowi",
           "acc": "plik",
-          "inst": "plikem",
-          "loc": "plikie",
-          "voc": "plikie"
+          "inst": "plikiem",
+          "loc": "pliku",
+          "voc": "pliku"
         },
         "pl": {
-          "nom": "pliky",
+          "nom": "pliki",
           "gen": "plików",
           "dat": "plikom",
-          "acc": "pliky",
+          "acc": "pliki",
           "inst": "plikami",
           "loc": "plikach",
-          "voc": "pliky"
+          "voc": "pliki"
         }
       }
     },
@@ -21167,18 +21167,18 @@
           "gen": "pociągu",
           "dat": "pociągowi",
           "acc": "pociąg",
-          "inst": "pociągem",
-          "loc": "pociągie",
-          "voc": "pociągie"
+          "inst": "pociągiem",
+          "loc": "pociągu",
+          "voc": "pociągu"
         },
         "pl": {
-          "nom": "pociągy",
+          "nom": "pociągi",
           "gen": "pociągów",
           "dat": "pociągom",
-          "acc": "pociągy",
+          "acc": "pociągi",
           "inst": "pociągami",
           "loc": "pociągach",
-          "voc": "pociągy"
+          "voc": "pociągi"
         }
       }
     },
@@ -21242,21 +21242,21 @@
       "forms": {
         "sg": {
           "nom": "pokój",
-          "gen": "pokóju",
-          "dat": "pokójowi",
+          "gen": "pokoju",
+          "dat": "pokojowi",
           "acc": "pokój",
-          "inst": "pokójem",
-          "loc": "pokójie",
-          "voc": "pokójie"
+          "inst": "pokojem",
+          "loc": "pokoju",
+          "voc": "pokoju"
         },
         "pl": {
-          "nom": "pokójy",
-          "gen": "pokójów",
-          "dat": "pokójom",
-          "acc": "pokójy",
-          "inst": "pokójami",
-          "loc": "pokójach",
-          "voc": "pokójy"
+          "nom": "pokoje",
+          "gen": "pokojów",
+          "dat": "pokojom",
+          "acc": "pokoje",
+          "inst": "pokojami",
+          "loc": "pokojach",
+          "voc": "pokoje"
         }
       }
     },
@@ -21272,12 +21272,12 @@
           "dat": "polu",
           "acc": "pole",
           "inst": "polem",
-          "loc": "pole",
+          "loc": "polu",
           "voc": "pole"
         },
         "pl": {
           "nom": "pola",
-          "gen": "pol",
+          "gen": "pól",
           "dat": "polom",
           "acc": "pola",
           "inst": "polami",
@@ -21294,21 +21294,21 @@
       "forms": {
         "sg": {
           "nom": "polityka",
-          "gen": "polityky",
-          "dat": "politykie",
+          "gen": "polityki",
+          "dat": "polityce",
           "acc": "politykę",
           "inst": "polityką",
-          "loc": "politykie",
+          "loc": "polityce",
           "voc": "polityko"
         },
         "pl": {
-          "nom": "polityky",
+          "nom": "polityki",
           "gen": "polityk",
           "dat": "politykom",
-          "acc": "polityky",
+          "acc": "polityki",
           "inst": "politykami",
           "loc": "politykach",
-          "voc": "polityky"
+          "voc": "polityki"
         }
       }
     },
@@ -21324,8 +21324,8 @@
           "dat": "pomysłowi",
           "acc": "pomysł",
           "inst": "pomysłem",
-          "loc": "pomysłie",
-          "voc": "pomysłie"
+          "loc": "pomyśle",
+          "voc": "pomyśle"
         },
         "pl": {
           "nom": "pomysły",
@@ -21346,21 +21346,21 @@
       "forms": {
         "sg": {
           "nom": "poranek",
-          "gen": "poraneku",
-          "dat": "poranekowi",
+          "gen": "poranka",
+          "dat": "porankowi",
           "acc": "poranek",
-          "inst": "poranekem",
-          "loc": "poranekie",
-          "voc": "poranekie"
+          "inst": "porankiem",
+          "loc": "poranku",
+          "voc": "poranku"
         },
         "pl": {
-          "nom": "poraneky",
-          "gen": "poraneków",
-          "dat": "poranekom",
-          "acc": "poraneky",
-          "inst": "poranekami",
-          "loc": "poranekach",
-          "voc": "poraneky"
+          "nom": "poranki",
+          "gen": "poranków",
+          "dat": "porankom",
+          "acc": "poranki",
+          "inst": "porankami",
+          "loc": "porankach",
+          "voc": "poranki"
         }
       }
     },
@@ -21376,8 +21376,8 @@
           "dat": "portowi",
           "acc": "port",
           "inst": "portem",
-          "loc": "portie",
-          "voc": "portie"
+          "loc": "porcie",
+          "voc": "porcie"
         },
         "pl": {
           "nom": "porty",
@@ -21399,20 +21399,20 @@
         "sg": {
           "nom": "praca",
           "gen": "pracy",
-          "dat": "pracie",
+          "dat": "pracy",
           "acc": "pracę",
           "inst": "pracą",
-          "loc": "pracie",
+          "loc": "pracy",
           "voc": "praco"
         },
         "pl": {
-          "nom": "pracy",
+          "nom": "prace",
           "gen": "prac",
           "dat": "pracom",
-          "acc": "pracy",
+          "acc": "prace",
           "inst": "pracami",
           "loc": "pracach",
-          "voc": "pracy"
+          "voc": "prace"
         }
       }
     },
@@ -21480,8 +21480,8 @@
           "dat": "produktowi",
           "acc": "produkt",
           "inst": "produktem",
-          "loc": "produktie",
-          "voc": "produktie"
+          "loc": "produkcie",
+          "voc": "produkcie"
         },
         "pl": {
           "nom": "produkty",
@@ -21558,8 +21558,8 @@
           "dat": "projektowi",
           "acc": "projekt",
           "inst": "projektem",
-          "loc": "projektie",
-          "voc": "projektie"
+          "loc": "projekcie",
+          "voc": "projekcie"
         },
         "pl": {
           "nom": "projekty",
@@ -21580,12 +21580,12 @@
       "forms": {
         "sg": {
           "nom": "projektor",
-          "gen": "projektoru",
+          "gen": "projektora",
           "dat": "projektorowi",
           "acc": "projektor",
           "inst": "projektorem",
-          "loc": "projektorie",
-          "voc": "projektorie"
+          "loc": "projektorze",
+          "voc": "projektorze"
         },
         "pl": {
           "nom": "projektory",
@@ -21606,21 +21606,21 @@
       "forms": {
         "sg": {
           "nom": "przekaźnik",
-          "gen": "przekaźniku",
+          "gen": "przekaźnika",
           "dat": "przekaźnikowi",
           "acc": "przekaźnik",
-          "inst": "przekaźnikem",
-          "loc": "przekaźnikie",
-          "voc": "przekaźnikie"
+          "inst": "przekaźnikiem",
+          "loc": "przekaźniku",
+          "voc": "przekaźniku"
         },
         "pl": {
-          "nom": "przekaźniky",
+          "nom": "przekaźniki",
           "gen": "przekaźników",
           "dat": "przekaźnikom",
-          "acc": "przekaźniky",
+          "acc": "przekaźniki",
           "inst": "przekaźnikami",
           "loc": "przekaźnikach",
-          "voc": "przekaźniky"
+          "voc": "przekaźniki"
         }
       }
     },
@@ -21632,21 +21632,21 @@
       "forms": {
         "sg": {
           "nom": "przewód",
-          "gen": "przewódu",
-          "dat": "przewódowi",
+          "gen": "przewodu",
+          "dat": "przewodowi",
           "acc": "przewód",
-          "inst": "przewódem",
-          "loc": "przewódie",
-          "voc": "przewódie"
+          "inst": "przewodem",
+          "loc": "przewodzie",
+          "voc": "przewodzie"
         },
         "pl": {
-          "nom": "przewódy",
-          "gen": "przewódów",
-          "dat": "przewódom",
-          "acc": "przewódy",
-          "inst": "przewódami",
-          "loc": "przewódach",
-          "voc": "przewódy"
+          "nom": "przewody",
+          "gen": "przewodów",
+          "dat": "przewodom",
+          "acc": "przewody",
+          "inst": "przewodami",
+          "loc": "przewodach",
+          "voc": "przewody"
         }
       }
     },
@@ -21661,18 +21661,18 @@
           "gen": "przycisku",
           "dat": "przyciskowi",
           "acc": "przycisk",
-          "inst": "przyciskem",
-          "loc": "przyciskie",
-          "voc": "przyciskie"
+          "inst": "przyciskiem",
+          "loc": "przycisku",
+          "voc": "przycisku"
         },
         "pl": {
-          "nom": "przycisky",
+          "nom": "przyciski",
           "gen": "przycisków",
           "dat": "przyciskom",
-          "acc": "przycisky",
+          "acc": "przyciski",
           "inst": "przyciskami",
           "loc": "przyciskach",
-          "voc": "przycisky"
+          "voc": "przyciski"
         }
       }
     },
@@ -21687,13 +21687,13 @@
           "gen": "pudełka",
           "dat": "pudełku",
           "acc": "pudełko",
-          "inst": "pudełkem",
-          "loc": "pudełke",
+          "inst": "pudełkiem",
+          "loc": "pudełku",
           "voc": "pudełko"
         },
         "pl": {
           "nom": "pudełka",
-          "gen": "pudełk",
+          "gen": "pudełek",
           "dat": "pudełkom",
           "acc": "pudełka",
           "inst": "pudełkami",
@@ -21710,47 +21710,47 @@
       "forms": {
         "sg": {
           "nom": "płaszcz",
-          "gen": "płaszczu",
+          "gen": "płaszcza",
           "dat": "płaszczowi",
           "acc": "płaszcz",
           "inst": "płaszczem",
-          "loc": "płaszczie",
-          "voc": "płaszczie"
+          "loc": "płaszczu",
+          "voc": "płaszczu"
         },
         "pl": {
-          "nom": "płaszczy",
-          "gen": "płaszczów",
+          "nom": "płaszcze",
+          "gen": "płaszczy",
           "dat": "płaszczom",
-          "acc": "płaszczy",
+          "acc": "płaszcze",
           "inst": "płaszczami",
           "loc": "płaszczach",
-          "voc": "płaszczy"
+          "voc": "płaszcze"
         }
       }
     },
     {
       "base": "radio",
       "translation": "радио",
-      "gender": "m",
+      "gender": "n",
       "masc_personal": false,
       "forms": {
         "sg": {
           "nom": "radio",
-          "gen": "radiou",
-          "dat": "radioowi",
+          "gen": "radia",
+          "dat": "radiu",
           "acc": "radio",
-          "inst": "radioem",
-          "loc": "radioie",
-          "voc": "radioie"
+          "inst": "radiem",
+          "loc": "radiu",
+          "voc": "radio"
         },
         "pl": {
-          "nom": "radioy",
-          "gen": "radioów",
-          "dat": "radioom",
-          "acc": "radioy",
-          "inst": "radioami",
-          "loc": "radioach",
-          "voc": "radioy"
+          "nom": "radia",
+          "gen": "radiów",
+          "dat": "radiom",
+          "acc": "radia",
+          "inst": "radiami",
+          "loc": "radiach",
+          "voc": "radia"
         }
       }
     },
@@ -21762,21 +21762,21 @@
       "forms": {
         "sg": {
           "nom": "ramię",
-          "gen": "ramia",
-          "dat": "ramiu",
+          "gen": "ramienia",
+          "dat": "ramieniu",
           "acc": "ramię",
-          "inst": "ramiem",
-          "loc": "ramie",
+          "inst": "ramieniem",
+          "loc": "ramieniu",
           "voc": "ramię"
         },
         "pl": {
-          "nom": "ramia",
-          "gen": "rami",
-          "dat": "ramiom",
-          "acc": "ramia",
-          "inst": "ramiami",
-          "loc": "ramiach",
-          "voc": "ramia"
+          "nom": "ramiona",
+          "gen": "ramion",
+          "dat": "ramionom",
+          "acc": "ramiona",
+          "inst": "ramionami",
+          "loc": "ramionach",
+          "voc": "ramiona"
         }
       }
     },
@@ -21788,21 +21788,21 @@
       "forms": {
         "sg": {
           "nom": "restauracja",
-          "gen": "restauracjy",
-          "dat": "restauracjie",
+          "gen": "restauracji",
+          "dat": "restauracji",
           "acc": "restaurację",
           "inst": "restauracją",
-          "loc": "restauracjie",
+          "loc": "restauracji",
           "voc": "restauracjo"
         },
         "pl": {
-          "nom": "restauracjy",
-          "gen": "restauracj",
+          "nom": "restauracje",
+          "gen": "restauracji",
           "dat": "restauracjom",
-          "acc": "restauracjy",
+          "acc": "restauracje",
           "inst": "restauracjami",
           "loc": "restauracjach",
-          "voc": "restauracjy"
+          "voc": "restauracje"
         }
       }
     },
@@ -21843,18 +21843,18 @@
           "gen": "roku",
           "dat": "rokowi",
           "acc": "rok",
-          "inst": "rokem",
-          "loc": "rokie",
-          "voc": "rokie"
+          "inst": "rokiem",
+          "loc": "roku",
+          "voc": "roku"
         },
         "pl": {
-          "nom": "roky",
-          "gen": "roków",
-          "dat": "rokom",
-          "acc": "roky",
-          "inst": "rokami",
-          "loc": "rokach",
-          "voc": "roky"
+          "nom": "lata",
+          "gen": "lat",
+          "dat": "latom",
+          "acc": "lata",
+          "inst": "latami",
+          "loc": "latach",
+          "voc": "lata"
         }
       }
     },
@@ -21866,12 +21866,12 @@
       "forms": {
         "sg": {
           "nom": "router",
-          "gen": "routeru",
+          "gen": "routera",
           "dat": "routerowi",
           "acc": "router",
           "inst": "routerem",
-          "loc": "routerie",
-          "voc": "routerie"
+          "loc": "routerze",
+          "voc": "routerze"
         },
         "pl": {
           "nom": "routery",
@@ -21896,8 +21896,8 @@
           "dat": "rowerowi",
           "acc": "rower",
           "inst": "rowerem",
-          "loc": "rowerie",
-          "voc": "rowerie"
+          "loc": "rowerze",
+          "voc": "rowerze"
         },
         "pl": {
           "nom": "rowery",
@@ -21922,8 +21922,8 @@
           "dat": "ruchowi",
           "acc": "ruch",
           "inst": "ruchem",
-          "loc": "ruchie",
-          "voc": "ruchie"
+          "loc": "ruchu",
+          "voc": "ruchu"
         },
         "pl": {
           "nom": "ruchy",
@@ -21944,21 +21944,21 @@
       "forms": {
         "sg": {
           "nom": "rynek",
-          "gen": "ryneku",
-          "dat": "rynekowi",
+          "gen": "rynku",
+          "dat": "rynkowi",
           "acc": "rynek",
-          "inst": "rynekem",
-          "loc": "rynekie",
-          "voc": "rynekie"
+          "inst": "rynkiem",
+          "loc": "rynku",
+          "voc": "rynku"
         },
         "pl": {
-          "nom": "ryneky",
-          "gen": "ryneków",
-          "dat": "rynekom",
-          "acc": "ryneky",
-          "inst": "rynekami",
-          "loc": "rynekach",
-          "voc": "ryneky"
+          "nom": "rynki",
+          "gen": "rynków",
+          "dat": "rynkom",
+          "acc": "rynki",
+          "inst": "rynkami",
+          "loc": "rynkach",
+          "voc": "rynki"
         }
       }
     },
@@ -21974,17 +21974,17 @@
           "dat": "ryżowi",
           "acc": "ryż",
           "inst": "ryżem",
-          "loc": "ryżie",
-          "voc": "ryżie"
+          "loc": "ryżu",
+          "voc": "ryżu"
         },
         "pl": {
-          "nom": "ryży",
+          "nom": "ryże",
           "gen": "ryżów",
           "dat": "ryżom",
-          "acc": "ryży",
+          "acc": "ryże",
           "inst": "ryżami",
           "loc": "ryżach",
-          "voc": "ryży"
+          "voc": "ryże"
         }
       }
     },
@@ -21996,21 +21996,21 @@
       "forms": {
         "sg": {
           "nom": "ręka",
-          "gen": "ręky",
-          "dat": "rękie",
+          "gen": "ręki",
+          "dat": "ręce",
           "acc": "rękę",
           "inst": "ręką",
-          "loc": "rękie",
+          "loc": "ręce",
           "voc": "ręko"
         },
         "pl": {
-          "nom": "ręky",
-          "gen": "ręk",
+          "nom": "ręce",
+          "gen": "rąk",
           "dat": "rękom",
-          "acc": "ręky",
+          "acc": "ręce",
           "inst": "rękami",
           "loc": "rękach",
-          "voc": "ręky"
+          "voc": "ręce"
         }
       }
     },
@@ -22022,21 +22022,21 @@
       "forms": {
         "sg": {
           "nom": "samochód",
-          "gen": "samochódu",
-          "dat": "samochódowi",
+          "gen": "samochodu",
+          "dat": "samochodowi",
           "acc": "samochód",
-          "inst": "samochódem",
-          "loc": "samochódie",
-          "voc": "samochódie"
+          "inst": "samochodem",
+          "loc": "samochodzie",
+          "voc": "samochodzie"
         },
         "pl": {
-          "nom": "samochódy",
-          "gen": "samochódów",
-          "dat": "samochódom",
-          "acc": "samochódy",
-          "inst": "samochódami",
-          "loc": "samochódach",
-          "voc": "samochódy"
+          "nom": "samochody",
+          "gen": "samochodów",
+          "dat": "samochodom",
+          "acc": "samochody",
+          "inst": "samochodami",
+          "loc": "samochodach",
+          "voc": "samochody"
         }
       }
     },
@@ -22052,8 +22052,8 @@
           "dat": "samolotowi",
           "acc": "samolot",
           "inst": "samolotem",
-          "loc": "samolotie",
-          "voc": "samolotie"
+          "loc": "samolocie",
+          "voc": "samolocie"
         },
         "pl": {
           "nom": "samoloty",
@@ -22074,12 +22074,12 @@
       "forms": {
         "sg": {
           "nom": "ser",
-          "gen": "seru",
+          "gen": "sera",
           "dat": "serowi",
           "acc": "ser",
           "inst": "serem",
-          "loc": "serie",
-          "voc": "serie"
+          "loc": "serze",
+          "voc": "serze"
         },
         "pl": {
           "nom": "sery",
@@ -22104,7 +22104,7 @@
           "dat": "sercu",
           "acc": "serce",
           "inst": "sercem",
-          "loc": "serce",
+          "loc": "sercu",
           "voc": "serce"
         },
         "pl": {
@@ -22130,17 +22130,17 @@
           "dat": "serialowi",
           "acc": "serial",
           "inst": "serialem",
-          "loc": "serialie",
-          "voc": "serialie"
+          "loc": "serialu",
+          "voc": "serialu"
         },
         "pl": {
-          "nom": "serialy",
-          "gen": "serialów",
+          "nom": "seriale",
+          "gen": "seriali",
           "dat": "serialom",
-          "acc": "serialy",
+          "acc": "seriale",
           "inst": "serialami",
           "loc": "serialach",
-          "voc": "serialy"
+          "voc": "seriale"
         }
       }
     },
@@ -22152,12 +22152,12 @@
       "forms": {
         "sg": {
           "nom": "serwer",
-          "gen": "serweru",
+          "gen": "serwera",
           "dat": "serwerowi",
           "acc": "serwer",
           "inst": "serwerem",
-          "loc": "serwerie",
-          "voc": "serwerie"
+          "loc": "serwerze",
+          "voc": "serwerze"
         },
         "pl": {
           "nom": "serwery",
@@ -22179,15 +22179,15 @@
         "sg": {
           "nom": "siostra",
           "gen": "siostry",
-          "dat": "siostrie",
+          "dat": "siostrze",
           "acc": "siostrę",
           "inst": "siostrą",
-          "loc": "siostrie",
+          "loc": "siostrze",
           "voc": "siostro"
         },
         "pl": {
           "nom": "siostry",
-          "gen": "siostr",
+          "gen": "sióstr",
           "dat": "siostrom",
           "acc": "siostry",
           "inst": "siostrami",
@@ -22205,10 +22205,10 @@
         "sg": {
           "nom": "siła",
           "gen": "siły",
-          "dat": "siłie",
+          "dat": "sile",
           "acc": "siłę",
           "inst": "siłą",
-          "loc": "siłie",
+          "loc": "sile",
           "voc": "siło"
         },
         "pl": {
@@ -22260,8 +22260,8 @@
           "dat": "składowi",
           "acc": "skład",
           "inst": "składem",
-          "loc": "składie",
-          "voc": "składie"
+          "loc": "składzie",
+          "voc": "składzie"
         },
         "pl": {
           "nom": "składy",
@@ -22277,26 +22277,26 @@
     {
       "base": "sofa",
       "translation": "диван",
-      "gender": "m",
+      "gender": "f",
       "masc_personal": false,
       "forms": {
         "sg": {
           "nom": "sofa",
-          "gen": "sofau",
-          "dat": "sofaowi",
-          "acc": "sofa",
-          "inst": "sofaem",
-          "loc": "sofaie",
-          "voc": "sofaie"
+          "gen": "sofy",
+          "dat": "sofie",
+          "acc": "sofę",
+          "inst": "sofą",
+          "loc": "sofie",
+          "voc": "sofo"
         },
         "pl": {
-          "nom": "sofay",
-          "gen": "sofaów",
-          "dat": "sofaom",
-          "acc": "sofay",
-          "inst": "sofaami",
-          "loc": "sofaach",
-          "voc": "sofay"
+          "nom": "sofy",
+          "gen": "sof",
+          "dat": "sofom",
+          "acc": "sofy",
+          "inst": "sofami",
+          "loc": "sofach",
+          "voc": "sofy"
         }
       }
     },
@@ -22311,18 +22311,18 @@
           "gen": "soku",
           "dat": "sokowi",
           "acc": "sok",
-          "inst": "sokem",
-          "loc": "sokie",
-          "voc": "sokie"
+          "inst": "sokiem",
+          "loc": "soku",
+          "voc": "soku"
         },
         "pl": {
-          "nom": "soky",
+          "nom": "soki",
           "gen": "soków",
           "dat": "sokom",
-          "acc": "soky",
+          "acc": "soki",
           "inst": "sokami",
           "loc": "sokach",
-          "voc": "soky"
+          "voc": "soki"
         }
       }
     },
@@ -22360,21 +22360,21 @@
       "forms": {
         "sg": {
           "nom": "statek",
-          "gen": "stateku",
-          "dat": "statekowi",
+          "gen": "statku",
+          "dat": "statkowi",
           "acc": "statek",
-          "inst": "statekem",
-          "loc": "statekie",
-          "voc": "statekie"
+          "inst": "statkiem",
+          "loc": "statku",
+          "voc": "statku"
         },
         "pl": {
-          "nom": "stateky",
-          "gen": "stateków",
-          "dat": "statekom",
-          "acc": "stateky",
-          "inst": "statekami",
-          "loc": "statekach",
-          "voc": "stateky"
+          "nom": "statki",
+          "gen": "statków",
+          "dat": "statkom",
+          "acc": "statki",
+          "inst": "statkami",
+          "loc": "statkach",
+          "voc": "statki"
         }
       }
     },
@@ -22386,21 +22386,21 @@
       "forms": {
         "sg": {
           "nom": "stolik",
-          "gen": "stoliku",
+          "gen": "stolika",
           "dat": "stolikowi",
           "acc": "stolik",
-          "inst": "stolikem",
-          "loc": "stolikie",
-          "voc": "stolikie"
+          "inst": "stolikiem",
+          "loc": "stoliku",
+          "voc": "stoliku"
         },
         "pl": {
-          "nom": "stoliky",
+          "nom": "stoliki",
           "gen": "stolików",
           "dat": "stolikom",
-          "acc": "stoliky",
-          "inst": "stolikami",
+          "acc": "stoliki",
+          "inst": "stolikkami",
           "loc": "stolikach",
-          "voc": "stoliky"
+          "voc": "stoliki"
         }
       }
     },
@@ -22412,21 +22412,21 @@
       "forms": {
         "sg": {
           "nom": "stopień",
-          "gen": "stopieńu",
-          "dat": "stopieńowi",
+          "gen": "stopnia",
+          "dat": "stopniowi",
           "acc": "stopień",
-          "inst": "stopieńem",
-          "loc": "stopieńie",
-          "voc": "stopieńie"
+          "inst": "stopniem",
+          "loc": "stopniu",
+          "voc": "stopniu"
         },
         "pl": {
-          "nom": "stopieńy",
-          "gen": "stopieńów",
-          "dat": "stopieńom",
-          "acc": "stopieńy",
-          "inst": "stopieńami",
-          "loc": "stopieńach",
-          "voc": "stopieńy"
+          "nom": "stopnie",
+          "gen": "stopni",
+          "dat": "stopniom",
+          "acc": "stopnie",
+          "inst": "stopniami",
+          "loc": "stopniach",
+          "voc": "stopnie"
         }
       }
     },
@@ -22468,12 +22468,12 @@
           "dat": "studiu",
           "acc": "studio",
           "inst": "studiem",
-          "loc": "studie",
+          "loc": "studiu",
           "voc": "studio"
         },
         "pl": {
           "nom": "studia",
-          "gen": "studi",
+          "gen": "studiów",
           "dat": "studiom",
           "acc": "studia",
           "inst": "studiami",
@@ -22490,21 +22490,21 @@
       "forms": {
         "sg": {
           "nom": "stół",
-          "gen": "stółu",
-          "dat": "stółowi",
+          "gen": "stołu",
+          "dat": "stołowi",
           "acc": "stół",
-          "inst": "stółem",
-          "loc": "stółie",
-          "voc": "stółie"
+          "inst": "stołem",
+          "loc": "stole",
+          "voc": "stole"
         },
         "pl": {
-          "nom": "stóły",
-          "gen": "stółów",
-          "dat": "stółom",
-          "acc": "stóły",
-          "inst": "stółami",
-          "loc": "stółach",
-          "voc": "stóły"
+          "nom": "stoły",
+          "gen": "stołów",
+          "dat": "stołom",
+          "acc": "stoły",
+          "inst": "stołami",
+          "loc": "stołach",
+          "voc": "stoły"
         }
       }
     },
@@ -22520,8 +22520,8 @@
           "dat": "sufitowi",
           "acc": "sufit",
           "inst": "sufitem",
-          "loc": "sufitie",
-          "voc": "sufitie"
+          "loc": "suficie",
+          "voc": "suficie"
         },
         "pl": {
           "nom": "sufity",
@@ -22542,21 +22542,21 @@
       "forms": {
         "sg": {
           "nom": "sweter",
-          "gen": "sweteru",
-          "dat": "sweterowi",
+          "gen": "swetra",
+          "dat": "swetrowi",
           "acc": "sweter",
-          "inst": "sweterem",
-          "loc": "sweterie",
-          "voc": "sweterie"
+          "inst": "swetrem",
+          "loc": "swetrze",
+          "voc": "swetrze"
         },
         "pl": {
-          "nom": "swetery",
-          "gen": "sweterów",
-          "dat": "sweterom",
-          "acc": "swetery",
-          "inst": "sweterami",
-          "loc": "sweterach",
-          "voc": "swetery"
+          "nom": "swetry",
+          "gen": "swetrów",
+          "dat": "swetrom",
+          "acc": "swetry",
+          "inst": "swetrami",
+          "loc": "swetrach",
+          "voc": "swetry"
         }
       }
     },
@@ -22572,8 +22572,8 @@
           "dat": "sygnałowi",
           "acc": "sygnał",
           "inst": "sygnałem",
-          "loc": "sygnałie",
-          "voc": "sygnałie"
+          "loc": "sygnale",
+          "voc": "sygnale"
         },
         "pl": {
           "nom": "sygnały",
@@ -22594,21 +22594,21 @@
       "forms": {
         "sg": {
           "nom": "sypialnia",
-          "gen": "sypialniy",
-          "dat": "sypialniie",
+          "gen": "sypialni",
+          "dat": "sypialni",
           "acc": "sypialnię",
           "inst": "sypialnią",
-          "loc": "sypialniie",
+          "loc": "sypialni",
           "voc": "sypialnio"
         },
         "pl": {
-          "nom": "sypialniy",
+          "nom": "sypialnie",
           "gen": "sypialni",
           "dat": "sypialniom",
-          "acc": "sypialniy",
+          "acc": "sypialnie",
           "inst": "sypialniami",
           "loc": "sypialniach",
-          "voc": "sypialniy"
+          "voc": "sypialnie"
         }
       }
     },
@@ -22646,21 +22646,21 @@
       "forms": {
         "sg": {
           "nom": "szafka",
-          "gen": "szafky",
-          "dat": "szafkie",
+          "gen": "szafki",
+          "dat": "szafce",
           "acc": "szafkę",
           "inst": "szafką",
-          "loc": "szafkie",
+          "loc": "szafce",
           "voc": "szafko"
         },
         "pl": {
-          "nom": "szafky",
-          "gen": "szafk",
+          "nom": "szafki",
+          "gen": "szafek",
           "dat": "szafkom",
-          "acc": "szafky",
+          "acc": "szafki",
           "inst": "szafkami",
           "loc": "szafkach",
-          "voc": "szafky"
+          "voc": "szafki"
         }
       }
     },
@@ -22673,15 +22673,15 @@
         "sg": {
           "nom": "szkoła",
           "gen": "szkoły",
-          "dat": "szkołie",
+          "dat": "szkole",
           "acc": "szkołę",
           "inst": "szkołą",
-          "loc": "szkołie",
+          "loc": "szkole",
           "voc": "szkoło"
         },
         "pl": {
           "nom": "szkoły",
-          "gen": "szkoł",
+          "gen": "szkół",
           "dat": "szkołom",
           "acc": "szkoły",
           "inst": "szkołami",
@@ -22698,21 +22698,21 @@
       "forms": {
         "sg": {
           "nom": "szpital",
-          "gen": "szpitalu",
+          "gen": "szpitala",
           "dat": "szpitalowi",
           "acc": "szpital",
           "inst": "szpitalem",
-          "loc": "szpitalie",
-          "voc": "szpitalie"
+          "loc": "szpitalu",
+          "voc": "szpitalu"
         },
         "pl": {
-          "nom": "szpitaly",
-          "gen": "szpitalów",
+          "nom": "szpitale",
+          "gen": "szpitali",
           "dat": "szpitalom",
-          "acc": "szpitaly",
+          "acc": "szpitale",
           "inst": "szpitalami",
           "loc": "szpitalach",
-          "voc": "szpitaly"
+          "voc": "szpitale"
         }
       }
     },
@@ -22724,21 +22724,21 @@
       "forms": {
         "sg": {
           "nom": "sztuka",
-          "gen": "sztuky",
-          "dat": "sztukie",
+          "gen": "sztuki",
+          "dat": "sztuce",
           "acc": "sztukę",
           "inst": "sztuką",
-          "loc": "sztukie",
+          "loc": "sztuce",
           "voc": "sztuko"
         },
         "pl": {
-          "nom": "sztuky",
+          "nom": "sztuki",
           "gen": "sztuk",
           "dat": "sztukom",
-          "acc": "sztuky",
+          "acc": "sztuki",
           "inst": "sztukami",
           "loc": "sztukach",
-          "voc": "sztuky"
+          "voc": "sztuki"
         }
       }
     },
@@ -22750,21 +22750,21 @@
       "forms": {
         "sg": {
           "nom": "słownik",
-          "gen": "słowniku",
+          "gen": "słownika",
           "dat": "słownikowi",
           "acc": "słownik",
-          "inst": "słownikem",
-          "loc": "słownikie",
-          "voc": "słownikie"
+          "inst": "słownikiem",
+          "loc": "słowniku",
+          "voc": "słowniku"
         },
         "pl": {
-          "nom": "słowniky",
+          "nom": "słowniki",
           "gen": "słowników",
           "dat": "słownikom",
-          "acc": "słowniky",
+          "acc": "słowniki",
           "inst": "słownikami",
           "loc": "słownikach",
-          "voc": "słowniky"
+          "voc": "słowniki"
         }
       }
     },
@@ -22780,12 +22780,12 @@
           "dat": "słowu",
           "acc": "słowo",
           "inst": "słowem",
-          "loc": "słowe",
+          "loc": "słowie",
           "voc": "słowo"
         },
         "pl": {
           "nom": "słowa",
-          "gen": "słow",
+          "gen": "słów",
           "dat": "słowom",
           "acc": "słowa",
           "inst": "słowami",
@@ -22806,8 +22806,8 @@
           "dat": "tabletowi",
           "acc": "tablet",
           "inst": "tabletem",
-          "loc": "tabletie",
-          "voc": "tabletie"
+          "loc": "tablecie",
+          "voc": "tablecie"
         },
         "pl": {
           "nom": "tablety",
@@ -22829,20 +22829,20 @@
         "sg": {
           "nom": "tablica",
           "gen": "tablicy",
-          "dat": "tablicie",
+          "dat": "tablicy",
           "acc": "tablicę",
           "inst": "tablicą",
-          "loc": "tablicie",
+          "loc": "tablicy",
           "voc": "tablico"
         },
         "pl": {
-          "nom": "tablicy",
+          "nom": "tablice",
           "gen": "tablic",
           "dat": "tablicom",
-          "acc": "tablicy",
+          "acc": "tablice",
           "inst": "tablicami",
           "loc": "tablicach",
-          "voc": "tablicy"
+          "voc": "tablice"
         }
       }
     },
@@ -22858,8 +22858,8 @@
           "dat": "tekstowi",
           "acc": "tekst",
           "inst": "tekstem",
-          "loc": "tekstie",
-          "voc": "tekstie"
+          "loc": "tekście",
+          "voc": "tekście"
         },
         "pl": {
           "nom": "teksty",
@@ -22906,12 +22906,12 @@
       "forms": {
         "sg": {
           "nom": "telewizor",
-          "gen": "telewizoru",
+          "gen": "telewizora",
           "dat": "telewizorowi",
           "acc": "telewizor",
           "inst": "telewizorem",
-          "loc": "telewizorie",
-          "voc": "telewizorie"
+          "loc": "telewizorze",
+          "voc": "telewizorze"
         },
         "pl": {
           "nom": "telewizory",
@@ -22936,8 +22936,8 @@
           "dat": "tematowi",
           "acc": "temat",
           "inst": "tematem",
-          "loc": "tematie",
-          "voc": "tematie"
+          "loc": "temacie",
+          "voc": "temacie"
         },
         "pl": {
           "nom": "tematy",
@@ -22962,17 +22962,17 @@
           "dat": "tramwajowi",
           "acc": "tramwaj",
           "inst": "tramwajem",
-          "loc": "tramwajie",
-          "voc": "tramwajie"
+          "loc": "tramwaju",
+          "voc": "tramwaju"
         },
         "pl": {
-          "nom": "tramwajy",
+          "nom": "tramwaje",
           "gen": "tramwajów",
           "dat": "tramwajom",
-          "acc": "tramwajy",
+          "acc": "tramwaje",
           "inst": "tramwajami",
           "loc": "tramwajach",
-          "voc": "tramwajy"
+          "voc": "tramwaje"
         }
       }
     },
@@ -22984,21 +22984,21 @@
       "forms": {
         "sg": {
           "nom": "tydzień",
-          "gen": "tydzieńu",
-          "dat": "tydzieńowi",
+          "gen": "tygodnia",
+          "dat": "tygodniowi",
           "acc": "tydzień",
-          "inst": "tydzieńem",
-          "loc": "tydzieńie",
-          "voc": "tydzieńie"
+          "inst": "tygodniem",
+          "loc": "tygodniu",
+          "voc": "tygodniu"
         },
         "pl": {
-          "nom": "tydzieńy",
-          "gen": "tydzieńów",
-          "dat": "tydzieńom",
-          "acc": "tydzieńy",
-          "inst": "tydzieńami",
-          "loc": "tydzieńach",
-          "voc": "tydzieńy"
+          "nom": "tygodnie",
+          "gen": "tygodni",
+          "dat": "tygodniom",
+          "acc": "tygodnie",
+          "inst": "tygodniami",
+          "loc": "tygodniach",
+          "voc": "tygodnie"
         }
       }
     },
@@ -23014,17 +23014,17 @@
           "dat": "uchu",
           "acc": "ucho",
           "inst": "uchem",
-          "loc": "uche",
+          "loc": "uchu",
           "voc": "ucho"
         },
         "pl": {
-          "nom": "ucha",
-          "gen": "uch",
-          "dat": "uchom",
-          "acc": "ucha",
-          "inst": "uchami",
-          "loc": "uchach",
-          "voc": "ucha"
+          "nom": "uszy",
+          "gen": "uszu",
+          "dat": "uszom",
+          "acc": "uszy",
+          "inst": "uszami",
+          "loc": "uszach",
+          "voc": "uszy"
         }
       }
     },
@@ -23037,20 +23037,20 @@
         "sg": {
           "nom": "ulica",
           "gen": "ulicy",
-          "dat": "ulicie",
+          "dat": "ulicy",
           "acc": "ulicę",
           "inst": "ulicą",
-          "loc": "ulicie",
+          "loc": "ulicy",
           "voc": "ulico"
         },
         "pl": {
-          "nom": "ulicy",
+          "nom": "ulice",
           "gen": "ulic",
           "dat": "ulicom",
-          "acc": "ulicy",
+          "acc": "ulice",
           "inst": "ulicami",
           "loc": "ulicach",
-          "voc": "ulicy"
+          "voc": "ulice"
         }
       }
     },
@@ -23062,21 +23062,21 @@
       "forms": {
         "sg": {
           "nom": "usługa",
-          "gen": "usługy",
-          "dat": "usługie",
+          "gen": "usługi",
+          "dat": "usłudze",
           "acc": "usługę",
           "inst": "usługą",
-          "loc": "usługie",
+          "loc": "usłudze",
           "voc": "usługo"
         },
         "pl": {
-          "nom": "usługy",
+          "nom": "usługi",
           "gen": "usług",
           "dat": "usługom",
-          "acc": "usługy",
+          "acc": "usługi",
           "inst": "usługami",
           "loc": "usługach",
-          "voc": "usługy"
+          "voc": "usługi"
         }
       }
     },
@@ -23092,7 +23092,7 @@
           "dat": "warzywu",
           "acc": "warzywo",
           "inst": "warzywem",
-          "loc": "warzywe",
+          "loc": "warzywie",
           "voc": "warzywo"
         },
         "pl": {
@@ -23118,8 +23118,8 @@
           "dat": "wiatrowi",
           "acc": "wiatr",
           "inst": "wiatrem",
-          "loc": "wiatrie",
-          "voc": "wiatrie"
+          "loc": "wietrze",
+          "voc": "wietrze"
         },
         "pl": {
           "nom": "wiatry",
@@ -23140,21 +23140,21 @@
       "forms": {
         "sg": {
           "nom": "wieczór",
-          "gen": "wieczóru",
-          "dat": "wieczórowi",
+          "gen": "wieczoru",
+          "dat": "wieczorowi",
           "acc": "wieczór",
-          "inst": "wieczórem",
-          "loc": "wieczórie",
-          "voc": "wieczórie"
+          "inst": "wieczorem",
+          "loc": "wieczorze",
+          "voc": "wieczorze"
         },
         "pl": {
-          "nom": "wieczóry",
-          "gen": "wieczórów",
-          "dat": "wieczórom",
-          "acc": "wieczóry",
-          "inst": "wieczórami",
-          "loc": "wieczórach",
-          "voc": "wieczóry"
+          "nom": "wieczory",
+          "gen": "wieczorów",
+          "dat": "wieczorom",
+          "acc": "wieczory",
+          "inst": "wieczorami",
+          "loc": "wieczorach",
+          "voc": "wieczory"
         }
       }
     },
@@ -23167,15 +23167,15 @@
         "sg": {
           "nom": "woda",
           "gen": "wody",
-          "dat": "wodie",
+          "dat": "wodzie",
           "acc": "wodę",
           "inst": "wodą",
-          "loc": "wodie",
+          "loc": "wodzie",
           "voc": "wodo"
         },
         "pl": {
           "nom": "wody",
-          "gen": "wod",
+          "gen": "wód",
           "dat": "wodom",
           "acc": "wody",
           "inst": "wodami",
@@ -23192,21 +23192,21 @@
       "forms": {
         "sg": {
           "nom": "wybór",
-          "gen": "wybóru",
-          "dat": "wybórowi",
+          "gen": "wyboru",
+          "dat": "wyborowi",
           "acc": "wybór",
-          "inst": "wybórem",
-          "loc": "wybórie",
-          "voc": "wybórie"
+          "inst": "wyborem",
+          "loc": "wyborze",
+          "voc": "wyborze"
         },
         "pl": {
-          "nom": "wybóry",
-          "gen": "wybórów",
-          "dat": "wybórom",
-          "acc": "wybóry",
-          "inst": "wybórami",
-          "loc": "wybórach",
-          "voc": "wybóry"
+          "nom": "wybory",
+          "gen": "wyborów",
+          "dat": "wyborom",
+          "acc": "wybory",
+          "inst": "wyborami",
+          "loc": "wyborach",
+          "voc": "wybory"
         }
       }
     },
@@ -23221,18 +23221,18 @@
           "gen": "wyniku",
           "dat": "wynikowi",
           "acc": "wynik",
-          "inst": "wynikem",
-          "loc": "wynikie",
-          "voc": "wynikie"
+          "inst": "wynikiem",
+          "loc": "wyniku",
+          "voc": "wyniku"
         },
         "pl": {
-          "nom": "wyniky",
+          "nom": "wyniki",
           "gen": "wyników",
           "dat": "wynikom",
-          "acc": "wyniky",
+          "acc": "wyniki",
           "inst": "wynikami",
           "loc": "wynikach",
-          "voc": "wyniky"
+          "voc": "wyniki"
         }
       }
     },
@@ -23244,21 +23244,21 @@
       "forms": {
         "sg": {
           "nom": "zawód",
-          "gen": "zawódu",
-          "dat": "zawódowi",
+          "gen": "zawodu",
+          "dat": "zawodowi",
           "acc": "zawód",
-          "inst": "zawódem",
-          "loc": "zawódie",
-          "voc": "zawódie"
+          "inst": "zawodem",
+          "loc": "zawodzie",
+          "voc": "zawodzie"
         },
         "pl": {
-          "nom": "zawódy",
-          "gen": "zawódów",
-          "dat": "zawódom",
-          "acc": "zawódy",
-          "inst": "zawódami",
-          "loc": "zawódach",
-          "voc": "zawódy"
+          "nom": "zawody",
+          "gen": "zawodów",
+          "dat": "zawodom",
+          "acc": "zawody",
+          "inst": "zawodami",
+          "loc": "zawodach",
+          "voc": "zawody"
         }
       }
     },
@@ -23274,12 +23274,12 @@
           "dat": "zdaniu",
           "acc": "zdanie",
           "inst": "zdaniem",
-          "loc": "zdanie",
+          "loc": "zdaniu",
           "voc": "zdanie"
         },
         "pl": {
           "nom": "zdania",
-          "gen": "zdani",
+          "gen": "zdań",
           "dat": "zdaniom",
           "acc": "zdania",
           "inst": "zdaniami",
@@ -23296,12 +23296,12 @@
       "forms": {
         "sg": {
           "nom": "zegar",
-          "gen": "zegaru",
+          "gen": "zegara",
           "dat": "zegarowi",
           "acc": "zegar",
           "inst": "zegarem",
-          "loc": "zegarie",
-          "voc": "zegarie"
+          "loc": "zegarze",
+          "voc": "zegarze"
         },
         "pl": {
           "nom": "zegary",
@@ -23326,8 +23326,8 @@
           "dat": "zeszytowi",
           "acc": "zeszyt",
           "inst": "zeszytem",
-          "loc": "zeszytie",
-          "voc": "zeszytie"
+          "loc": "zeszycie",
+          "voc": "zeszycie"
         },
         "pl": {
           "nom": "zeszyty",
@@ -23374,21 +23374,21 @@
       "forms": {
         "sg": {
           "nom": "zoo",
-          "gen": "zoa",
-          "dat": "zou",
+          "gen": "zoo",
+          "dat": "zoo",
           "acc": "zoo",
-          "inst": "zoem",
-          "loc": "zoe",
+          "inst": "zoo",
+          "loc": "zoo",
           "voc": "zoo"
         },
         "pl": {
-          "nom": "zoa",
-          "gen": "zo",
-          "dat": "zoom",
-          "acc": "zoa",
-          "inst": "zoami",
-          "loc": "zoach",
-          "voc": "zoa"
+          "nom": "zoo",
+          "gen": "zoo",
+          "dat": "zoo",
+          "acc": "zoo",
+          "inst": "zoo",
+          "loc": "zoo",
+          "voc": "zoo"
         }
       }
     },
@@ -23426,21 +23426,21 @@
       "forms": {
         "sg": {
           "nom": "zwierzę",
-          "gen": "zwierza",
-          "dat": "zwierzu",
+          "gen": "zwierzęcia",
+          "dat": "zwierzęciu",
           "acc": "zwierzę",
-          "inst": "zwierzem",
-          "loc": "zwierze",
+          "inst": "zwierzęciem",
+          "loc": "zwierzęciu",
           "voc": "zwierzę"
         },
         "pl": {
-          "nom": "zwierza",
-          "gen": "zwierz",
-          "dat": "zwierzom",
-          "acc": "zwierza",
-          "inst": "zwierzami",
-          "loc": "zwierzach",
-          "voc": "zwierza"
+          "nom": "zwierzęta",
+          "gen": "zwierząt",
+          "dat": "zwierzętom",
+          "acc": "zwierzęta",
+          "inst": "zwierzętami",
+          "loc": "zwierzętach",
+          "voc": "zwierzęta"
         }
       }
     },
@@ -23452,21 +23452,21 @@
       "forms": {
         "sg": {
           "nom": "związek",
-          "gen": "związeku",
-          "dat": "związekowi",
+          "gen": "związku",
+          "dat": "związkowi",
           "acc": "związek",
-          "inst": "związekem",
-          "loc": "związekie",
-          "voc": "związekie"
+          "inst": "związkiem",
+          "loc": "związku",
+          "voc": "związku"
         },
         "pl": {
-          "nom": "związeky",
-          "gen": "związeków",
-          "dat": "związekom",
-          "acc": "związeky",
-          "inst": "związekami",
-          "loc": "związekach",
-          "voc": "związeky"
+          "nom": "związki",
+          "gen": "związków",
+          "dat": "związkom",
+          "acc": "związki",
+          "inst": "związkami",
+          "loc": "związkach",
+          "voc": "związki"
         }
       }
     },
@@ -23478,21 +23478,21 @@
       "forms": {
         "sg": {
           "nom": "łazienka",
-          "gen": "łazienky",
-          "dat": "łazienkie",
+          "gen": "łazienki",
+          "dat": "łazience",
           "acc": "łazienkę",
           "inst": "łazienką",
-          "loc": "łazienkie",
+          "loc": "łazience",
           "voc": "łazienko"
         },
         "pl": {
-          "nom": "łazienky",
-          "gen": "łazienk",
+          "nom": "łazienki",
+          "gen": "łazienek",
           "dat": "łazienkom",
-          "acc": "łazienky",
+          "acc": "łazienki",
           "inst": "łazienkami",
           "loc": "łazienkach",
-          "voc": "łazienky"
+          "voc": "łazienki"
         }
       }
     },
@@ -23504,21 +23504,21 @@
       "forms": {
         "sg": {
           "nom": "łyżka",
-          "gen": "łyżky",
-          "dat": "łyżkie",
+          "gen": "łyżki",
+          "dat": "łyżce",
           "acc": "łyżkę",
           "inst": "łyżką",
-          "loc": "łyżkie",
+          "loc": "łyżce",
           "voc": "łyżko"
         },
         "pl": {
-          "nom": "łyżky",
-          "gen": "łyżk",
+          "nom": "łyżki",
+          "gen": "łyżek",
           "dat": "łyżkom",
-          "acc": "łyżky",
+          "acc": "łyżki",
           "inst": "łyżkami",
           "loc": "łyżkach",
-          "voc": "łyżky"
+          "voc": "łyżki"
         }
       }
     },
@@ -23533,13 +23533,13 @@
           "gen": "łóżka",
           "dat": "łóżku",
           "acc": "łóżko",
-          "inst": "łóżkem",
-          "loc": "łóżke",
+          "inst": "łóżkiem",
+          "loc": "łóżku",
           "voc": "łóżko"
         },
         "pl": {
           "nom": "łóżka",
-          "gen": "łóżk",
+          "gen": "łóżek",
           "dat": "łóżkom",
           "acc": "łóżka",
           "inst": "łóżkami",
@@ -23559,18 +23559,18 @@
           "gen": "śniegu",
           "dat": "śniegowi",
           "acc": "śnieg",
-          "inst": "śniegem",
-          "loc": "śniegie",
-          "voc": "śniegie"
+          "inst": "śniegiem",
+          "loc": "śniegu",
+          "voc": "śniegu"
         },
         "pl": {
-          "nom": "śniegy",
+          "nom": "śniegi",
           "gen": "śniegów",
           "dat": "śniegom",
-          "acc": "śniegy",
+          "acc": "śniegi",
           "inst": "śniegami",
           "loc": "śniegach",
-          "voc": "śniegy"
+          "voc": "śniegi"
         }
       }
     },
@@ -23582,12 +23582,12 @@
       "forms": {
         "sg": {
           "nom": "świat",
-          "gen": "światu",
-          "dat": "światowi",
+          "gen": "świata",
+          "dat": "światu",
           "acc": "świat",
           "inst": "światem",
-          "loc": "światie",
-          "voc": "światie"
+          "loc": "świecie",
+          "voc": "świecie"
         },
         "pl": {
           "nom": "światy",
