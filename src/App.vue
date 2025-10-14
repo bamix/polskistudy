@@ -1,5 +1,5 @@
 <script setup>
-import { ref, reactive, onMounted, computed } from 'vue'
+import { ref, reactive, onMounted, computed, nextTick } from 'vue'
 
 const loading = ref(true)
 const error = ref(null)
@@ -17,6 +17,23 @@ const question = reactive({
 })
 
 const answer = ref('')
+const answerField = ref(null)
+// Helper to robustly focus the input (especially on mobile, after transitions)
+function focusAnswer(retries = 3) {
+  nextTick(() => {
+    if (answerField.value) {
+      try {
+        answerField.value.focus()
+        // If value is empty ensure cursor visible; some mobile browsers need a slight delay
+        if (retries > 0) setTimeout(() => focusAnswer(retries - 1), 60)
+      } catch (_) {
+        if (retries > 0) setTimeout(() => focusAnswer(retries - 1), 100)
+      }
+    } else if (retries > 0) {
+      setTimeout(() => focusAnswer(retries - 1), 50)
+    }
+  })
+}
 const result = reactive({
   checked: false,
   isCorrect: false,
@@ -36,6 +53,10 @@ const accuracy = computed(() => stats.total ? Math.round((stats.correct / stats.
 // Disable buttons only during 2s lock after incorrect answer
 const lockUntil = ref(0)
 const disableActions = computed(() => Date.now() < lockUntil.value)
+// Disable submit when answer empty (ignoring whitespace) and not yet checked
+const disableSubmitEmpty = computed(() => !answer.value || !answer.value.trim())
+// Combined disable state for the main submit button (either locked after wrong answer or empty input before first check)
+const disableSubmit = computed(() => disableActions.value || (!result.checked && disableSubmitEmpty.value))
 
 let nextTimer = null
 
@@ -161,9 +182,13 @@ function makeQuestion() {
   result.isCorrect = false
   result.message = ''
   result.correctAnswer = ''
+  // Re-focus input after DOM updates (with retries for mobile keyboard reliability)
+  focusAnswer()
 }
 
 function submitAnswer() {
+  // Guard: if submit should be disabled (empty input & not in result state) do nothing
+  if (!result.checked && disableSubmitEmpty.value) return
   if (result.checked) {
     // after showing result user manually moves to next
     nextQuestion(true)
@@ -295,14 +320,15 @@ onMounted(loadData)
               label="Odpowiedź"
               variant="outlined"
               density="comfortable"
-              autofocus
+              :disabled="result.checked && !disableActions" 
+              ref="answerField"
               hide-details="auto"
               @keyup.enter="submitAnswer"
               placeholder="przymiotnik + rzeczownik"
             />
 
             <div class="mt-4 d-flex flex-column">
-              <v-btn block size="x-large" color="success" @click="submitAnswer" :prepend-icon="result.checked ? 'mdi-skip-next' : 'mdi-check'" :disabled="disableActions">
+              <v-btn block size="x-large" color="success" @click="submitAnswer" :prepend-icon="result.checked ? 'mdi-skip-next' : 'mdi-check'" :disabled="disableSubmit">
                 {{ result.checked ? 'Dalej' : 'Wyślij' }}
               </v-btn>
               <v-btn block class="mt-2" variant="text" @click="skipQuestion" prepend-icon="mdi-skip-forward" :disabled="disableActions">Pomiń</v-btn>
