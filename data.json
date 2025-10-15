@@ -4803,7 +4803,7 @@
             "nom": "grecki",
             "gen": "greckiego",
             "dat": "greckiemu",
-            "acc": "greckiego",
+            "acc": "grecki",
             "inst": "greckim",
             "loc": "greckim",
             "voc": "grecki"
@@ -17780,6 +17780,7 @@
       "base": "adres",
       "translation": "адрес",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17806,6 +17807,7 @@
       "base": "apteka",
       "translation": "аптека",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17832,6 +17834,7 @@
       "base": "autobus",
       "translation": "автобус",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17858,6 +17861,7 @@
       "base": "bank",
       "translation": "банк",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17884,6 +17888,7 @@
       "base": "biblioteka",
       "translation": "библиотека",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17910,6 +17915,7 @@
       "base": "bilet",
       "translation": "bilet",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17936,6 +17942,7 @@
       "base": "biurko",
       "translation": "письменный стол",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17962,6 +17969,7 @@
       "base": "budynek",
       "translation": "здание",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -17988,6 +17996,7 @@
       "base": "but",
       "translation": "ботинок",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18014,6 +18023,7 @@
       "base": "błąd",
       "translation": "ошибка",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18040,6 +18050,7 @@
       "base": "centrum",
       "translation": "центр",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18066,6 +18077,7 @@
       "base": "chleb",
       "translation": "хлеб",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18092,6 +18104,7 @@
       "base": "chwila",
       "translation": "мгновение",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18118,6 +18131,7 @@
       "base": "ciało",
       "translation": "тело",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18144,6 +18158,7 @@
       "base": "cukier",
       "translation": "сахар",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18170,6 +18185,7 @@
       "base": "czas",
       "translation": "время",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18196,6 +18212,7 @@
       "base": "członek",
       "translation": "член",
       "gender": "m",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18222,6 +18239,7 @@
       "base": "dach",
       "translation": "крыша",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18248,6 +18266,7 @@
       "base": "decyzja",
       "translation": "решение",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18274,6 +18293,7 @@
       "base": "deszcz",
       "translation": "дождь",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18300,6 +18320,7 @@
       "base": "dom",
       "translation": "дом",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18326,6 +18347,7 @@
       "base": "droga",
       "translation": "дорога",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18352,6 +18374,7 @@
       "base": "drukarka",
       "translation": "принтер",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18378,6 +18401,7 @@
       "base": "dworzec",
       "translation": "вокзал",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18404,6 +18428,7 @@
       "base": "dziecko",
       "translation": "ребёнок",
       "gender": "n",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18430,6 +18455,7 @@
       "base": "dziewczyna",
       "translation": "девушка",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18456,6 +18482,7 @@
       "base": "dzień",
       "translation": "день",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18482,6 +18509,7 @@
       "base": "długopis",
       "translation": "ручка",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18508,6 +18536,7 @@
       "base": "dźwięk",
       "translation": "звук",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18534,6 +18563,7 @@
       "base": "efekt",
       "translation": "эффект",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18560,6 +18590,7 @@
       "base": "ekran",
       "translation": "экран",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18586,6 +18617,7 @@
       "base": "fakt",
       "translation": "факт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18612,6 +18644,7 @@
       "base": "film",
       "translation": "фильм",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18638,6 +18671,7 @@
       "base": "firma",
       "translation": "компания",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18664,6 +18698,7 @@
       "base": "folder",
       "translation": "папка",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18690,6 +18725,7 @@
       "base": "fotel",
       "translation": "кресло",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18716,6 +18752,7 @@
       "base": "gazeta",
       "translation": "газета",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18742,6 +18779,7 @@
       "base": "godzina",
       "translation": "час",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18768,6 +18806,7 @@
       "base": "głos",
       "translation": "голос",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18794,6 +18833,7 @@
       "base": "głowa",
       "translation": "голова",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18820,6 +18860,7 @@
       "base": "herbata",
       "translation": "чай",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18846,6 +18887,7 @@
       "base": "historia",
       "translation": "история",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18872,6 +18914,7 @@
       "base": "hol",
       "translation": "холл",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18898,6 +18941,7 @@
       "base": "hotel",
       "translation": "отель",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18924,6 +18968,7 @@
       "base": "imię",
       "translation": "имя",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18950,6 +18995,7 @@
       "base": "internet",
       "translation": "интернет",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -18976,6 +19022,7 @@
       "base": "jabłko",
       "translation": "яблоко",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19002,6 +19049,7 @@
       "base": "jajko",
       "translation": "яйцо",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19028,6 +19076,7 @@
       "base": "język",
       "translation": "язык",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19054,6 +19103,7 @@
       "base": "kabel",
       "translation": "кабель",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19080,6 +19130,7 @@
       "base": "kalendarz",
       "translation": "календарь",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19106,6 +19157,7 @@
       "base": "kamień",
       "translation": "камень",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19132,6 +19184,7 @@
       "base": "kartka",
       "translation": "листок",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19158,6 +19211,7 @@
       "base": "kawa",
       "translation": "кофе",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19184,6 +19238,7 @@
       "base": "kawiarnia",
       "translation": "кафе",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19210,6 +19265,7 @@
       "base": "kierowca",
       "translation": "водитель",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -19236,6 +19292,7 @@
       "base": "kierunek",
       "translation": "направление",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19262,6 +19319,7 @@
       "base": "kino",
       "translation": "кино",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19288,6 +19346,7 @@
       "base": "klub",
       "translation": "клуб",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19314,6 +19373,7 @@
       "base": "kobieta",
       "translation": "женщина",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19340,6 +19400,7 @@
       "base": "kod",
       "translation": "код",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19366,6 +19427,7 @@
       "base": "kolacja",
       "translation": "ужин",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19392,6 +19454,7 @@
       "base": "kolano",
       "translation": "колено",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19418,6 +19481,7 @@
       "base": "kolega",
       "translation": "коллега",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -19444,6 +19508,7 @@
       "base": "koleżanka",
       "translation": "подруга/коллега",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19470,6 +19535,7 @@
       "base": "komputer",
       "translation": "компьютер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19496,6 +19562,7 @@
       "base": "kontakt",
       "translation": "контакт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19522,6 +19589,7 @@
       "base": "korytarz",
       "translation": "коридор",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19548,6 +19616,7 @@
       "base": "kraj",
       "translation": "страна",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19574,6 +19643,7 @@
       "base": "krawat",
       "translation": "галстук",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19600,6 +19670,7 @@
       "base": "krzesło",
       "translation": "стул",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19626,6 +19697,7 @@
       "base": "książka",
       "translation": "книга",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19652,6 +19724,7 @@
       "base": "księgarnia",
       "translation": "книжный магазин",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19678,6 +19751,7 @@
       "base": "kuchnia",
       "translation": "кухня",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19704,6 +19778,7 @@
       "base": "kultura",
       "translation": "культура",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19730,6 +19805,7 @@
       "base": "kurtka",
       "translation": "куртка",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19756,6 +19832,7 @@
       "base": "lampka",
       "translation": "лампочка",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19782,6 +19859,7 @@
       "base": "laptop",
       "translation": "ноутбук",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19808,6 +19886,7 @@
       "base": "las",
       "translation": "лес",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19834,6 +19913,7 @@
       "base": "list",
       "translation": "письмо",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19860,6 +19940,7 @@
       "base": "lot",
       "translation": "рейс",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19886,6 +19967,7 @@
       "base": "lód",
       "translation": "лёд",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19912,6 +19994,7 @@
       "base": "masło",
       "translation": "масло",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19938,6 +20021,7 @@
       "base": "matka",
       "translation": "мать",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19964,6 +20048,7 @@
       "base": "mecz",
       "translation": "матч",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -19990,6 +20075,7 @@
       "base": "metal",
       "translation": "металл",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20016,6 +20102,7 @@
       "base": "metoda",
       "translation": "метод",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20042,6 +20129,7 @@
       "base": "miasto",
       "translation": "город",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20068,6 +20156,7 @@
       "base": "miejsce",
       "translation": "место",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20094,6 +20183,7 @@
       "base": "miesiąc",
       "translation": "месяц",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20120,6 +20210,7 @@
       "base": "mieszkanie",
       "translation": "квартира",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20146,6 +20237,7 @@
       "base": "minuta",
       "translation": "минута",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20172,6 +20264,7 @@
       "base": "miska",
       "translation": "миска",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20198,6 +20291,7 @@
       "base": "mięso",
       "translation": "мясо",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20224,6 +20318,7 @@
       "base": "model",
       "translation": "модель",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20250,6 +20345,7 @@
       "base": "moduł",
       "translation": "модуль",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20276,6 +20372,7 @@
       "base": "monitor",
       "translation": "монитор",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20302,6 +20399,7 @@
       "base": "morze",
       "translation": "море",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20328,6 +20426,7 @@
       "base": "most",
       "translation": "мост",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20354,6 +20453,7 @@
       "base": "mur",
       "translation": "стена",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20380,6 +20480,7 @@
       "base": "muzeum",
       "translation": "музей",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20406,6 +20507,7 @@
       "base": "muzyka",
       "translation": "музыка",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20432,6 +20534,7 @@
       "base": "mężczyzna",
       "translation": "мужчина",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -20458,6 +20561,7 @@
       "base": "napój",
       "translation": "напиток",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20484,6 +20588,7 @@
       "base": "nauka",
       "translation": "наука",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20510,6 +20615,7 @@
       "base": "noga",
       "translation": "нога",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20536,6 +20642,7 @@
       "base": "numer",
       "translation": "номер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20562,6 +20669,7 @@
       "base": "obiekt",
       "translation": "объект",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20588,6 +20696,7 @@
       "base": "obraz",
       "translation": "картина",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20614,6 +20723,7 @@
       "base": "oferta",
       "translation": "предложение",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20640,6 +20750,7 @@
       "base": "ogień",
       "translation": "огонь",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20666,6 +20777,7 @@
       "base": "ogród",
       "translation": "сад",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20692,6 +20804,7 @@
       "base": "okno",
       "translation": "окно",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20718,6 +20831,7 @@
       "base": "oko",
       "translation": "глаз",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20744,6 +20858,7 @@
       "base": "opinia",
       "translation": "мнение",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20770,6 +20885,7 @@
       "base": "ołówek",
       "translation": "карандаш",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20796,6 +20912,7 @@
       "base": "pan",
       "translation": "господин",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -20822,6 +20939,7 @@
       "base": "pani",
       "translation": "госпожа",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20848,6 +20966,7 @@
       "base": "papier",
       "translation": "бумага",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20874,6 +20993,7 @@
       "base": "park",
       "translation": "парк",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20900,6 +21020,7 @@
       "base": "patelnia",
       "translation": "сковорода",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20926,6 +21047,7 @@
       "base": "państwo",
       "translation": "государство",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20952,6 +21074,7 @@
       "base": "peron",
       "translation": "перрон",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -20978,6 +21101,7 @@
       "base": "pilot",
       "translation": "пульт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21004,6 +21128,7 @@
       "base": "pismo",
       "translation": "письмо",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21030,6 +21155,7 @@
       "base": "pizzeria",
       "translation": "пиццерия",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21056,6 +21182,7 @@
       "base": "plan",
       "translation": "план",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21082,6 +21209,7 @@
       "base": "plastik",
       "translation": "пластик",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21108,6 +21236,7 @@
       "base": "plemię",
       "translation": "племя",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21134,6 +21263,7 @@
       "base": "plik",
       "translation": "файл",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21160,6 +21290,7 @@
       "base": "pociąg",
       "translation": "поезд",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21186,6 +21317,7 @@
       "base": "pokarm",
       "translation": "пища",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21212,6 +21344,7 @@
       "base": "pokaz",
       "translation": "показ",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21238,6 +21371,7 @@
       "base": "pokój",
       "translation": "комната",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21264,6 +21398,7 @@
       "base": "pole",
       "translation": "поле",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21290,6 +21425,7 @@
       "base": "polityka",
       "translation": "политика",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21316,6 +21452,7 @@
       "base": "pomysł",
       "translation": "идея",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21342,6 +21479,7 @@
       "base": "poranek",
       "translation": "утро",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21368,6 +21506,7 @@
       "base": "port",
       "translation": "порт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21394,6 +21533,7 @@
       "base": "praca",
       "translation": "работа",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21420,6 +21560,7 @@
       "base": "problem",
       "translation": "проблема",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21446,6 +21587,7 @@
       "base": "proces",
       "translation": "процесс",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21472,6 +21614,7 @@
       "base": "produkt",
       "translation": "продукт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21498,6 +21641,7 @@
       "base": "profesor",
       "translation": "профессор",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -21524,6 +21668,7 @@
       "base": "program",
       "translation": "программа",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21550,6 +21695,7 @@
       "base": "projekt",
       "translation": "проект",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21576,6 +21722,7 @@
       "base": "projektor",
       "translation": "проектор",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21602,6 +21749,7 @@
       "base": "przekaźnik",
       "translation": "реле",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21628,6 +21776,7 @@
       "base": "przewód",
       "translation": "провод",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21654,6 +21803,7 @@
       "base": "przycisk",
       "translation": "кнопка",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21680,6 +21830,7 @@
       "base": "pudełko",
       "translation": "коробка",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21706,6 +21857,7 @@
       "base": "płaszcz",
       "translation": "пальто",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21732,6 +21884,7 @@
       "base": "radio",
       "translation": "радио",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21758,6 +21911,7 @@
       "base": "ramię",
       "translation": "плечо",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21784,6 +21938,7 @@
       "base": "restauracja",
       "translation": "ресторан",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21810,6 +21965,7 @@
       "base": "rodzina",
       "translation": "семья",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21836,6 +21992,7 @@
       "base": "rok",
       "translation": "год",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21862,6 +22019,7 @@
       "base": "router",
       "translation": "роутер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21888,6 +22046,7 @@
       "base": "rower",
       "translation": "велосипед",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21914,6 +22073,7 @@
       "base": "ruch",
       "translation": "движение",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21940,6 +22100,7 @@
       "base": "rynek",
       "translation": "рынок",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21966,6 +22127,7 @@
       "base": "ryż",
       "translation": "рис",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -21992,6 +22154,7 @@
       "base": "ręka",
       "translation": "рука",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22018,6 +22181,7 @@
       "base": "samochód",
       "translation": "автомобиль",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22044,6 +22208,7 @@
       "base": "samolot",
       "translation": "самолёт",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22070,6 +22235,7 @@
       "base": "ser",
       "translation": "сыр",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22096,6 +22262,7 @@
       "base": "serce",
       "translation": "сердце",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22122,6 +22289,7 @@
       "base": "serial",
       "translation": "сериал",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22148,6 +22316,7 @@
       "base": "serwer",
       "translation": "сервер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22174,6 +22343,7 @@
       "base": "siostra",
       "translation": "сестра",
       "gender": "f",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22200,6 +22370,7 @@
       "base": "siła",
       "translation": "сила",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22226,6 +22397,7 @@
       "base": "sklep",
       "translation": "магазин",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22252,6 +22424,7 @@
       "base": "skład",
       "translation": "склад",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22278,6 +22451,7 @@
       "base": "sofa",
       "translation": "диван",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22304,6 +22478,7 @@
       "base": "sok",
       "translation": "сок",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22330,6 +22505,7 @@
       "base": "stan",
       "translation": "состояние",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22356,6 +22532,7 @@
       "base": "statek",
       "translation": "корабль",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22382,6 +22559,7 @@
       "base": "stolik",
       "translation": "столик",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22408,6 +22586,7 @@
       "base": "stopień",
       "translation": "степень",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22434,6 +22613,7 @@
       "base": "student",
       "translation": "студент",
       "gender": "m",
+      "alive": true,
       "masc_personal": true,
       "forms": {
         "sg": {
@@ -22460,6 +22640,7 @@
       "base": "studio",
       "translation": "студия",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22486,6 +22667,7 @@
       "base": "stół",
       "translation": "стол",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22512,6 +22694,7 @@
       "base": "sufit",
       "translation": "потолок",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22538,6 +22721,7 @@
       "base": "sweter",
       "translation": "свитер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22564,6 +22748,7 @@
       "base": "sygnał",
       "translation": "сигнал",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22590,6 +22775,7 @@
       "base": "sypialnia",
       "translation": "спальня",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22616,6 +22802,7 @@
       "base": "system",
       "translation": "система",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22642,6 +22829,7 @@
       "base": "szafka",
       "translation": "шкафчик",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22668,6 +22856,7 @@
       "base": "szkoła",
       "translation": "школа",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22694,6 +22883,7 @@
       "base": "szpital",
       "translation": "больница",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22720,6 +22910,7 @@
       "base": "sztuka",
       "translation": "искусство",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22746,6 +22937,7 @@
       "base": "słownik",
       "translation": "словарь",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22772,6 +22964,7 @@
       "base": "słowo",
       "translation": "слово",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22798,6 +22991,7 @@
       "base": "tablet",
       "translation": "планшет",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22824,6 +23018,7 @@
       "base": "tablica",
       "translation": "доска",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22850,6 +23045,7 @@
       "base": "tekst",
       "translation": "текст",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22876,6 +23072,7 @@
       "base": "telefon",
       "translation": "телефон",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22902,6 +23099,7 @@
       "base": "telewizor",
       "translation": "телевизор",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22928,6 +23126,7 @@
       "base": "temat",
       "translation": "тема",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22954,6 +23153,7 @@
       "base": "tramwaj",
       "translation": "трамвай",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -22980,6 +23180,7 @@
       "base": "tydzień",
       "translation": "неделя",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23006,6 +23207,7 @@
       "base": "ucho",
       "translation": "ухо",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23032,6 +23234,7 @@
       "base": "ulica",
       "translation": "улица",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23058,6 +23261,7 @@
       "base": "usługa",
       "translation": "услуга",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23084,6 +23288,7 @@
       "base": "warzywo",
       "translation": "овощ",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23110,6 +23315,7 @@
       "base": "wiatr",
       "translation": "ветер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23136,6 +23342,7 @@
       "base": "wieczór",
       "translation": "вечер",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23162,6 +23369,7 @@
       "base": "woda",
       "translation": "вода",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23188,6 +23396,7 @@
       "base": "wybór",
       "translation": "выбор",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23214,6 +23423,7 @@
       "base": "wynik",
       "translation": "результат",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23266,6 +23476,7 @@
       "base": "zdanie",
       "translation": "предложение",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23318,6 +23529,7 @@
       "base": "zeszyt",
       "translation": "тетрадь",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23396,6 +23608,7 @@
       "base": "zupa",
       "translation": "суп",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23422,6 +23635,7 @@
       "base": "zwierzę",
       "translation": "животное",
       "gender": "n",
+      "alive": true,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23474,6 +23688,7 @@
       "base": "łazienka",
       "translation": "ванная",
       "gender": "f",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23526,6 +23741,7 @@
       "base": "łóżko",
       "translation": "кровать",
       "gender": "n",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
@@ -23578,6 +23794,7 @@
       "base": "świat",
       "translation": "мир",
       "gender": "m",
+      "alive": false,
       "masc_personal": false,
       "forms": {
         "sg": {
