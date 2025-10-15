@@ -158,7 +158,11 @@ function makeQuestion() {
   let adjForm = ''
   if (number === 'sg') {
     const g = noun.gender // 'm' | 'f' | 'n'
-    adjForm = adj.forms.sg[g][kcase]
+    if (g === 'm' && kcase === 'acc' && noun.alive) {
+      adjForm = adj.forms.sg.m.gen
+    } else {
+      adjForm = adj.forms.sg[g][kcase]
+    }
   } else {
     // plural: choose m1 (masculine personal) for humans, else "other"
     const pluralKey = noun.masc_personal ? 'm1' : 'other'
@@ -289,16 +293,16 @@ onMounted(loadData)
             </v-expand-transition>
             <div class="mb-4 d-flex flex-column align-center text-center">
               <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe słowa</div>
-              <div class="text-h4 font-weight-bold mt-1 d-flex flex-row align-center justify-center" style="line-height:1.15; gap:.5rem;">
+              <div class="text-h4 font-weight-bold mt-1 d-flex flex-row flex-wrap align-center justify-center" style="line-height:1.15; gap:.5rem;">
                 <v-tooltip location="bottom" open-on-click>
                   <template #activator="{ props }">
-                    <span v-bind="props" class="cursor-pointer text-primary">{{ question.baseAdj }}</span>
+                    <span v-bind="props" class="cursor-pointer text-primary word-wrap">{{ question.baseAdj }}</span>
                   </template>
                   <span>{{ translationOf(question.baseAdj) }}</span>
                 </v-tooltip>
                 <v-tooltip location="bottom" open-on-click>
                   <template #activator="{ props }">
-                    <span v-bind="props" class="cursor-pointer text-primary">{{ question.baseNoun }}</span>
+                    <span v-bind="props" class="cursor-pointer text-primary word-wrap">{{ question.baseNoun }}</span>
                   </template>
                   <span>{{ translationOf(question.baseNoun) }}</span>
                 </v-tooltip>
@@ -357,6 +361,11 @@ onMounted(loadData)
 .fade-enter-active, .fade-leave-active { transition: opacity .25s; }
 .fade-enter-from, .fade-leave-to { opacity: 0; }
 .cursor-pointer { cursor: pointer; }
+.word-wrap {
+  overflow-wrap: break-word;
+  word-break: break-word; /* For wider browser support */
+  hyphens: auto;
+}
 </style>
 
 <!-- Removed custom global utility styles in favor of Vuetify utility classes -->
