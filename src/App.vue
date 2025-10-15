@@ -1,5 +1,5 @@
 <script setup>
-import { ref, reactive, onMounted, computed, nextTick } from 'vue'
+import { ref, reactive, onMounted, computed, nextTick, watch } from 'vue'
 
 const loading = ref(true)
 const error = ref(null)
@@ -93,6 +93,19 @@ const CASE_FULL = {
 const activeNumbers = ref(['sg', 'pl'])
 const activeCases = ref([]) // empty -> all from data.cases
 const showFilters = ref(false)
+
+// Watch for changes in filters and save to localStorage
+watch(
+  [activeNumbers, activeCases],
+  ([newNumbers, newCases]) => {
+    const filtersToSave = {
+      numbers: newNumbers,
+      cases: newCases
+    }
+    localStorage.setItem('polskiStudyFilters', JSON.stringify(filtersToSave))
+  },
+  { deep: true }
+)
 
 function translationOf(word) {
   if (!word) return ''
@@ -244,7 +257,23 @@ function nextQuestion(fromAnswer) {
   makeQuestion()
 }
 
-onMounted(loadData)
+onMounted(() => {
+  const savedFilters = localStorage.getItem('polskiStudyFilters')
+  if (savedFilters) {
+    try {
+      const parsed = JSON.parse(savedFilters)
+      if (Array.isArray(parsed.numbers)) {
+        activeNumbers.value = parsed.numbers
+      }
+      if (Array.isArray(parsed.cases)) {
+        activeCases.value = parsed.cases
+      }
+    } catch (e) {
+      console.error('Could not parse saved filters', e)
+    }
+  }
+  loadData()
+})
 </script>
 
 <template>
