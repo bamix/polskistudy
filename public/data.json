@@ -17773,6 +17773,721 @@
           }
         }
       }
+    },
+    {
+      "base": "wielki",
+      "translation": "большой, великий",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "wielki",
+            "gen": "wielkiego",
+            "dat": "wielkiemu",
+            "acc": "wielki",
+            "inst": "wielkim",
+            "loc": "wielkim",
+            "voc": "wielki"
+          },
+          "f": {
+            "nom": "wielka",
+            "gen": "wielkiej",
+            "dat": "wielkiej",
+            "acc": "wielką",
+            "inst": "wielką",
+            "loc": "wielkiej",
+            "voc": "wielka"
+          },
+          "n": {
+            "nom": "wielkie",
+            "gen": "wielkiego",
+            "dat": "wielkiemu",
+            "acc": "wielkie",
+            "inst": "wielkim",
+            "loc": "wielkim",
+            "voc": "wielkie"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "wielcy",
+            "gen": "wielkich",
+            "dat": "wielkim",
+            "acc": "wielkich",
+            "inst": "wielkimi",
+            "loc": "wielkich",
+            "voc": "wielcy"
+          },
+          "other": {
+            "nom": "wielkie",
+            "gen": "wielkich",
+            "dat": "wielkim",
+            "acc": "wielkie",
+            "inst": "wielkimi",
+            "loc": "wielkich",
+            "voc": "wielkie"
+          }
+        }
+      }
+    },
+    {
+      "base": "cały",
+      "translation": "весь, целый",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "cały",
+            "gen": "całego",
+            "dat": "całemu",
+            "acc": "cały",
+            "inst": "całym",
+            "loc": "całym",
+            "voc": "cały"
+          },
+          "f": {
+            "nom": "cała",
+            "gen": "całej",
+            "dat": "całej",
+            "acc": "całą",
+            "inst": "całą",
+            "loc": "całej",
+            "voc": "cała"
+          },
+          "n": {
+            "nom": "całe",
+            "gen": "całego",
+            "dat": "całemu",
+            "acc": "całe",
+            "inst": "całym",
+            "loc": "całym",
+            "voc": "całe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "cali",
+            "gen": "całych",
+            "dat": "całym",
+            "acc": "całych",
+            "inst": "całymi",
+            "loc": "całych",
+            "voc": "cali"
+          },
+          "other": {
+            "nom": "całe",
+            "gen": "całych",
+            "dat": "całym",
+            "acc": "całe",
+            "inst": "całymi",
+            "loc": "całych",
+            "voc": "całe"
+          }
+        }
+      }
+    },
+    {
+      "base": "własny",
+      "translation": "собственный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "własny",
+            "gen": "własnego",
+            "dat": "własnemu",
+            "acc": "własny",
+            "inst": "własnym",
+            "loc": "własnym",
+            "voc": "własny"
+          },
+          "f": {
+            "nom": "własna",
+            "gen": "własnej",
+            "dat": "własnej",
+            "acc": "własną",
+            "inst": "własną",
+            "loc": "własnej",
+            "voc": "własna"
+          },
+          "n": {
+            "nom": "własne",
+            "gen": "własnego",
+            "dat": "własnemu",
+            "acc": "własne",
+            "inst": "własnym",
+            "loc": "własnym",
+            "voc": "własne"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "własni",
+            "gen": "własnych",
+            "dat": "własnym",
+            "acc": "własnych",
+            "inst": "własnymi",
+            "loc": "własnych",
+            "voc": "własni"
+          },
+          "other": {
+            "nom": "własne",
+            "gen": "własnych",
+            "dat": "własnym",
+            "acc": "własne",
+            "inst": "własnymi",
+            "loc": "własnych",
+            "voc": "własne"
+          }
+        }
+      }
+    },
+    {
+      "base": "inny",
+      "translation": "другой, иной",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "inny",
+            "gen": "innego",
+            "dat": "innemu",
+            "acc": "inny",
+            "inst": "innym",
+            "loc": "innym",
+            "voc": "inny"
+          },
+          "f": {
+            "nom": "inna",
+            "gen": "innej",
+            "dat": "innej",
+            "acc": "inną",
+            "inst": "inną",
+            "loc": "innej",
+            "voc": "inna"
+          },
+          "n": {
+            "nom": "inne",
+            "gen": "innego",
+            "dat": "innemu",
+            "acc": "inne",
+            "inst": "innym",
+            "loc": "innym",
+            "voc": "inne"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "inni",
+            "gen": "innych",
+            "dat": "innym",
+            "acc": "innych",
+            "inst": "innymi",
+            "loc": "innych",
+            "voc": "inni"
+          },
+          "other": {
+            "nom": "inne",
+            "gen": "innych",
+            "dat": "innym",
+            "acc": "inne",
+            "inst": "innymi",
+            "loc": "innych",
+            "voc": "inne"
+          }
+        }
+      }
+    },
+    {
+      "base": "święty",
+      "translation": "святой",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "święty",
+            "gen": "świętego",
+            "dat": "świętemu",
+            "acc": "święty",
+            "inst": "świętym",
+            "loc": "świętym",
+            "voc": "święty"
+          },
+          "f": {
+            "nom": "święta",
+            "gen": "świętej",
+            "dat": "świętej",
+            "acc": "świętą",
+            "inst": "świętą",
+            "loc": "świętej",
+            "voc": "święta"
+          },
+          "n": {
+            "nom": "święte",
+            "gen": "świętego",
+            "dat": "świętemu",
+            "acc": "święte",
+            "inst": "świętym",
+            "loc": "świętym",
+            "voc": "święte"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "święci",
+            "gen": "świętych",
+            "dat": "świętym",
+            "acc": "świętych",
+            "inst": "świętymi",
+            "loc": "świętych",
+            "voc": "święci"
+          },
+          "other": {
+            "nom": "święte",
+            "gen": "świętych",
+            "dat": "świętym",
+            "acc": "święte",
+            "inst": "świętymi",
+            "loc": "świętych",
+            "voc": "święte"
+          }
+        }
+      }
+    },
+    {
+      "base": "nieszczęśliwy",
+      "translation": "несчастный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "nieszczęśliwy",
+            "gen": "nieszczęśliwego",
+            "dat": "nieszczęśliwemu",
+            "acc": "nieszczęśliwy",
+            "inst": "nieszczęśliwym",
+            "loc": "nieszczęśliwym",
+            "voc": "nieszczęśliwy"
+          },
+          "f": {
+            "nom": "nieszczęśliwa",
+            "gen": "nieszczęśliwej",
+            "dat": "nieszczęśliwej",
+            "acc": "nieszczęśliwą",
+            "inst": "nieszczęśliwą",
+            "loc": "nieszczęśliwej",
+            "voc": "nieszczęśliwa"
+          },
+          "n": {
+            "nom": "nieszczęśliwe",
+            "gen": "nieszczęśliwego",
+            "dat": "nieszczęśliwemu",
+            "acc": "nieszczęśliwe",
+            "inst": "nieszczęśliwym",
+            "loc": "nieszczęśliwym",
+            "voc": "nieszczęśliwe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "nieszczęśliwi",
+            "gen": "nieszczęśliwych",
+            "dat": "nieszczęśliwym",
+            "acc": "nieszczęśliwych",
+            "inst": "nieszczęśliwymi",
+            "loc": "nieszczęśliwych",
+            "voc": "nieszczęśliwi"
+          },
+          "other": {
+            "nom": "nieszczęśliwe",
+            "gen": "nieszczęśliwych",
+            "dat": "nieszczęśliwym",
+            "acc": "nieszczęśliwe",
+            "inst": "nieszczęśliwymi",
+            "loc": "nieszczęśliwych",
+            "voc": "nieszczęśliwe"
+          }
+        }
+      }
+    },
+    {
+      "base": "nerwowy",
+      "translation": "нервный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "nerwowy",
+            "gen": "nerwowego",
+            "dat": "nerwowemu",
+            "acc": "nerwowy",
+            "inst": "nerwowym",
+            "loc": "nerwowym",
+            "voc": "nerwowy"
+          },
+          "f": {
+            "nom": "nerwowa",
+            "gen": "nerwowej",
+            "dat": "nerwowej",
+            "acc": "nerwową",
+            "inst": "nerwową",
+            "loc": "nerwowej",
+            "voc": "nerwowa"
+          },
+          "n": {
+            "nom": "nerwowe",
+            "gen": "nerwowego",
+            "dat": "nerwowemu",
+            "acc": "nerwowe",
+            "inst": "nerwowym",
+            "loc": "nerwowym",
+            "voc": "nerwowe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "nerwowi",
+            "gen": "nerwowych",
+            "dat": "nerwowym",
+            "acc": "nerwowych",
+            "inst": "nerwowymi",
+            "loc": "nerwowych",
+            "voc": "nerwowi"
+          },
+          "other": {
+            "nom": "nerwowe",
+            "gen": "nerwowych",
+            "dat": "nerwowym",
+            "acc": "nerwowe",
+            "inst": "nerwowymi",
+            "loc": "nerwowych",
+            "voc": "nerwowe"
+          }
+        }
+      }
+    },
+    {
+      "base": "niemiły",
+      "translation": "неприятный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "niemiły",
+            "gen": "niemiłego",
+            "dat": "niemiłemu",
+            "acc": "niemiły",
+            "inst": "niemiłym",
+            "loc": "niemiłym",
+            "voc": "niemiły"
+          },
+          "f": {
+            "nom": "niemiła",
+            "gen": "niemiłej",
+            "dat": "niemiłej",
+            "acc": "niemiłą",
+            "inst": "niemiłą",
+            "loc": "niemiłej",
+            "voc": "niemiła"
+          },
+          "n": {
+            "nom": "niemiłe",
+            "gen": "niemiłego",
+            "dat": "niemiłemu",
+            "acc": "niemiłe",
+            "inst": "niemiłym",
+            "loc": "niemiłym",
+            "voc": "niemiłe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "niemili",
+            "gen": "niemiłych",
+            "dat": "niemiłym",
+            "acc": "niemiłych",
+            "inst": "niemiłymi",
+            "loc": "niemiłych",
+            "voc": "niemili"
+          },
+          "other": {
+            "nom": "niemiłe",
+            "gen": "niemiłych",
+            "dat": "niemiłym",
+            "acc": "niemiłe",
+            "inst": "niemiłymi",
+            "loc": "niemiłych",
+            "voc": "niemiłe"
+          }
+        }
+      }
+    },
+    {
+      "base": "znany",
+      "translation": "известный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "znany",
+            "gen": "znanego",
+            "dat": "znanemu",
+            "acc": "znany",
+            "inst": "znanym",
+            "loc": "znanym",
+            "voc": "znany"
+          },
+          "f": {
+            "nom": "znana",
+            "gen": "znanej",
+            "dat": "znanej",
+            "acc": "znaną",
+            "inst": "znaną",
+            "loc": "znanej",
+            "voc": "znana"
+          },
+          "n": {
+            "nom": "znane",
+            "gen": "znanego",
+            "dat": "znanemu",
+            "acc": "znane",
+            "inst": "znanym",
+            "loc": "znanym",
+            "voc": "znane"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "znani",
+            "gen": "znanych",
+            "dat": "znanym",
+            "acc": "znanych",
+            "inst": "znanymi",
+            "loc": "znanych",
+            "voc": "znani"
+          },
+          "other": {
+            "nom": "znane",
+            "gen": "znanych",
+            "dat": "znanym",
+            "acc": "znane",
+            "inst": "znanymi",
+            "loc": "znanych",
+            "voc": "znane"
+          }
+        }
+      }
+    },
+    {
+      "base": "nieznany",
+      "translation": "неизвестный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "nieznany",
+            "gen": "nieznanego",
+            "dat": "nieznanemu",
+            "acc": "nieznany",
+            "inst": "nieznanym",
+            "loc": "nieznanym",
+            "voc": "nieznany"
+          },
+          "f": {
+            "nom": "nieznana",
+            "gen": "nieznanej",
+            "dat": "nieznanej",
+            "acc": "nieznaną",
+            "inst": "nieznaną",
+            "loc": "nieznanej",
+            "voc": "nieznana"
+          },
+          "n": {
+            "nom": "nieznane",
+            "gen": "nieznanego",
+            "dat": "nieznanemu",
+            "acc": "nieznane",
+            "inst": "nieznanym",
+            "loc": "nieznanym",
+            "voc": "nieznane"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "nieznani",
+            "gen": "nieznanych",
+            "dat": "nieznanym",
+            "acc": "nieznanych",
+            "inst": "nieznanymi",
+            "loc": "nieznanych",
+            "voc": "nieznani"
+          },
+          "other": {
+            "nom": "nieznane",
+            "gen": "nieznanych",
+            "dat": "nieznanym",
+            "acc": "nieznane",
+            "inst": "nieznanymi",
+            "loc": "nieznanych",
+            "voc": "nieznane"
+          }
+        }
+      }
+    },
+    {
+      "base": "dodatkowy",
+      "translation": "дополнительный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "dodatkowy",
+            "gen": "dodatkowego",
+            "dat": "dodatkowemu",
+            "acc": "dodatkowy",
+            "inst": "dodatkowym",
+            "loc": "dodatkowym",
+            "voc": "dodatkowy"
+          },
+          "f": {
+            "nom": "dodatkowa",
+            "gen": "dodatkowej",
+            "dat": "dodatkowej",
+            "acc": "dodatkową",
+            "inst": "dodatkową",
+            "loc": "dodatkowej",
+            "voc": "dodatkowa"
+          },
+          "n": {
+            "nom": "dodatkowe",
+            "gen": "dodatkowego",
+            "dat": "dodatkowemu",
+            "acc": "dodatkowe",
+            "inst": "dodatkowym",
+            "loc": "dodatkowym",
+            "voc": "dodatkowe"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "dodatkowi",
+            "gen": "dodatkowych",
+            "dat": "dodatkowym",
+            "acc": "dodatkowych",
+            "inst": "dodatkowymi",
+            "loc": "dodatkowych",
+            "voc": "dodatkowi"
+          },
+          "other": {
+            "nom": "dodatkowe",
+            "gen": "dodatkowych",
+            "dat": "dodatkowym",
+            "acc": "dodatkowe",
+            "inst": "dodatkowymi",
+            "loc": "dodatkowych",
+            "voc": "dodatkowe"
+          }
+        }
+      }
+    },
+    {
+      "base": "indywidualny",
+      "translation": "индивидуальный",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "indywidualny",
+            "gen": "indywidualnego",
+            "dat": "indywidualnemu",
+            "acc": "indywidualny",
+            "inst": "indywidualnym",
+            "loc": "indywidualnym",
+            "voc": "indywidualny"
+          },
+          "f": {
+            "nom": "indywidualna",
+            "gen": "indywidualnej",
+            "dat": "indywidualnej",
+            "acc": "indywidualną",
+            "inst": "indywidualną",
+            "loc": "indywidualnej",
+            "voc": "indywidualna"
+          },
+          "n": {
+            "nom": "indywidualne",
+            "gen": "indywidualnego",
+            "dat": "indywidualnemu",
+            "acc": "indywidualne",
+            "inst": "indywidualnym",
+            "loc": "indywidualnym",
+            "voc": "indywidualne"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "indywidualni",
+            "gen": "indywidualnych",
+            "dat": "indywidualnym",
+            "acc": "indywidualnych",
+            "inst": "indywidualnymi",
+            "loc": "indywidualnych",
+            "voc": "indywidualni"
+          },
+          "other": {
+            "nom": "indywidualne",
+            "gen": "indywidualnych",
+            "dat": "indywidualnym",
+            "acc": "indywidualne",
+            "inst": "indywidualnymi",
+            "loc": "indywidualnych",
+            "voc": "indywidualne"
+          }
+        }
+      }
+    },
+    {
+      "base": "zajęty",
+      "translation": "занятый",
+      "forms": {
+        "sg": {
+          "m": {
+            "nom": "zajęty",
+            "gen": "zajętego",
+            "dat": "zajętemu",
+            "acc": "zajęty",
+            "inst": "zajętym",
+            "loc": "zajętym",
+            "voc": "zajęty"
+          },
+          "f": {
+            "nom": "zajęta",
+            "gen": "zajętej",
+            "dat": "zajętej",
+            "acc": "zajętą",
+            "inst": "zajętą",
+            "loc": "zajętej",
+            "voc": "zajęta"
+          },
+          "n": {
+            "nom": "zajęte",
+            "gen": "zajętego",
+            "dat": "zajętemu",
+            "acc": "zajęte",
+            "inst": "zajętym",
+            "loc": "zajętym",
+            "voc": "zajęte"
+          }
+        },
+        "pl": {
+          "m1": {
+            "nom": "zajęci",
+            "gen": "zajętych",
+            "dat": "zajętym",
+            "acc": "zajętych",
+            "inst": "zajętymi",
+            "loc": "zajętych",
+            "voc": "zajęci"
+          },
+          "other": {
+            "nom": "zajęte",
+            "gen": "zajętych",
+            "dat": "zajętym",
+            "acc": "zajęte",
+            "inst": "zajętymi",
+            "loc": "zajętych",
+            "voc": "zajęte"
+          }
+        }
+      }
     }
   ],
   "nouns": [
@@ -23840,6 +24555,1194 @@
           "inst": "żonami",
           "loc": "żonach",
           "voc": "żony"
+        }
+      }
+    },
+    {
+      "base": "sąsiad",
+      "translation": "сосед",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "sąsiad",
+          "gen": "sąsiada",
+          "dat": "sąsiadowi",
+          "acc": "sąsiada",
+          "inst": "sąsiadem",
+          "loc": "sąsiedzie",
+          "voc": "sąsiedzie"
+        },
+        "pl": {
+          "nom": "sąsiedzi",
+          "gen": "sąsiadów",
+          "dat": "sąsiadom",
+          "acc": "sąsiadów",
+          "inst": "sąsiadami",
+          "loc": "sąsiadach",
+          "voc": "sąsiedzi"
+        }
+      }
+    },
+    {
+      "base": "bóg",
+      "translation": "бог",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "bóg",
+          "gen": "boga",
+          "dat": "bogu",
+          "acc": "boga",
+          "inst": "bogiem",
+          "loc": "bogu",
+          "voc": "boże"
+        },
+        "pl": {
+          "nom": "bogowie",
+          "gen": "bogów",
+          "dat": "bogom",
+          "acc": "bogów",
+          "inst": "bogami",
+          "loc": "bogach",
+          "voc": "bogowie"
+        }
+      }
+    },
+    {
+      "base": "przyjaciel",
+      "translation": "друг",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "przyjaciel",
+          "gen": "przyjaciela",
+          "dat": "przyjacielowi",
+          "acc": "przyjaciela",
+          "inst": "przyjacielem",
+          "loc": "przyjacielu",
+          "voc": "przyjacielu"
+        },
+        "pl": {
+          "nom": "przyjaciele",
+          "gen": "przyjaciół",
+          "dat": "przyjaciołom",
+          "acc": "przyjaciół",
+          "inst": "przyjaciółmi",
+          "loc": "przyjaciołach",
+          "voc": "przyjaciele"
+        }
+      }
+    },
+    {
+      "base": "ojciec",
+      "translation": "отец",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "ojciec",
+          "gen": "ojca",
+          "dat": "ojcu",
+          "acc": "ojca",
+          "inst": "ojcem",
+          "loc": "ojcu",
+          "voc": "ojcze"
+        },
+        "pl": {
+          "nom": "ojcowie",
+          "gen": "ojców",
+          "dat": "ojcom",
+          "acc": "ojców",
+          "inst": "ojcami",
+          "loc": "ojcach",
+          "voc": "ojcowie"
+        }
+      }
+    },
+    {
+      "base": "wujek",
+      "translation": "дядя",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "wujek",
+          "gen": "wujka",
+          "dat": "wujkowi",
+          "acc": "wujka",
+          "inst": "wujkiem",
+          "loc": "wujku",
+          "voc": "wujku"
+        },
+        "pl": {
+          "nom": "wujkowie",
+          "gen": "wujków",
+          "dat": "wujkom",
+          "acc": "wujków",
+          "inst": "wujkami",
+          "loc": "wujkach",
+          "voc": "wujkowie"
+        }
+      }
+    },
+    {
+      "base": "syn",
+      "translation": "сын",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "syn",
+          "gen": "syna",
+          "dat": "synowi",
+          "acc": "syna",
+          "inst": "synem",
+          "loc": "synu",
+          "voc": "synu"
+        },
+        "pl": {
+          "nom": "synowie",
+          "gen": "synów",
+          "dat": "synom",
+          "acc": "synów",
+          "inst": "synami",
+          "loc": "synach",
+          "voc": "synowie"
+        }
+      }
+    },
+    {
+      "base": "chłopak",
+      "translation": "парень",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "chłopak",
+          "gen": "chłopaka",
+          "dat": "chłopakowi",
+          "acc": "chłopaka",
+          "inst": "chłopakiem",
+          "loc": "chłopaku",
+          "voc": "chłopaku"
+        },
+        "pl": {
+          "nom": "chłopacy",
+          "gen": "chłopaków",
+          "dat": "chłopakom",
+          "acc": "chłopaków",
+          "inst": "chłopakami",
+          "loc": "chłopakach",
+          "voc": "chłopacy"
+        }
+      }
+    },
+    {
+      "base": "człowiek",
+      "translation": "человек",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "człowiek",
+          "gen": "człowieka",
+          "dat": "człowiekowi",
+          "acc": "człowieka",
+          "inst": "człowiekiem",
+          "loc": "człowieku",
+          "voc": "człowieku"
+        },
+        "pl": {
+          "nom": "ludzie",
+          "gen": "ludzi",
+          "dat": "ludziom",
+          "acc": "ludzi",
+          "inst": "ludźmi",
+          "loc": "ludziach",
+          "voc": "ludzie"
+        }
+      }
+    },
+    {
+      "base": "rzecz",
+      "translation": "вещь",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "rzecz",
+          "gen": "rzeczy",
+          "dat": "rzeczy",
+          "acc": "rzecz",
+          "inst": "rzeczą",
+          "loc": "rzeczy",
+          "voc": "rzeczy"
+        },
+        "pl": {
+          "nom": "rzeczy",
+          "gen": "rzeczy",
+          "dat": "rzeczom",
+          "acc": "rzeczy",
+          "inst": "rzeczami",
+          "loc": "rzeczach",
+          "voc": "rzeczy"
+        }
+      }
+    },
+    {
+      "base": "życie",
+      "translation": "жизнь",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "życie",
+          "gen": "życia",
+          "dat": "życiu",
+          "acc": "życie",
+          "inst": "życiem",
+          "loc": "życiu",
+          "voc": "życie"
+        },
+        "pl": {
+          "nom": "życia",
+          "gen": "żyć",
+          "dat": "życiom",
+          "acc": "życia",
+          "inst": "życiami",
+          "loc": "życiach",
+          "voc": "życia"
+        }
+      }
+    },
+    {
+      "base": "sposób",
+      "translation": "способ",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "sposób",
+          "gen": "sposobu",
+          "dat": "sposobowi",
+          "acc": "sposób",
+          "inst": "sposobem",
+          "loc": "sposobie",
+          "voc": "sposobie"
+        },
+        "pl": {
+          "nom": "sposoby",
+          "gen": "sposobów",
+          "dat": "sposobom",
+          "acc": "sposoby",
+          "inst": "sposobami",
+          "loc": "sposobach",
+          "voc": "sposoby"
+        }
+      }
+    },
+    {
+      "base": "część",
+      "translation": "часть",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "część",
+          "gen": "części",
+          "dat": "części",
+          "acc": "część",
+          "inst": "częścią",
+          "loc": "części",
+          "voc": "części"
+        },
+        "pl": {
+          "nom": "części",
+          "gen": "części",
+          "dat": "częściom",
+          "acc": "części",
+          "inst": "częściami",
+          "loc": "częściach",
+          "voc": "części"
+        }
+      }
+    },
+    {
+      "base": "forma",
+      "translation": "форма",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "forma",
+          "gen": "formy",
+          "dat": "formie",
+          "acc": "formę",
+          "inst": "formą",
+          "loc": "formie",
+          "voc": "formo"
+        },
+        "pl": {
+          "nom": "formy",
+          "gen": "form",
+          "dat": "formom",
+          "acc": "formy",
+          "inst": "formami",
+          "loc": "formach",
+          "voc": "formy"
+        }
+      }
+    },
+    {
+      "base": "punkt",
+      "translation": "точка",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "punkt",
+          "gen": "punktu",
+          "dat": "punktowi",
+          "acc": "punkt",
+          "inst": "punktem",
+          "loc": "punkcie",
+          "voc": "punkcie"
+        },
+        "pl": {
+          "nom": "punkty",
+          "gen": "punktów",
+          "dat": "punktom",
+          "acc": "punkty",
+          "inst": "punktami",
+          "loc": "punktach",
+          "voc": "punkty"
+        }
+      }
+    },
+    {
+      "base": "prawo",
+      "translation": "право",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "prawo",
+          "gen": "prawa",
+          "dat": "prawu",
+          "acc": "prawo",
+          "inst": "prawem",
+          "loc": "prawie",
+          "voc": "prawo"
+        },
+        "pl": {
+          "nom": "prawa",
+          "gen": "praw",
+          "dat": "prawom",
+          "acc": "prawa",
+          "inst": "prawami",
+          "loc": "prawach",
+          "voc": "prawa"
+        }
+      }
+    },
+    {
+      "base": "pieniądz",
+      "translation": "деньги",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "pieniądz",
+          "gen": "pieniądza",
+          "dat": "pieniądzowi",
+          "acc": "pieniądz",
+          "inst": "pieniądzem",
+          "loc": "pieniądzu",
+          "voc": "pieniądzu"
+        },
+        "pl": {
+          "nom": "pieniądze",
+          "gen": "pieniędzy",
+          "dat": "pieniądzom",
+          "acc": "pieniądze",
+          "inst": "pieniędzmi",
+          "loc": "pieniądzach",
+          "voc": "pieniądze"
+        }
+      }
+    },
+    {
+      "base": "miłość",
+      "translation": "любовь",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "miłość",
+          "gen": "miłości",
+          "dat": "miłości",
+          "acc": "miłość",
+          "inst": "miłością",
+          "loc": "miłości",
+          "voc": "miłości"
+        },
+        "pl": {
+          "nom": "miłości",
+          "gen": "miłości",
+          "dat": "miłościom",
+          "acc": "miłości",
+          "inst": "miłościami",
+          "loc": "miłościach",
+          "voc": "miłości"
+        }
+      }
+    },
+    {
+      "base": "noc",
+      "translation": "ночь",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "noc",
+          "gen": "nocy",
+          "dat": "nocy",
+          "acc": "noc",
+          "inst": "nocą",
+          "loc": "nocy",
+          "voc": "nocy"
+        },
+        "pl": {
+          "nom": "noce",
+          "gen": "nocy",
+          "dat": "nocom",
+          "acc": "noce",
+          "inst": "nocami",
+          "loc": "nocach",
+          "voc": "noce"
+        }
+      }
+    },
+    {
+      "base": "rząd",
+      "translation": "правительство",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "rząd",
+          "gen": "rządu",
+          "dat": "rządowi",
+          "acc": "rząd",
+          "inst": "rządem",
+          "loc": "rządzie",
+          "voc": "rządzie"
+        },
+        "pl": {
+          "nom": "rządy",
+          "gen": "rządów",
+          "dat": "rządom",
+          "acc": "rządy",
+          "inst": "rządami",
+          "loc": "rządach",
+          "voc": "rządy"
+        }
+      }
+    },
+    {
+      "base": "poziom",
+      "translation": "уровень",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "poziom",
+          "gen": "poziomu",
+          "dat": "poziomowi",
+          "acc": "poziom",
+          "inst": "poziomem",
+          "loc": "poziomie",
+          "voc": "poziomie"
+        },
+        "pl": {
+          "nom": "poziomy",
+          "gen": "poziomów",
+          "dat": "poziomom",
+          "acc": "poziomy",
+          "inst": "poziomami",
+          "loc": "poziomach",
+          "voc": "poziomy"
+        }
+      }
+    },
+    {
+      "base": "grupa",
+      "translation": "группа",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "grupa",
+          "gen": "grupy",
+          "dat": "grupie",
+          "acc": "grupę",
+          "inst": "grupą",
+          "loc": "grupie",
+          "voc": "grupo"
+        },
+        "pl": {
+          "nom": "grupy",
+          "gen": "grup",
+          "dat": "grupom",
+          "acc": "grupy",
+          "inst": "grupami",
+          "loc": "grupach",
+          "voc": "grupy"
+        }
+      }
+    },
+    {
+      "base": "idea",
+      "translation": "идея",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "idea",
+          "gen": "idei",
+          "dat": "idei",
+          "acc": "ideę",
+          "inst": "ideą",
+          "loc": "idei",
+          "voc": "ideo"
+        },
+        "pl": {
+          "nom": "idee",
+          "gen": "idei",
+          "dat": "ideom",
+          "acc": "idee",
+          "inst": "ideami",
+          "loc": "ideach",
+          "voc": "idee"
+        }
+      }
+    },
+    {
+      "base": "gospodarka",
+      "translation": "экономика",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "gospodarka",
+          "gen": "gospodarki",
+          "dat": "gospodarce",
+          "acc": "gospodarkę",
+          "inst": "gospodarką",
+          "loc": "gospodarce",
+          "voc": "gospodarko"
+        },
+        "pl": {
+          "nom": "gospodarki",
+          "gen": "gospodarek",
+          "dat": "gospodarkom",
+          "acc": "gospodarki",
+          "inst": "gospodarkami",
+          "loc": "gospodarkach",
+          "voc": "gospodarki"
+        }
+      }
+    },
+    {
+      "base": "społeczeństwo",
+      "translation": "общество",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "społeczeństwo",
+          "gen": "społeczeństwa",
+          "dat": "społeczeństwu",
+          "acc": "społeczeństwo",
+          "inst": "społeczeństwem",
+          "loc": "społeczeństwie",
+          "voc": "społeczeństwo"
+        },
+        "pl": {
+          "nom": "społeczeństwa",
+          "gen": "społeczeństw",
+          "dat": "społeczeństwom",
+          "acc": "społeczeństwa",
+          "inst": "społeczeństwami",
+          "loc": "społeczeństwach",
+          "voc": "społeczeństwa"
+        }
+      }
+    },
+    {
+      "base": "urząd",
+      "translation": "учреждение",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "urząd",
+          "gen": "urzędu",
+          "dat": "urzędowi",
+          "acc": "urząd",
+          "inst": "urzędem",
+          "loc": "urzędzie",
+          "voc": "urzędzie"
+        },
+        "pl": {
+          "nom": "urzędy",
+          "gen": "urzędów",
+          "dat": "urzędom",
+          "acc": "urzędy",
+          "inst": "urzędami",
+          "loc": "urzędach",
+          "voc": "urzędy"
+        }
+      }
+    },
+    {
+      "base": "cel",
+      "translation": "цель",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "cel",
+          "gen": "celu",
+          "dat": "celowi",
+          "acc": "cel",
+          "inst": "celem",
+          "loc": "celu",
+          "voc": "celu"
+        },
+        "pl": {
+          "nom": "cele",
+          "gen": "celów",
+          "dat": "celom",
+          "acc": "cele",
+          "inst": "celami",
+          "loc": "celach",
+          "voc": "cele"
+        }
+      }
+    },
+    {
+      "base": "informacja",
+      "translation": "информация",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "informacja",
+          "gen": "informacji",
+          "dat": "informacji",
+          "acc": "informację",
+          "inst": "informacją",
+          "loc": "informacji",
+          "voc": "informacjo"
+        },
+        "pl": {
+          "nom": "informacje",
+          "gen": "informacji",
+          "dat": "informacjom",
+          "acc": "informacje",
+          "inst": "informacjami",
+          "loc": "informacjach",
+          "voc": "informacje"
+        }
+      }
+    },
+    {
+      "base": "pytanie",
+      "translation": "вопрос",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "pytanie",
+          "gen": "pytania",
+          "dat": "pytaniu",
+          "acc": "pytanie",
+          "inst": "pytaniem",
+          "loc": "pytaniu",
+          "voc": "pytanie"
+        },
+        "pl": {
+          "nom": "pytania",
+          "gen": "pytań",
+          "dat": "pytaniom",
+          "acc": "pytania",
+          "inst": "pytaniami",
+          "loc": "pytaniach",
+          "voc": "pytania"
+        }
+      }
+    },
+    {
+      "base": "odpowiedź",
+      "translation": "ответ",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "odpowiedź",
+          "gen": "odpowiedzi",
+          "dat": "odpowiedzi",
+          "acc": "odpowiedź",
+          "inst": "odpowiedzią",
+          "loc": "odpowiedzi",
+          "voc": "odpowiedzi"
+        },
+        "pl": {
+          "nom": "odpowiedzi",
+          "gen": "odpowiedzi",
+          "dat": "odpowiedziom",
+          "acc": "odpowiedzi",
+          "inst": "odpowiedziami",
+          "loc": "odpowiedziach",
+          "voc": "odpowiedzi"
+        }
+      }
+    },
+    {
+      "base": "gra",
+      "translation": "игра",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "gra",
+          "gen": "gry",
+          "dat": "grze",
+          "acc": "grę",
+          "inst": "grą",
+          "loc": "grze",
+          "voc": "gro"
+        },
+        "pl": {
+          "nom": "gry",
+          "gen": "gier",
+          "dat": "grom",
+          "acc": "gry",
+          "inst": "grami",
+          "loc": "grach",
+          "voc": "gry"
+        }
+      }
+    },
+    {
+      "base": "piłka",
+      "translation": "мяч",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "piłka",
+          "gen": "piłki",
+          "dat": "piłce",
+          "acc": "piłkę",
+          "inst": "piłką",
+          "loc": "piłce",
+          "voc": "piłko"
+        },
+        "pl": {
+          "nom": "piłki",
+          "gen": "piłek",
+          "dat": "piłkom",
+          "acc": "piłki",
+          "inst": "piłkami",
+          "loc": "piłkach",
+          "voc": "piłki"
+        }
+      }
+    },
+    {
+      "base": "sport",
+      "translation": "спорт",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "sport",
+          "gen": "sportu",
+          "dat": "sportowi",
+          "acc": "sport",
+          "inst": "sportem",
+          "loc": "sporcie",
+          "voc": "sporcie"
+        },
+        "pl": {
+          "nom": "sporty",
+          "gen": "sportów",
+          "dat": "sportom",
+          "acc": "sporty",
+          "inst": "sportami",
+          "loc": "sportach",
+          "voc": "sporty"
+        }
+      }
+    },
+    {
+      "base": "jedzenie",
+      "translation": "еда",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "jedzenie",
+          "gen": "jedzenia",
+          "dat": "jedzeniu",
+          "acc": "jedzenie",
+          "inst": "jedzeniem",
+          "loc": "jedzeniu",
+          "voc": "jedzenie"
+        },
+        "pl": {
+          "nom": "jedzenia",
+          "gen": "jedzeń",
+          "dat": "jedzeniom",
+          "acc": "jedzenia",
+          "inst": "jedzeniami",
+          "loc": "jedzeniach",
+          "voc": "jedzenia"
+        }
+      }
+    },
+    {
+      "base": "klient",
+      "translation": "клиент",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "klient",
+          "gen": "klienta",
+          "dat": "klientowi",
+          "acc": "klienta",
+          "inst": "klientem",
+          "loc": "kliencie",
+          "voc": "kliencie"
+        },
+        "pl": {
+          "nom": "klienci",
+          "gen": "klientów",
+          "dat": "klientom",
+          "acc": "klientów",
+          "inst": "klientami",
+          "loc": "klientach",
+          "voc": "klienci"
+        }
+      }
+    },
+    {
+      "base": "nauczyciel",
+      "translation": "учитель",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "nauczyciel",
+          "gen": "nauczyciela",
+          "dat": "nauczycielowi",
+          "acc": "nauczyciela",
+          "inst": "nauczycielem",
+          "loc": "nauczycielu",
+          "voc": "nauczycielu"
+        },
+        "pl": {
+          "nom": "nauczyciele",
+          "gen": "nauczycieli",
+          "dat": "nauczycielom",
+          "acc": "nauczycieli",
+          "inst": "nauczycielami",
+          "loc": "nauczycielach",
+          "voc": "nauczyciele"
+        }
+      }
+    },
+    {
+      "base": "dzieło",
+      "translation": "произведение",
+      "gender": "n",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "dzieło",
+          "gen": "dzieła",
+          "dat": "dziełu",
+          "acc": "dzieło",
+          "inst": "dziełem",
+          "loc": "dziele",
+          "voc": "dzieło"
+        },
+        "pl": {
+          "nom": "dzieła",
+          "gen": "dzieł",
+          "dat": "dziełom",
+          "acc": "dzieła",
+          "inst": "dziełami",
+          "loc": "dziełach",
+          "voc": "dzieła"
+        }
+      }
+    },
+    {
+      "base": "twarz",
+      "translation": "лицо",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "twarz",
+          "gen": "twarzy",
+          "dat": "twarzy",
+          "acc": "twarz",
+          "inst": "twarzą",
+          "loc": "twarzy",
+          "voc": "twarzy"
+        },
+        "pl": {
+          "nom": "twarze",
+          "gen": "twarzy",
+          "dat": "twarzom",
+          "acc": "twarze",
+          "inst": "twarzami",
+          "loc": "twarzach",
+          "voc": "twarze"
+        }
+      }
+    },
+    {
+      "base": "strona",
+      "translation": "страница",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "strona",
+          "gen": "strony",
+          "dat": "stronie",
+          "acc": "stronę",
+          "inst": "stroną",
+          "loc": "stronie",
+          "voc": "strono"
+        },
+        "pl": {
+          "nom": "strony",
+          "gen": "stron",
+          "dat": "stronom",
+          "acc": "strony",
+          "inst": "stronami",
+          "loc": "stronach",
+          "voc": "strony"
+        }
+      }
+    },
+    {
+      "base": "moment",
+      "translation": "момент",
+      "gender": "m",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "moment",
+          "gen": "momentu",
+          "dat": "momentowi",
+          "acc": "moment",
+          "inst": "momentem",
+          "loc": "momencie",
+          "voc": "momencie"
+        },
+        "pl": {
+          "nom": "momenty",
+          "gen": "momentów",
+          "dat": "momentom",
+          "acc": "momenty",
+          "inst": "momentami",
+          "loc": "momentach",
+          "voc": "momenty"
+        }
+      }
+    },
+    {
+      "base": "wojna",
+      "translation": "война",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "wojna",
+          "gen": "wojny",
+          "dat": "wojnie",
+          "acc": "wojnę",
+          "inst": "wojną",
+          "loc": "wojnie",
+          "voc": "wojno"
+        },
+        "pl": {
+          "nom": "wojny",
+          "gen": "wojen",
+          "dat": "wojnom",
+          "acc": "wojny",
+          "inst": "wojnami",
+          "loc": "wojnach",
+          "voc": "wojny"
+        }
+      }
+    },
+    {
+      "base": "sytuacja",
+      "translation": "ситуация",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "sytuacja",
+          "gen": "sytuacji",
+          "dat": "sytuacji",
+          "acc": "sytuację",
+          "inst": "sytuacją",
+          "loc": "sytuacji",
+          "voc": "sytuacjo"
+        },
+        "pl": {
+          "nom": "sytuacje",
+          "gen": "sytuacji",
+          "dat": "sytuacjom",
+          "acc": "sytuacje",
+          "inst": "sytuacjami",
+          "loc": "sytuacjach",
+          "voc": "sytuacje"
+        }
+      }
+    },
+    {
+      "base": "chłopiec",
+      "translation": "мальчик",
+      "gender": "m",
+      "alive": true,
+      "masc_personal": true,
+      "forms": {
+        "sg": {
+          "nom": "chłopiec",
+          "gen": "chłopca",
+          "dat": "chłopcu",
+          "acc": "chłopca",
+          "inst": "chłopcem",
+          "loc": "chłopcu",
+          "voc": "chłopcze"
+        },
+        "pl": {
+          "nom": "chłopcy",
+          "gen": "chłopców",
+          "dat": "chłopcom",
+          "acc": "chłopców",
+          "inst": "chłopcami",
+          "loc": "chłopcach",
+          "voc": "chłopcy"
+        }
+      }
+    },
+    {
+      "base": "sprawa",
+      "translation": "дело",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "sprawa",
+          "gen": "sprawy",
+          "dat": "sprawie",
+          "acc": "sprawę",
+          "inst": "sprawą",
+          "loc": "sprawie",
+          "voc": "sprawo"
+        },
+        "pl": {
+          "nom": "sprawy",
+          "gen": "spraw",
+          "dat": "sprawom",
+          "acc": "sprawy",
+          "inst": "sprawami",
+          "loc": "sprawach",
+          "voc": "sprawy"
+        }
+      }
+    },
+    {
+      "base": "wiadomość",
+      "translation": "сообщение",
+      "gender": "f",
+      "alive": false,
+      "masc_personal": false,
+      "forms": {
+        "sg": {
+          "nom": "wiadomość",
+          "gen": "wiadomości",
+          "dat": "wiadomości",
+          "acc": "wiadomość",
+          "inst": "wiadomością",
+          "loc": "wiadomości",
+          "voc": "wiadomości"
+        },
+        "pl": {
+          "nom": "wiadomości",
+          "gen": "wiadomości",
+          "dat": "wiadomościom",
+          "acc": "wiadomości",
+          "inst": "wiadomościami",
+          "loc": "wiadomościach",
+          "voc": "wiadomości"
         }
       }
     }
