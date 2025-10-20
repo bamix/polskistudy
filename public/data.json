@@ -1,4 +1,4 @@
-{
+﻿{
   "cases": [
     "nom",
     "gen",
@@ -7161,7 +7161,7 @@
     },
     {
       "base": "lepszy",
-      "translation": "lepszy",
+      "translation": "лучший",
       "forms": {
         "sg": {
           "m": {
@@ -7381,7 +7381,7 @@
     },
     {
       "base": "lżejszy",
-      "translation": "lżejszy",
+      "translation": "легче",
       "forms": {
         "sg": {
           "m": {
@@ -7931,7 +7931,7 @@
     },
     {
       "base": "mniejszy",
-      "translation": "mniejszy",
+      "translation": "меньший",
       "forms": {
         "sg": {
           "m": {
@@ -8536,7 +8536,7 @@
     },
     {
       "base": "niegrzeczny",
-      "translation": "niegrzeczny",
+      "translation": "невежливый",
       "forms": {
         "sg": {
           "m": {
@@ -9086,7 +9086,7 @@
     },
     {
       "base": "niższy",
-      "translation": "niższy",
+      "translation": "ниже",
       "forms": {
         "sg": {
           "m": {
@@ -10406,7 +10406,7 @@
     },
     {
       "base": "piękny",
-      "translation": "piękny",
+      "translation": "красивый",
       "forms": {
         "sg": {
           "m": {
@@ -11286,7 +11286,7 @@
     },
     {
       "base": "prostopadły",
-      "translation": "prostopadły",
+      "translation": "перпендикулярный",
       "forms": {
         "sg": {
           "m": {
@@ -12661,7 +12661,7 @@
     },
     {
       "base": "silniejszy",
-      "translation": "silniejszy",
+      "translation": "более сильный",
       "forms": {
         "sg": {
           "m": {
@@ -13211,7 +13211,7 @@
     },
     {
       "base": "srebrny",
-      "translation": "srebrny",
+      "translation": "серебряный",
       "forms": {
         "sg": {
           "m": {
@@ -13321,7 +13321,7 @@
     },
     {
       "base": "stęchły",
-      "translation": "stęchły",
+      "translation": "затхлый",
       "forms": {
         "sg": {
           "m": {
@@ -13981,7 +13981,7 @@
     },
     {
       "base": "szybszy",
-      "translation": "szybszy",
+      "translation": "более быстрый",
       "forms": {
         "sg": {
           "m": {
@@ -14036,7 +14036,7 @@
     },
     {
       "base": "słabszy",
-      "translation": "słabszy",
+      "translation": "слабее",
       "forms": {
         "sg": {
           "m": {
@@ -15136,7 +15136,7 @@
     },
     {
       "base": "uprzejmy",
-      "translation": "uprzejmy",
+      "translation": "вежливый",
       "forms": {
         "sg": {
           "m": {
@@ -15851,7 +15851,7 @@
     },
     {
       "base": "większy",
-      "translation": "większy",
+      "translation": "больше",
       "forms": {
         "sg": {
           "m": {
@@ -15961,7 +15961,7 @@
     },
     {
       "base": "wolniejszy",
-      "translation": "wolniejszy",
+      "translation": "более медленный",
       "forms": {
         "sg": {
           "m": {
@@ -16291,7 +16291,7 @@
     },
     {
       "base": "wyższy",
-      "translation": "wyższy",
+      "translation": "выше",
       "forms": {
         "sg": {
           "m": {
@@ -17006,7 +17006,7 @@
     },
     {
       "base": "zimniejszy",
-      "translation": "zimniejszy",
+      "translation": "более холодный",
       "forms": {
         "sg": {
           "m": {
@@ -17116,7 +17116,7 @@
     },
     {
       "base": "złoty",
-      "translation": "złoty",
+      "translation": "золотой",
       "forms": {
         "sg": {
           "m": {
@@ -17913,7 +17913,7 @@
     },
     {
       "base": "bilet",
-      "translation": "bilet",
+      "translation": "билет",
       "gender": "m",
       "alive": false,
       "masc_personal": false,
