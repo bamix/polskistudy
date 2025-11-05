@@ -21814,28 +21814,28 @@
     },
     {
       "base": "pilot",
-      "translation": "пульт",
+      "translation": "пилот",
       "gender": "m",
-      "alive": false,
-      "masc_personal": false,
+      "alive": true,
+      "masc_personal": true,
       "forms": {
         "sg": {
           "nom": "pilot",
           "gen": "pilota",
           "dat": "pilotowi",
-          "acc": "pilot",
+          "acc": "pilota",
           "inst": "pilotem",
           "loc": "pilocie",
           "voc": "pilocie"
         },
         "pl": {
-          "nom": "piloty",
+          "nom": "piloci",
           "gen": "pilotów",
           "dat": "pilotom",
-          "acc": "piloty",
+          "acc": "pilotów",
           "inst": "pilotami",
           "loc": "pilotach",
-          "voc": "piloty"
+          "voc": "piloci"
         }
       }
     },
