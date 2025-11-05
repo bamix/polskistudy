@@ -1,5 +1,5 @@
 <script setup>
-import { ref, reactive, onMounted, computed, nextTick, watch } from 'vue'
+import { ref, reactive, onMounted, onUnmounted, computed, nextTick, watch } from 'vue'
 
 const loading = ref(true)
 const error = ref(null)
@@ -56,7 +56,11 @@ const disableActions = computed(() => Date.now() < lockUntil.value)
 // Disable submit when answer empty (ignoring whitespace) and not yet checked
 const disableSubmitEmpty = computed(() => !answer.value || !answer.value.trim())
 // Combined disable state for the main submit button (either locked after wrong answer or empty input before first check)
-const disableSubmit = computed(() => disableActions.value || (!result.checked && disableSubmitEmpty.value))
+const disableSubmit = computed(() => {
+  const actionsDisabled = disableActions.value
+  const emptyAndNotChecked = !result.checked && disableSubmitEmpty.value
+  return actionsDisabled || emptyAndNotChecked
+})
 
 let nextTimer = null
 
@@ -89,18 +93,27 @@ const CASE_FULL = {
   voc: 'Wołacz'
 }
 
+const GENDER_LABELS = {
+  m: 'męski',
+  'm-pers': 'męskoosobowy', 
+  f: 'żeński',
+  n: 'nijaki'
+}
+
 // User-selected filters (empty means 'all')
 const activeNumbers = ref(['sg', 'pl'])
 const activeCases = ref([]) // empty -> all from data.cases
+const activeGenders = ref([]) // empty -> all genders
 const showFilters = ref(false)
 
 // Watch for changes in filters and save to localStorage
 watch(
-  [activeNumbers, activeCases],
-  ([newNumbers, newCases]) => {
+  [activeNumbers, activeCases, activeGenders],
+  ([newNumbers, newCases, newGenders]) => {
     const filtersToSave = {
       numbers: newNumbers,
-      cases: newCases
+      cases: newCases,
+      genders: newGenders
     }
     localStorage.setItem('polskiStudyFilters', JSON.stringify(filtersToSave))
   },
@@ -155,11 +168,35 @@ function makeQuestion() {
     nextTimer = null
   }
 
+  // Filter nouns by selected genders
+  const genderPool = activeGenders.value && activeGenders.value.length ? activeGenders.value : ['m', 'm-pers', 'f', 'n']
+  const availableNouns = data.nouns.filter(noun => {
+    // Check if noun matches gender filter
+    if (genderPool.includes('m-pers') && noun.gender === 'm' && noun.masc_personal) {
+      return true
+    }
+    if (genderPool.includes('m') && noun.gender === 'm' && !noun.masc_personal) {
+      return true
+    }
+    if (genderPool.includes('f') && noun.gender === 'f') {
+      return true
+    }
+    if (genderPool.includes('n') && noun.gender === 'n') {
+      return true
+    }
+    return false
+  })
+  
+  if (availableNouns.length === 0) {
+    // No nouns available with current gender filter
+    return
+  }
+
   // Choose random adjective (we will display its masculine sg nominative form)
   const adj = pick(data.adjectives)
 
-  // Choose random noun (we will display its nominative singular form)
-  const noun = pick(data.nouns)
+  // Choose random noun from filtered pool
+  const noun = pick(availableNouns)
 
   // Determine pool respecting filters
   const numberPool = activeNumbers.value && activeNumbers.value.length ? activeNumbers.value : ['sg','pl']
@@ -243,6 +280,30 @@ function submitAnswer() {
   }
 }
 
+function handleEnterKey() {
+  // If already checked and correct, skip the delay and go to next question immediately
+  if (result.checked && result.isCorrect) {
+    if (nextTimer) {
+      clearTimeout(nextTimer)
+      nextTimer = null
+    }
+    nextQuestion(true)
+    return
+  }
+  // Otherwise, submit the answer (same behavior as clicking submit button)
+  submitAnswer()
+}
+
+function handleGlobalKeydown(event) {
+  // Handle Enter key globally when result is shown and answer is correct
+  if (event.key === 'Enter' && result.checked && result.isCorrect && nextTimer) {
+    event.preventDefault()
+    clearTimeout(nextTimer)
+    nextTimer = null
+    nextQuestion(true)
+  }
+}
+
 function skipQuestion() {
   stats.total++
   stats.skipped++
@@ -268,11 +329,29 @@ onMounted(() => {
       if (Array.isArray(parsed.cases)) {
         activeCases.value = parsed.cases
       }
+      if (Array.isArray(parsed.genders)) {
+        activeGenders.value = parsed.genders
+      }
     } catch (e) {
       console.error('Could not parse saved filters', e)
     }
   }
+  
+  // Add global keydown listener
+  document.addEventListener('keydown', handleGlobalKeydown)
+  
   loadData()
+})
+
+onUnmounted(() => {
+  // Remove global keydown listener
+  document.removeEventListener('keydown', handleGlobalKeydown)
+  
+  // Clear any pending timers
+  if (nextTimer) {
+    clearTimeout(nextTimer)
+    nextTimer = null
+  }
 })
 </script>
 
@@ -300,6 +379,11 @@ onMounted(() => {
                     {{ activeCases.length ? activeCases.map(c=>CASE_FULL[c]||c).join(', ') : 'wszystkie' }}
                   </strong>
                 </span>
+                <span class="ml-2">Rodzaj:
+                  <strong>
+                    {{ activeGenders.length ? activeGenders.map(g=>GENDER_LABELS[g]||g).join(', ') : 'wszystkie' }}
+                  </strong>
+                </span>
               </div>
             </div>
             <v-expand-transition>
@@ -310,6 +394,16 @@ onMounted(() => {
                     <v-chip value="sg" variant="outlined" size="small">liczba pojedyncza</v-chip>
                     <v-chip value="pl" variant="outlined" size="small">liczba mnoga</v-chip>
                   </v-chip-group>
+                </div>
+                <div class="d-flex flex-column" style="min-width:200px;">
+                  <span class="text-caption text-medium-emphasis mb-1">Rodzaj</span>
+                  <v-chip-group v-model="activeGenders" multiple column density="comfortable" class="flex-wrap" selected-class="bg-success text-white">
+                    <v-chip value="m" variant="outlined" size="small">męski</v-chip>
+                    <v-chip value="m-pers" variant="outlined" size="small">męskoosobowy</v-chip>
+                    <v-chip value="f" variant="outlined" size="small">żeński</v-chip>
+                    <v-chip value="n" variant="outlined" size="small">nijaki</v-chip>
+                  </v-chip-group>
+                  <div v-if="!activeGenders.length" class="text-caption text-disabled mt-1">(wszystkie rodzaje)</div>
                 </div>
                 <div class="flex-grow-1 d-flex flex-column">
                   <span class="text-caption text-medium-emphasis mb-1">Przypadki</span>
@@ -348,7 +442,7 @@ onMounted(() => {
               :disabled="result.checked && !disableActions" 
               ref="answerField"
               hide-details="auto"
-              @keyup.enter="submitAnswer"
+              @keyup.enter="handleEnterKey"
               placeholder="przymiotnik + rzeczownik"
             />
 
@@ -396,5 +490,3 @@ onMounted(() => {
   hyphens: auto;
 }
 </style>
-
-<!-- Removed custom global utility styles in favor of Vuetify utility classes -->

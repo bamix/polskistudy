@@ -48,7 +48,7 @@
             "gen": "akademickich",
             "dat": "akademickim",
             "acc": "akademickich",
-            "inst": "akademickymi",
+            "inst": "akademickimi",
             "loc": "akademickich",
             "voc": "akademiccy"
           },
@@ -57,7 +57,7 @@
             "gen": "akademickich",
             "dat": "akademickim",
             "acc": "akademickie",
-            "inst": "akademickymi",
+            "inst": "akademickimi",
             "loc": "akademickich",
             "voc": "akademickie"
           }
@@ -13161,50 +13161,50 @@
         "sg": {
           "m": {
             "nom": "spóźnialski",
-            "gen": "spóźnialskego",
-            "dat": "spóźnialskemu",
+            "gen": "spóźnialskiego",
+            "dat": "spóźnialskiemu",
             "acc": "spóźnialski",
-            "inst": "spóźnialskym",
-            "loc": "spóźnialskym",
+            "inst": "spóźnialskim",
+            "loc": "spóźnialskim",
             "voc": "spóźnialski"
           },
           "f": {
             "nom": "spóźnialska",
-            "gen": "spóźnialskej",
-            "dat": "spóźnialskej",
+            "gen": "spóźnialskiej",
+            "dat": "spóźnialskiej",
             "acc": "spóźnialską",
             "inst": "spóźnialską",
-            "loc": "spóźnialskej",
+            "loc": "spóźnialskiej",
             "voc": "spóźnialska"
           },
           "n": {
-            "nom": "spóźnialske",
-            "gen": "spóźnialskego",
-            "dat": "spóźnialskemu",
-            "acc": "spóźnialske",
-            "inst": "spóźnialskym",
-            "loc": "spóźnialskym",
-            "voc": "spóźnialske"
+            "nom": "spóźnialskie",
+            "gen": "spóźnialskiego",
+            "dat": "spóźnialskiemu",
+            "acc": "spóźnialskie",
+            "inst": "spóźnialskim",
+            "loc": "spóźnialskim",
+            "voc": "spóźnialskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "spóźnialscy",
             "gen": "spóźnialskich",
-            "dat": "spóźnialskym",
+            "dat": "spóźnialskim",
             "acc": "spóźnialskich",
-            "inst": "spóźnialskymi",
+            "inst": "spóźnialskimi",
             "loc": "spóźnialskich",
             "voc": "spóźnialscy"
           },
           "other": {
-            "nom": "spóźnialske",
+            "nom": "spóźnialskie",
             "gen": "spóźnialskich",
-            "dat": "spóźnialskym",
-            "acc": "spóźnialske",
-            "inst": "spóźnialskymi",
+            "dat": "spóźnialskim",
+            "acc": "spóźnialskie",
+            "inst": "spóźnialskimi",
             "loc": "spóźnialskich",
-            "voc": "spóźnialske"
+            "voc": "spóźnialskie"
           }
         }
       }
@@ -14261,50 +14261,50 @@
         "sg": {
           "m": {
             "nom": "słowacki",
-            "gen": "słowackego",
-            "dat": "słowackemu",
+            "gen": "słowackiego",
+            "dat": "słowackiemu",
             "acc": "słowacki",
-            "inst": "słowackym",
-            "loc": "słowackym",
+            "inst": "słowackim",
+            "loc": "słowackim",
             "voc": "słowacki"
           },
           "f": {
             "nom": "słowacka",
-            "gen": "słowackej",
-            "dat": "słowackej",
+            "gen": "słowackiej",
+            "dat": "słowackiej",
             "acc": "słowacką",
             "inst": "słowacką",
-            "loc": "słowackej",
+            "loc": "słowackiej",
             "voc": "słowacka"
           },
           "n": {
-            "nom": "słowacke",
-            "gen": "słowackego",
-            "dat": "słowackemu",
-            "acc": "słowacke",
-            "inst": "słowackym",
-            "loc": "słowackym",
-            "voc": "słowacke"
+            "nom": "słowackie",
+            "gen": "słowackiego",
+            "dat": "słowackiemu",
+            "acc": "słowackie",
+            "inst": "słowackim",
+            "loc": "słowackim",
+            "voc": "słowackie"
           }
         },
         "pl": {
           "m1": {
             "nom": "słowaccy",
             "gen": "słowackich",
-            "dat": "słowackym",
+            "dat": "słowackim",
             "acc": "słowackich",
-            "inst": "słowackymi",
+            "inst": "słowackimi",
             "loc": "słowackich",
             "voc": "słowaccy"
           },
           "other": {
-            "nom": "słowacke",
+            "nom": "słowackie",
             "gen": "słowackich",
-            "dat": "słowackym",
-            "acc": "słowacke",
-            "inst": "słowackymi",
+            "dat": "słowackim",
+            "acc": "słowackie",
+            "inst": "słowackimi",
             "loc": "słowackich",
-            "voc": "słowacke"
+            "voc": "słowackie"
           }
         }
       }
@@ -14316,50 +14316,50 @@
         "sg": {
           "m": {
             "nom": "słoweński",
-            "gen": "słoweńskego",
-            "dat": "słoweńskemu",
+            "gen": "słoweńskiego",
+            "dat": "słoweńskiemu",
             "acc": "słoweński",
-            "inst": "słoweńskym",
-            "loc": "słoweńskym",
+            "inst": "słoweńskim",
+            "loc": "słoweńskim",
             "voc": "słoweński"
           },
           "f": {
             "nom": "słoweńska",
-            "gen": "słoweńskej",
-            "dat": "słoweńskej",
+            "gen": "słoweńskiej",
+            "dat": "słoweńskiej",
             "acc": "słoweńską",
             "inst": "słoweńską",
-            "loc": "słoweńskej",
+            "loc": "słoweńskiej",
             "voc": "słoweńska"
           },
           "n": {
-            "nom": "słoweńske",
-            "gen": "słoweńskego",
-            "dat": "słoweńskemu",
-            "acc": "słoweńske",
-            "inst": "słoweńskym",
-            "loc": "słoweńskym",
-            "voc": "słoweńske"
+            "nom": "słoweńskie",
+            "gen": "słoweńskiego",
+            "dat": "słoweńskiemu",
+            "acc": "słoweńskie",
+            "inst": "słoweńskim",
+            "loc": "słoweńskim",
+            "voc": "słoweńskie"
           }
         },
         "pl": {
           "m1": {
             "nom": "słoweńscy",
             "gen": "słoweńskich",
-            "dat": "słoweńskym",
+            "dat": "słoweńskim",
             "acc": "słoweńskich",
-            "inst": "słoweńskymi",
+            "inst": "słoweńskimi",
             "loc": "słoweńskich",
             "voc": "słoweńscy"
           },
           "other": {
-            "nom": "słoweńske",
+            "nom": "słoweńskie",
             "gen": "słoweńskich",
-            "dat": "słoweńskym",
-            "acc": "słoweńske",
-            "inst": "słoweńskymi",
+            "dat": "słoweńskim",
+            "acc": "słoweńskie",
+            "inst": "słoweńskimi",
             "loc": "słoweńskich",
-            "voc": "słoweńske"
+            "voc": "słoweńskie"
           }
         }
       }
