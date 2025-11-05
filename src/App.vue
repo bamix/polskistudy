@@ -14,6 +14,7 @@ const question = reactive({
   correctNoun: '',
   correct: '',
   gender: 'm', // gender of the noun
+  isRepeat: false, // flag to indicate if this is a repeated question
 })
 
 const answer = ref('')
@@ -47,6 +48,11 @@ const stats = reactive({
   correct: 0,
   skipped: 0,
 })
+
+// Incorrect questions storage
+const incorrectQuestions = ref([])
+const REPEAT_PROBABILITY = 0.3 // 30% chance to repeat incorrect question
+const MAX_INCORRECT_STORE = 20 // Maximum number of incorrect questions to store
 
 const accuracy = computed(() => stats.total ? Math.round((stats.correct / stats.total) * 100) : 0)
 
@@ -161,6 +167,57 @@ function pick(arr) {
   return arr[Math.floor(Math.random() * arr.length)]
 }
 
+function addIncorrectQuestion(questionData) {
+  // Create a copy of the question data
+  const incorrectQ = {
+    baseAdj: questionData.baseAdj,
+    baseNoun: questionData.baseNoun,
+    targetCase: questionData.targetCase,
+    targetNumber: questionData.targetNumber,
+    correctAdj: questionData.correctAdj,
+    correctNoun: questionData.correctNoun,
+    correct: questionData.correct,
+    gender: questionData.gender,
+    timestamp: Date.now()
+  }
+  
+  // Add to the beginning of the array
+  incorrectQuestions.value.unshift(incorrectQ)
+  
+  // Keep only the most recent incorrect questions
+  if (incorrectQuestions.value.length > MAX_INCORRECT_STORE) {
+    incorrectQuestions.value = incorrectQuestions.value.slice(0, MAX_INCORRECT_STORE)
+  }
+  
+  // Save to localStorage
+  localStorage.setItem('polskiStudyIncorrect', JSON.stringify(incorrectQuestions.value))
+}
+
+function shouldRepeatIncorrectQuestion() {
+  return incorrectQuestions.value.length > 0 && Math.random() < REPEAT_PROBABILITY
+}
+
+function getIncorrectQuestion() {
+  if (incorrectQuestions.value.length === 0) return null
+  
+  // Prefer more recent mistakes (weighted selection)
+  const weights = incorrectQuestions.value.map((_, index) => 
+    Math.pow(0.8, index) // Exponential decay: newer mistakes have higher weight
+  )
+  
+  const totalWeight = weights.reduce((sum, w) => sum + w, 0)
+  let random = Math.random() * totalWeight
+  
+  for (let i = 0; i < weights.length; i++) {
+    random -= weights[i]
+    if (random <= 0) {
+      return incorrectQuestions.value[i]
+    }
+  }
+  
+  return incorrectQuestions.value[0] // fallback
+}
+
 function makeQuestion() {
   // clear any pending timer
   if (nextTimer) {
@@ -168,6 +225,34 @@ function makeQuestion() {
     nextTimer = null
   }
 
+  // Check if we should repeat an incorrect question
+  if (shouldRepeatIncorrectQuestion()) {
+    const incorrectQ = getIncorrectQuestion()
+    if (incorrectQ) {
+      // Restore the incorrect question
+      question.baseAdj = incorrectQ.baseAdj
+      question.baseNoun = incorrectQ.baseNoun
+      question.targetCase = incorrectQ.targetCase
+      question.targetNumber = incorrectQ.targetNumber
+      question.correctAdj = incorrectQ.correctAdj
+      question.correctNoun = incorrectQ.correctNoun
+      question.correct = incorrectQ.correct
+      question.gender = incorrectQ.gender
+      question.isRepeat = true
+
+      // reset UI state
+      answer.value = ''
+      result.checked = false
+      result.isCorrect = false
+      result.message = ''
+      result.correctAnswer = ''
+      // Re-focus input after DOM updates
+      focusAnswer()
+      return
+    }
+  }
+
+  // Generate new question (existing logic)
   // Filter nouns by selected genders
   const genderPool = activeGenders.value && activeGenders.value.length ? activeGenders.value : ['m', 'm-pers', 'f', 'n']
   const availableNouns = data.nouns.filter(noun => {
@@ -229,6 +314,7 @@ function makeQuestion() {
   question.correctNoun = nounForm
   question.correct = normalize(adjForm + ' ' + nounForm)
   question.gender = noun.gender
+  question.isRepeat = false
 
   // reset UI state
   answer.value = ''
@@ -266,6 +352,8 @@ function submitAnswer() {
   } else {
   result.message = 'Źle.'
     result.correctAnswer = question.correctAdj + ' ' + question.correctNoun
+    // Add incorrect question to the review list
+    addIncorrectQuestion(question)
   }
   // Update stats (count only first check)
   stats.total++
@@ -334,6 +422,19 @@ onMounted(() => {
       }
     } catch (e) {
       console.error('Could not parse saved filters', e)
+    }
+  }
+  
+  // Load saved incorrect questions
+  const savedIncorrect = localStorage.getItem('polskiStudyIncorrect')
+  if (savedIncorrect) {
+    try {
+      const parsed = JSON.parse(savedIncorrect)
+      if (Array.isArray(parsed)) {
+        incorrectQuestions.value = parsed
+      }
+    } catch (e) {
+      console.error('Could not parse saved incorrect questions', e)
     }
   }
   
@@ -415,7 +516,10 @@ onUnmounted(() => {
               </div>
             </v-expand-transition>
             <div class="mb-4 d-flex flex-column align-center text-center">
-              <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe słowa</div>
+              <div class="d-flex align-center justify-center" style="gap:.5rem;">
+                <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe słowa</div>
+                <v-chip v-if="question.isRepeat" size="x-small" color="warning" variant="flat">powtórka</v-chip>
+              </div>
               <div class="text-h4 font-weight-bold mt-1 d-flex flex-row flex-wrap align-center justify-center" style="line-height:1.15; gap:.5rem;">
                 <v-tooltip location="bottom" open-on-click>
                   <template #activator="{ props }">
@@ -472,6 +576,7 @@ onUnmounted(() => {
             <div v-if="stats.total" class="mt-4 d-flex flex-column align-center text-center text-caption" style="opacity:.75;">
               <div><strong>{{ stats.correct }}</strong>/<span>{{ stats.total }}</span> ({{ accuracy }}%)</div>
               <div v-if="stats.skipped" class="mt-1">pominięte: {{ stats.skipped }}</div>
+              <div v-if="incorrectQuestions.length" class="mt-1">do powtórki: {{ incorrectQuestions.length }}</div>
             </div>
           </v-card-text>
         </v-card>
