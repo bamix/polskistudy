@@ -51,7 +51,7 @@ const stats = reactive({
 
 // Incorrect questions storage
 const incorrectQuestions = ref([])
-const REPEAT_PROBABILITY = 0.3 // 30% chance to repeat incorrect question
+const REPEAT_PROBABILITY = 0.1 // 10% chance to repeat incorrect question
 const MAX_INCORRECT_STORE = 20 // Maximum number of incorrect questions to store
 
 const accuracy = computed(() => stats.total ? Math.round((stats.correct / stats.total) * 100) : 0)
@@ -110,16 +110,18 @@ const GENDER_LABELS = {
 const activeNumbers = ref(['sg', 'pl'])
 const activeCases = ref([]) // empty -> all from data.cases
 const activeGenders = ref([]) // empty -> all genders
+const enableRepeats = ref(true) // whether to show repeat questions
 const showFilters = ref(false)
 
 // Watch for changes in filters and save to localStorage
 watch(
-  [activeNumbers, activeCases, activeGenders],
-  ([newNumbers, newCases, newGenders]) => {
+  [activeNumbers, activeCases, activeGenders, enableRepeats],
+  ([newNumbers, newCases, newGenders, newEnableRepeats]) => {
     const filtersToSave = {
       numbers: newNumbers,
       cases: newCases,
-      genders: newGenders
+      genders: newGenders,
+      enableRepeats: newEnableRepeats
     }
     localStorage.setItem('polskiStudyFilters', JSON.stringify(filtersToSave))
   },
@@ -178,7 +180,8 @@ function addIncorrectQuestion(questionData) {
     correctNoun: questionData.correctNoun,
     correct: questionData.correct,
     gender: questionData.gender,
-    timestamp: Date.now()
+    timestamp: Date.now(),
+    correctCount: 0 // Track how many times answered correctly in review
   }
   
   // Add to the beginning of the array
@@ -187,6 +190,20 @@ function addIncorrectQuestion(questionData) {
   // Keep only the most recent incorrect questions
   if (incorrectQuestions.value.length > MAX_INCORRECT_STORE) {
     incorrectQuestions.value = incorrectQuestions.value.slice(0, MAX_INCORRECT_STORE)
+  }
+}
+
+function removeFromIncorrectQuestions(questionData) {
+  // Find and remove question that matches the current question
+  const index = incorrectQuestions.value.findIndex(q => 
+    q.baseAdj === questionData.baseAdj && 
+    q.baseNoun === questionData.baseNoun && 
+    q.targetCase === questionData.targetCase && 
+    q.targetNumber === questionData.targetNumber
+  )
+  
+  if (index !== -1) {
+    incorrectQuestions.value.splice(index, 1)
   }
 }
 
@@ -223,7 +240,7 @@ function makeQuestion() {
   }
 
   // Check if we should repeat an incorrect question
-  if (shouldRepeatIncorrectQuestion()) {
+  if (enableRepeats.value && shouldRepeatIncorrectQuestion()) {
     const incorrectQ = getIncorrectQuestion()
     if (incorrectQ) {
       // Restore the incorrect question
@@ -343,14 +360,49 @@ function submitAnswer() {
   const ok = user === question.correct
   result.checked = true
   result.isCorrect = ok
+  
   if (ok) {
-  result.message = 'Dobrze!'
+    result.message = 'Dobrze!'
     result.correctAnswer = ''
+    
+    // If this was a repeat question, handle correct answer counting
+    if (question.isRepeat) {
+      const incorrectIndex = incorrectQuestions.value.findIndex(q => 
+        q.baseAdj === question.baseAdj && 
+        q.baseNoun === question.baseNoun && 
+        q.targetCase === question.targetCase && 
+        q.targetNumber === question.targetNumber
+      )
+      
+      if (incorrectIndex !== -1) {
+        incorrectQuestions.value[incorrectIndex].correctCount++
+        
+        // Remove from incorrect questions after 2 correct answers
+        if (incorrectQuestions.value[incorrectIndex].correctCount >= 2) {
+          removeFromIncorrectQuestions(question)
+        }
+      }
+    }
   } else {
-  result.message = 'Źle.'
+    result.message = 'Źle.'
     result.correctAnswer = question.correctAdj + ' ' + question.correctNoun
-    // Add incorrect question to the review list
-    addIncorrectQuestion(question)
+    
+    // If this was a repeat question that was answered incorrectly, reset correct count
+    if (question.isRepeat) {
+      const incorrectIndex = incorrectQuestions.value.findIndex(q => 
+        q.baseAdj === question.baseAdj && 
+        q.baseNoun === question.baseNoun && 
+        q.targetCase === question.targetCase && 
+        q.targetNumber === question.targetNumber
+      )
+      
+      if (incorrectIndex !== -1) {
+        incorrectQuestions.value[incorrectIndex].correctCount = 0
+      }
+    } else {
+      // Add incorrect question to the review list only if it's not already a repeat
+      addIncorrectQuestion(question)
+    }
   }
   // Update stats (count only first check)
   stats.total++
@@ -419,6 +471,9 @@ onMounted(() => {
       if (Array.isArray(parsed.genders)) {
         activeGenders.value = parsed.genders
       }
+      if (typeof parsed.enableRepeats === 'boolean') {
+        enableRepeats.value = parsed.enableRepeats
+      }
     } catch (e) {
       console.error('Could not parse saved filters', e)
     }
@@ -471,6 +526,11 @@ onUnmounted(() => {
                     {{ activeGenders.length ? activeGenders.map(g=>GENDER_LABELS[g]||g).join(', ') : 'wszystkie' }}
                   </strong>
                 </span>
+                <span class="ml-2">Powtórki:
+                  <strong>
+                    {{ enableRepeats ? 'włączone' : 'wyłączone' }}
+                  </strong>
+                </span>
               </div>
             </div>
             <v-expand-transition>
@@ -498,6 +558,17 @@ onUnmounted(() => {
                     <v-chip v-for="c in data.cases" :key="c" :value="c" variant="outlined" size="small">{{ CASE_FULL[c] || c }}</v-chip>
                   </v-chip-group>
                   <div v-if="!activeCases.length" class="text-caption text-disabled mt-1">(wszystkie przypadki)</div>
+                </div>
+                <div class="d-flex flex-column" style="min-width:150px;">
+                  <span class="text-caption text-medium-emphasis mb-1">Opcje</span>
+                  <v-checkbox 
+                    v-model="enableRepeats" 
+                    label="Powtórki" 
+                    density="comfortable" 
+                    hide-details
+                    color="warning"
+                  />
+                  <div class="text-caption text-disabled mt-1">({{ enableRepeats ? 'pokazuj' : 'ukryj' }} błędne odpowiedzi)</div>
                 </div>
               </div>
             </v-expand-transition>
