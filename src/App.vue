@@ -400,6 +400,8 @@ function nextQuestion(fromAnswer) {
     clearTimeout(nextTimer)
     nextTimer = null
   }
+  // Reset lock when moving to next question
+  lockUntil.value = 0
   makeQuestion()
 }
 
