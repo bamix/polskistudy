@@ -188,9 +188,6 @@ function addIncorrectQuestion(questionData) {
   if (incorrectQuestions.value.length > MAX_INCORRECT_STORE) {
     incorrectQuestions.value = incorrectQuestions.value.slice(0, MAX_INCORRECT_STORE)
   }
-  
-  // Save to localStorage
-  localStorage.setItem('polskiStudyIncorrect', JSON.stringify(incorrectQuestions.value))
 }
 
 function shouldRepeatIncorrectQuestion() {
@@ -422,19 +419,6 @@ onMounted(() => {
       }
     } catch (e) {
       console.error('Could not parse saved filters', e)
-    }
-  }
-  
-  // Load saved incorrect questions
-  const savedIncorrect = localStorage.getItem('polskiStudyIncorrect')
-  if (savedIncorrect) {
-    try {
-      const parsed = JSON.parse(savedIncorrect)
-      if (Array.isArray(parsed)) {
-        incorrectQuestions.value = parsed
-      }
-    } catch (e) {
-      console.error('Could not parse saved incorrect questions', e)
     }
   }
   
