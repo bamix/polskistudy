@@ -43,7 +43,7 @@
         </v-expand-transition>
         <div class="mb-4 d-flex flex-column align-center text-center">
           <div class="d-flex align-center justify-center" style="gap:.5rem;">
-            <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe zaimek</div>
+            <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wymagany zaimek</div>
           </div>
           <div class="text-h4 font-weight-bold mt-1 d-flex flex-row flex-wrap align-center justify-center" style="line-height:1.15; gap:.5rem;">
             <span class="text-primary word-wrap">{{ question.basePronoun }}</span>

@@ -73,7 +73,7 @@
         </v-expand-transition>
         <div class="mb-4 d-flex flex-column align-center text-center">
           <div class="d-flex align-center justify-center" style="gap:.5rem;">
-            <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wyjściowe słowa</div>
+            <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Wymagane słowa</div>
             <v-chip v-if="question.isRepeat" size="x-small" color="warning" variant="flat">powtórka</v-chip>
           </div>
           <div class="text-h4 font-weight-bold mt-1 d-flex flex-row flex-wrap align-center justify-center" style="line-height:1.15; gap:.5rem;">
