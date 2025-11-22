@@ -279,7 +279,7 @@ const pronounsData = {
   zwrotne: {
     'siebie': {
       nom: [],
-      gen: ['siebie', 'się'],
+      gen: ['siebie'],
       dat: ['sobie'],
       acc: ['siebie', 'się'],
       inst: ['sobą'],
