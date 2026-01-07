@@ -18928,7 +18928,7 @@
       "translation": "член",
       "gender": "m",
       "alive": true,
-      "masc_personal": false,
+      "masc_personal": true,
       "forms": {
         "sg": {
           "nom": "członek",
