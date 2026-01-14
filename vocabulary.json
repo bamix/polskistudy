@@ -33,7 +33,12 @@
     },
     {
       "russian": "худи",
-      "polish": "bluza z kapturem",
+      "polish": "bluza",
+      "category": "Одежда"
+    },
+    {
+      "russian": "капюшон",
+      "polish": "kaptur",
       "category": "Одежда"
     },
     {
@@ -98,7 +103,7 @@
     },
     {
       "russian": "спортивный костюм",
-      "polish": "dres",
+      "polish": "dres sportowy",
       "category": "Одежда"
     },
     {
