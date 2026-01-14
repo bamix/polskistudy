@@ -162,7 +162,7 @@ const filteredWords = computed(() => {
 // Load data and initialize
 async function loadData() {
   try {
-    const response = await fetch('/vocabulary.json')
+    const response = await fetch('./vocabulary.json')
     const data = await response.json()
     allWords.value = data.words
     allCategories.value = data.categories
