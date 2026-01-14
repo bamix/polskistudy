@@ -2,6 +2,7 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Declension from '../views/Declension.vue'
 import Pronouns from '../views/Pronouns.vue'
 import Numerals from '../views/Numerals.vue'
+import Vocabulary from '../views/Vocabulary.vue'
 
 const routes = [
   {
@@ -18,6 +19,11 @@ const routes = [
     path: '/numerals',
     name: 'Numerals',
     component: Numerals
+  },
+  {
+    path: '/vocabulary',
+    name: 'Vocabulary',
+    component: Vocabulary
   }
 ]
 

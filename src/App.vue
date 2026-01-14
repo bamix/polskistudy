@@ -26,6 +26,11 @@
         <v-icon>mdi-numeric</v-icon>
         <span>Liczebniki</span>
       </v-btn>
+      
+      <v-btn value="vocabulary" @click="$router.push('/vocabulary')">
+        <v-icon>mdi-book-open-page-variant</v-icon>
+        <span>Słownik</span>
+      </v-btn>
     
     </v-bottom-navigation>
   </v-app>
@@ -46,6 +51,8 @@ watch(() => route.path, (newPath) => {
     activeTab.value = 'pronouns'
   } else if (newPath === '/numerals') {
     activeTab.value = 'numerals'
+  } else if (newPath === '/vocabulary') {
+    activeTab.value = 'vocabulary'
   }
 }, { immediate: true })
 </script>
