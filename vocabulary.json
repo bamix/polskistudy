@@ -1,0 +1,595 @@
+{
+  "categories": [
+    "Одежда",
+    "Части тела",
+    "Эмоции",
+    "Помещение и мебель"
+  ],
+  "words": [
+    {
+      "russian": "кепка",
+      "polish": "czapka z daszkiem",
+      "category": "Одежда"
+    },
+    {
+      "russian": "шляпа",
+      "polish": "kapelusz",
+      "category": "Одежда"
+    },
+    {
+      "russian": "шапка",
+      "polish": "czapka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "футболка",
+      "polish": "koszulka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "рубашка",
+      "polish": "koszula",
+      "category": "Одежда"
+    },
+    {
+      "russian": "худи",
+      "polish": "bluza z kapturem",
+      "category": "Одежда"
+    },
+    {
+      "russian": "свитер",
+      "polish": "sweter",
+      "category": "Одежда"
+    },
+    {
+      "russian": "жилетка",
+      "polish": "kamizelka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "пиджак",
+      "polish": "marynarka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "блузка",
+      "polish": "bluzka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "спортивный топ",
+      "polish": "stanik sportowy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "брюки",
+      "polish": "spodnie",
+      "category": "Одежда"
+    },
+    {
+      "russian": "джинсы",
+      "polish": "dżinsy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "юбка",
+      "polish": "spódniczka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "легинсы",
+      "polish": "leginsy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "шорты",
+      "polish": "szorty",
+      "category": "Одежда"
+    },
+    {
+      "russian": "платье",
+      "polish": "sukienka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "мужской костюм",
+      "polish": "garnitur",
+      "category": "Одежда"
+    },
+    {
+      "russian": "спортивный костюм",
+      "polish": "dres",
+      "category": "Одежда"
+    },
+    {
+      "russian": "комбинезон",
+      "polish": "ogrodniczki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "пижама",
+      "polish": "piżama",
+      "category": "Одежда"
+    },
+    {
+      "russian": "халат",
+      "polish": "szlafrok",
+      "category": "Одежда"
+    },
+    {
+      "russian": "куртка",
+      "polish": "kurtka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "джинсовая куртка",
+      "polish": "kurtka dżinsowa",
+      "category": "Одежда"
+    },
+    {
+      "russian": "пальто",
+      "polish": "płaszcz",
+      "category": "Одежда"
+    },
+    {
+      "russian": "дождевик",
+      "polish": "płaszcz przeciwdeszczowy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "ботинки",
+      "polish": "buty",
+      "category": "Одежда"
+    },
+    {
+      "russian": "кроссовки",
+      "polish": "adidasy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "носки",
+      "polish": "skarpetki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "шлепанцы",
+      "polish": "klapki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "сандалии",
+      "polish": "sandały",
+      "category": "Одежда"
+    },
+    {
+      "russian": "тапочки",
+      "polish": "kapcie",
+      "category": "Одежда"
+    },
+    {
+      "russian": "туфли на шпильке",
+      "polish": "szpilki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "нижнее белье",
+      "polish": "bielizna",
+      "category": "Одежда"
+    },
+    {
+      "russian": "трусы",
+      "polish": "majtki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "плавки",
+      "polish": "kąpielówki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "купальник",
+      "polish": "strój kąpielowy",
+      "category": "Одежда"
+    },
+    {
+      "russian": "бюстгальтер",
+      "polish": "biustonosz",
+      "category": "Одежда"
+    },
+    {
+      "russian": "фартук",
+      "polish": "fartuch",
+      "category": "Одежда"
+    },
+    {
+      "russian": "очки",
+      "polish": "okulary",
+      "category": "Одежда"
+    },
+    {
+      "russian": "галстук-бабочка",
+      "polish": "muszka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "галстук",
+      "polish": "krawat",
+      "category": "Одежда"
+    },
+    {
+      "russian": "кольцо",
+      "polish": "pierścionek",
+      "category": "Одежда"
+    },
+    {
+      "russian": "перчатка",
+      "polish": "rękawiczka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "серьги",
+      "polish": "kolczyki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "часы",
+      "polish": "zegarek",
+      "category": "Одежда"
+    },
+    {
+      "russian": "браслет",
+      "polish": "bransoletka",
+      "category": "Одежда"
+    },
+    {
+      "russian": "шарф",
+      "polish": "szalik",
+      "category": "Одежда"
+    },
+    {
+      "russian": "ремень",
+      "polish": "pasek",
+      "category": "Одежда"
+    },
+    {
+      "russian": "голова",
+      "polish": "głowa",
+      "category": "Части тела"
+    },
+    {
+      "russian": "глаз",
+      "polish": "oko",
+      "category": "Части тела"
+    },
+    {
+      "russian": "ухо",
+      "polish": "ucho",
+      "category": "Части тела"
+    },
+    {
+      "russian": "ладонь",
+      "polish": "dłoń",
+      "category": "Части тела"
+    },
+    {
+      "russian": "рука",
+      "polish": "ręka",
+      "category": "Части тела"
+    },
+    {
+      "russian": "ноги",
+      "polish": "nogi",
+      "category": "Части тела"
+    },
+    {
+      "russian": "бровь",
+      "polish": "brew",
+      "category": "Части тела"
+    },
+    {
+      "russian": "нос",
+      "polish": "nos",
+      "category": "Части тела"
+    },
+    {
+      "russian": "зубы",
+      "polish": "zęby",
+      "category": "Части тела"
+    },
+    {
+      "russian": "губы",
+      "polish": "usta",
+      "category": "Части тела"
+    },
+    {
+      "russian": "язык",
+      "polish": "język",
+      "category": "Части тела"
+    },
+    {
+      "russian": "стопа",
+      "polish": "stopa",
+      "category": "Части тела"
+    },
+    {
+      "russian": "лицо",
+      "polish": "twarz",
+      "category": "Части тела"
+    },
+    {
+      "russian": "шея",
+      "polish": "szyja",
+      "category": "Части тела"
+    },
+    {
+      "russian": "плечо",
+      "polish": "ramię",
+      "category": "Части тела"
+    },
+    {
+      "russian": "живот",
+      "polish": "brzuch",
+      "category": "Части тела"
+    },
+    {
+      "russian": "спина",
+      "polish": "plecy",
+      "category": "Части тела"
+    },
+    {
+      "russian": "колено",
+      "polish": "kolano",
+      "category": "Части тела"
+    },
+    {
+      "russian": "локоть",
+      "polish": "łokieć",
+      "category": "Части тела"
+    },
+    {
+      "russian": "палец",
+      "polish": "palec",
+      "category": "Части тела"
+    },
+    {
+      "russian": "волосы",
+      "polish": "włosy",
+      "category": "Части тела"
+    },
+    {
+      "russian": "спокойный",
+      "polish": "spokojny",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "злой",
+      "polish": "zły",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "сонный",
+      "polish": "senny",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "грустный",
+      "polish": "smutny",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "счастливый",
+      "polish": "szczęśliwy",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "застенчивый",
+      "polish": "nieśmiały",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "уставший",
+      "polish": "zmęczony",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "потрясенный",
+      "polish": "wstrząśnięty",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "гордый",
+      "polish": "dumny",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "обиженный",
+      "polish": "zraniony",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "испуганный",
+      "polish": "przestraszony",
+      "category": "Эмоции"
+    },
+    {
+      "russian": "комната",
+      "polish": "pokój",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "помещение",
+      "polish": "pomieszczenie",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "квартира",
+      "polish": "mieszkanie",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "дом",
+      "polish": "dom",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "спальня",
+      "polish": "sypialnia",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "зал",
+      "polish": "salon",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "туалет",
+      "polish": "toaleta",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "коридор",
+      "polish": "korytarz",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "стена",
+      "polish": "ściana",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "пол",
+      "polish": "podłoga",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "потолок",
+      "polish": "sufit",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "дверь",
+      "polish": "drzwi",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "окно",
+      "polish": "okno",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "подоконник",
+      "polish": "parapet",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "балкон",
+      "polish": "balkon",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "стол",
+      "polish": "stół",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "стул",
+      "polish": "krzesło",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "кресло",
+      "polish": "fotel",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "диван",
+      "polish": "sofa / kanapa",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "кровать",
+      "polish": "łóżko",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "шкаф",
+      "polish": "szafa",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "шкафчик",
+      "polish": "szafka",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "комод",
+      "polish": "komoda",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "полка",
+      "polish": "półka",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "тумбочка",
+      "polish": "szafka nocna",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "письменный стол",
+      "polish": "biurko",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "шторы",
+      "polish": "zasłony",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "занавески",
+      "polish": "firanki",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "ковёр",
+      "polish": "dywan",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "подушка",
+      "polish": "poduszka",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "одеяло",
+      "polish": "kołdra",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "покрывало",
+      "polish": "narzuta",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "картина",
+      "polish": "obraz",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "зеркало",
+      "polish": "lustro",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "лампа",
+      "polish": "lampa",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "люстра",
+      "polish": "żyrandol",
+      "category": "Помещение и мебель"
+    }
+  ]
+}
