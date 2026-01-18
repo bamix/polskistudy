@@ -23,16 +23,37 @@
               </v-chip-group>
               <div v-if="!activeCategories.length" class="text-caption text-disabled mt-1">(wszystkie kategorie)</div>
             </div>
+            <div class="d-flex flex-column" style="min-width:150px;">
+              <span class="text-caption text-medium-emphasis mb-1">Opcje</span>
+              <v-checkbox 
+                v-model="enableRepeats" 
+                label="Powtórki" 
+                density="comfortable" 
+                hide-details
+                color="warning"
+              />
+              <div class="text-caption text-disabled mt-1">({{ enableRepeats ? 'pokazuj' : 'ukryj' }} błędne odpowiedzi)</div>
+            </div>
           </div>
         </v-expand-transition>
         <div class="mb-4 d-flex flex-column align-center text-center">
           <div class="d-flex align-center justify-center" style="gap:.5rem;">
             <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium" style="letter-spacing:.5px;">Tłumaczenie na rosyjski</div>
+            <v-chip v-if="question.isRepeat" size="x-small" color="warning" variant="flat">powtórka</v-chip>
           </div>
+          <!-- Add a tooltip for the guessed word -->
           <div class="text-h4 font-weight-bold mt-3 d-flex flex-row flex-wrap align-center justify-center" style="line-height:1.15; gap:.5rem;">
-            <span class="text-primary">{{ question.russian }}</span>
+            <v-tooltip location="bottom" open-on-click>
+              <template #activator="{ props }">
+                <span v-bind="props" class="cursor-pointer text-primary">{{ question.russian }}</span>
+              </template>
+              <span>{{ question.polish[0] }}...{{ question.polish.slice(-1) }}</span>
+            </v-tooltip>
           </div>
           <div class="text-caption text-medium-emphasis text-uppercase font-weight-medium mt-4" style="letter-spacing:.5px;">Wpisz słowo po polsku</div>
+          <div class="text-caption text-disabled mt-1">
+            ({{ wordsSubmitted }}/{{ filteredWords.length }})
+          </div>
         </div>
 
         <v-text-field
@@ -85,7 +106,8 @@ import { ref, reactive, onMounted, onUnmounted, computed, nextTick, watch } from
 const question = reactive({
   russian: '',
   polish: '',
-  category: ''
+  category: '',
+  isRepeat: false // Added isRepeat flag
 })
 
 const answer = ref('')
@@ -151,6 +173,14 @@ watch(
   { deep: true }
 )
 
+// Watch for changes in filters and reset remainingWords
+watch(
+  activeCategories,
+  () => {
+    remainingWords.value = [...filteredWords.value];
+  }
+);
+
 // Get filtered words
 const filteredWords = computed(() => {
   if (!activeCategories.value.length) {
@@ -158,6 +188,61 @@ const filteredWords = computed(() => {
   }
   return allWords.value.filter(w => activeCategories.value.includes(w.category))
 })
+
+// Repetition logic
+const incorrectQuestions = ref([])
+const REPEAT_PROBABILITY = 0.3 // 30% chance to repeat incorrect question
+const MAX_INCORRECT_STORE = 20 // Maximum number of incorrect questions to store
+const enableRepeats = ref(true) // whether to show repeat questions
+
+function addIncorrectQuestion(questionData) {
+  const incorrectQ = {
+    russian: questionData.russian,
+    polish: questionData.polish,
+    category: questionData.category,
+    timestamp: Date.now(),
+    correctCount: 0 // Track how many times answered correctly in review
+  }
+
+  incorrectQuestions.value.unshift(incorrectQ)
+
+  if (incorrectQuestions.value.length > MAX_INCORRECT_STORE) {
+    incorrectQuestions.value = incorrectQuestions.value.slice(0, MAX_INCORRECT_STORE)
+  }
+}
+
+function removeFromIncorrectQuestions(questionData) {
+  const index = incorrectQuestions.value.findIndex(q => 
+    q.russian === questionData.russian && 
+    q.polish === questionData.polish && 
+    q.category === questionData.category
+  )
+
+  if (index !== -1) {
+    incorrectQuestions.value.splice(index, 1)
+  }
+}
+
+function shouldRepeatIncorrectQuestion() {
+  return incorrectQuestions.value.length > 0 && Math.random() < REPEAT_PROBABILITY
+}
+
+function getIncorrectQuestion() {
+  if (incorrectQuestions.value.length === 0) return null
+
+  const weights = incorrectQuestions.value.map((_, index) => Math.pow(0.8, index))
+  const totalWeight = weights.reduce((sum, w) => sum + w, 0)
+  let random = Math.random() * totalWeight
+
+  for (let i = 0; i < weights.length; i++) {
+    random -= weights[i]
+    if (random <= 0) {
+      return incorrectQuestions.value[i]
+    }
+  }
+
+  return incorrectQuestions.value[0] // fallback
+}
 
 // Load data and initialize
 async function loadData() {
@@ -188,7 +273,25 @@ function nextQuestion() {
   }
   lockUntil.value = 0
 
-  // Initialize remaining words if empty
+  if (enableRepeats.value && shouldRepeatIncorrectQuestion()) {
+    const incorrectQ = getIncorrectQuestion()
+    if (incorrectQ) {
+      question.russian = incorrectQ.russian
+      question.polish = incorrectQ.polish
+      question.category = incorrectQ.category
+      question.isRepeat = true // Mark as a repeat question
+
+      answer.value = ''
+      result.checked = false
+      result.isCorrect = false
+      result.message = ''
+      result.correctAnswer = ''
+
+      focusAnswer()
+      return
+    }
+  }
+
   if (remainingWords.value.length === 0) {
     remainingWords.value = [...filteredWords.value]
   }
@@ -197,13 +300,13 @@ function nextQuestion() {
 
   const randomIndex = Math.floor(Math.random() * remainingWords.value.length)
   const randomWord = remainingWords.value[randomIndex]
-  
-  // Remove selected word from remaining
+
   remainingWords.value.splice(randomIndex, 1)
-  
+
   question.russian = randomWord.russian
   question.polish = randomWord.polish
   question.category = randomWord.category
+  question.isRepeat = false // Not a repeat question
 
   answer.value = ''
   result.checked = false
@@ -217,7 +320,7 @@ function nextQuestion() {
 function submitAnswer() {
   if (!result.checked && disableSubmitEmpty.value) return
   if (result.checked) {
-    // Если ответ неправильный и таймер ещё работает, не переходим
+    // Если ответ неправильny и таймер ещё работает, не переходим
     if (!result.isCorrect && disableActions.value) {
       return
     }
@@ -234,11 +337,37 @@ function submitAnswer() {
   result.isCorrect = isCorrect
 
   if (isCorrect) {
-    result.message = 'Prawidłowo!'
+    result.message = 'Dobrze!'
     result.correctAnswer = ''
+
+    const incorrectIndex = incorrectQuestions.value.findIndex(q => 
+      q.russian === question.russian && 
+      q.polish === question.polish && 
+      q.category === question.category
+    )
+
+    if (incorrectIndex !== -1) {
+      incorrectQuestions.value[incorrectIndex].correctCount++
+
+      if (incorrectQuestions.value[incorrectIndex].correctCount >= 2) {
+        removeFromIncorrectQuestions(question)
+      }
+    }
   } else {
     result.message = 'Źle.'
     result.correctAnswer = question.polish
+
+    const incorrectIndex = incorrectQuestions.value.findIndex(q => 
+      q.russian === question.russian && 
+      q.polish === question.polish && 
+      q.category === question.category
+    )
+
+    if (incorrectIndex !== -1) {
+      incorrectQuestions.value[incorrectIndex].correctCount = 0
+    } else {
+      addIncorrectQuestion(question)
+    }
   }
 
   // Update stats
@@ -290,12 +419,17 @@ function handleGlobalKeydown(event) {
   }
 }
 
-// Watch for filter changes and regenerate question
-watch(filteredWords, () => {
-  remainingWords.value = []
-  nextQuestion()
-})
+const wordsSubmitted = computed(() => {
+  return filteredWords.value.length - remainingWords.value.length;
+});
 
+// Add a computed property for the tooltip hint
+const tooltipHint = computed(() => {
+  if (!question.polish) return '';
+  const firstLetter = question.polish[0];
+  const lastLetter = question.polish[question.polish.length - 1];
+  return `${firstLetter}...${lastLetter}`;
+});
 
 onMounted(() => {
   document.addEventListener('keydown', handleGlobalKeydown)

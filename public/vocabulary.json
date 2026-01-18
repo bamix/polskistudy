@@ -108,7 +108,7 @@
     },
     {
       "russian": "комбинезон",
-      "polish": "ogrodniczki",
+      "polish": "ogrodniczek",
       "category": "Одежда"
     },
     {
@@ -508,7 +508,7 @@
     },
     {
       "russian": "диван",
-      "polish": "sofa / kanapa",
+      "polish": "sofa",
       "category": "Помещение и мебель"
     },
     {
@@ -549,11 +549,6 @@
     {
       "russian": "шторы",
       "polish": "zasłony",
-      "category": "Помещение и мебель"
-    },
-    {
-      "russian": "занавески",
-      "polish": "firanki",
       "category": "Помещение и мебель"
     },
     {
