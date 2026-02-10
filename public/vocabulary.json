@@ -3,7 +3,8 @@
     "Одежда",
     "Части тела",
     "Эмоции",
-    "Помещение и мебель"
+    "Помещение и мебель",
+    "Союзы"
   ],
   "words": [
     {
@@ -78,7 +79,7 @@
     },
     {
       "russian": "юбка",
-      "polish": "spódniczka",
+      "polish": "spódnica",
       "category": "Одежда"
     },
     {
@@ -590,6 +591,171 @@
       "russian": "люстра",
       "polish": "żyrandol",
       "category": "Помещение и мебель"
+    },
+    {
+      "russian": "зонтик",
+      "polish": "parasol",
+      "category": "Одежда"
+    },
+    {
+      "russian": "цепочка",
+      "polish": "łańcuszek",
+      "category": "Одежда"
+    },
+    {
+      "russian": "украшение",
+      "polish": "ozdoba",
+      "category": "Одежда"
+    },
+    {
+      "russian": "в полоску",
+      "polish": "w paski",
+      "category": "Одежда"
+    },
+    {
+      "russian": "в крапинку",
+      "polish": "w kropki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "сплетеные",
+      "polish": "zaplecione",
+      "category": "Части тела"
+    },
+    {
+      "russian": "кудрявые",
+      "polish": "kręcone",
+      "category": "Части тела"
+    },
+    {
+      "russian": "чёлка",
+      "polish": "grzywka",
+      "category": "Части тела"
+    },
+    {
+      "russian": "усы",
+      "polish": "wąsy",
+      "category": "Части тела"
+    },
+    {
+      "russian": "щетина",
+      "polish": "zarost",
+      "category": "Части тела"
+    },
+    {
+      "russian": "борода",
+      "polish": "broda",
+      "category": "Части тела"
+    },
+    {
+      "russian": "туфли",
+      "polish": "półbuty",
+      "category": "Одежда"
+    },
+    {
+      "russian": "сапоги",
+      "polish": "kozaki",
+      "category": "Одежда"
+    },
+    {
+      "russian": "стеллаж",
+      "polish": "regał",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "бра",
+      "polish": "kinkiet",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "батарея",
+      "polish": "grzejnik",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "вентилятор",
+      "polish": "wentylator",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "ваза",
+      "polish": "wazon",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "лист бумаги",
+      "polish": "kartka papieru",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "кожанный",
+      "polish": "skórzany",
+      "category": "Одежда"
+    },
+    {
+      "russian": "проём",
+      "polish": "otwór",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "колонна",
+      "polish": "kolumna",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "раковина",
+      "polish": "zlew",
+      "category": "Помещение и мебель"
+    },
+    {
+      "russian": "потому что",
+      "polish": "ponieważ",
+      "category": "Союзы"
+    },
+    {
+      "russian": "хотя",
+      "polish": "chociaż",
+      "category": "Союзы"
+    },
+    {
+      "russian": "то есть",
+      "polish": "czyli",
+      "category": "Союзы"
+    },
+    {
+      "russian": "однако",
+      "polish": "jednak",
+      "category": "Союзы"
+    },
+    {
+      "russian": "а также",
+      "polish": "oraz",
+      "category": "Союзы"
+    },
+    {
+      "russian": "итак",
+      "polish": "zatem",
+      "category": "Союзы"
+    },
+    {
+      "russian": "зато",
+      "polish": "natomiast",
+      "category": "Союзы"
+    },
+    {
+      "russian": "поэтому",
+      "polish": "dlatego",
+      "category": "Союзы"
+    },
+    {
+      "russian": "так что",
+      "polish": "więc",
+      "category": "Союзы"
+    },
+    {
+      "russian": "а именно",
+      "polish": "mianowicie",
+      "category": "Союзы"
     }
   ]
 }
